@@ -56561,6 +56561,16 @@
       "remaining": 270,
       "id": 547,
       "created_at": "2026-06-17T11:55:39.361Z"
+    },
+    {
+      "customer_id": 188,
+      "total_amount": 205,
+      "down_payment": 0,
+      "description": "باقي",
+      "date": "2026-06-17",
+      "remaining": 205,
+      "id": 548,
+      "created_at": "2026-06-17T18:06:14.780Z"
     }
   ],
   "inst_payments": [
@@ -69232,6 +69242,12 @@
       "id": 64,
       "opened_at": "2026-06-17T15:55:59.243Z",
       "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "id": 65,
+      "opened_at": "2026-06-17T17:01:12.628Z",
+      "closed_at": null
     }
   ],
   "users": [
@@ -69308,7 +69324,7 @@
     "telegramChatId": "8497521086",
     "externalBackupPath": "C:\\Users\\Hosouba\\Downloads\\gaza-data",
     "githubRepo": "YuossefAbdulQawi/pos-data",
-    "githubPath": "shop3.json",
+    "githubPath": "shop1.json",
     "telegramBackupInterval": "1"
   }
 }
