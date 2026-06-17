@@ -819,6 +819,7 @@
     "telegramChatId": "8497521086",
     "externalBackupPath": "C:\\Users\\c3314\\Downloads\\gaza-bak",
     "githubRepo": "YuossefAbdulQawi/pos-data",
-    "githubPath": "data.json"
+    "githubPath": "data.json",
+    "telegramBackupInterval": "1"
   }
 }
