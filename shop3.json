@@ -46,7 +46,7 @@
       "brand_id": "",
       "buy_price": 5,
       "sell_price": 7,
-      "stock": 131,
+      "stock": 109,
       "min_stock": 50,
       "expiry_date": "",
       "unit": "قطعة",
@@ -914,6 +914,38 @@
       "is_madasha": false,
       "id": 10,
       "date": "2026-06-17T21:08:35.597Z"
+    },
+    {
+      "items": [
+        {
+          "name": "إندومي نكهة الدجاج",
+          "barcode": "089686010041",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 5,
+          "sell_price": 7,
+          "stock": 131,
+          "min_stock": 50,
+          "expiry_date": "",
+          "unit": "قطعة",
+          "weight": "",
+          "description": "",
+          "icon": "🍜",
+          "pos_type": "main",
+          "id": 3,
+          "created_at": "2026-06-16T20:33:24.657Z",
+          "quantity": 22
+        }
+      ],
+      "subtotal": 154,
+      "discount": 0,
+      "total": 154,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 11,
+      "date": "2026-06-17T21:10:09.442Z"
     }
   ],
   "customers": [
@@ -1038,6 +1070,13 @@
       "amount": 199,
       "note": "فاتورة بيع #10",
       "date": "2026-06-17T21:08:35.607Z"
+    },
+    {
+      "id": 14,
+      "type": "in",
+      "amount": 154,
+      "note": "فاتورة بيع #11",
+      "date": "2026-06-17T21:10:09.452Z"
     }
   ],
   "vodafone": [
