@@ -1100,6 +1100,12 @@
       "id": 15,
       "opened_at": "2026-06-17T14:26:30.698Z",
       "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "id": 16,
+      "opened_at": "2026-06-17T21:05:05.815Z",
+      "closed_at": null
     }
   ],
   "users": [
