@@ -122,7 +122,7 @@
       "brand_id": null,
       "buy_price": 1,
       "sell_price": 2,
-      "stock": 100,
+      "stock": 99,
       "min_stock": 20,
       "expiry_date": "",
       "unit": "قطعة",
@@ -738,6 +738,38 @@
       "is_madasha": false,
       "id": 7,
       "date": "2026-06-17T14:41:21.073Z"
+    },
+    {
+      "items": [
+        {
+          "name": "استروكس",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 1,
+          "sell_price": 2,
+          "stock": 100,
+          "min_stock": 20,
+          "expiry_date": "",
+          "unit": "قطعة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "main",
+          "id": 7,
+          "created_at": "2026-06-17T14:42:42.145Z",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 2,
+      "discount": 0,
+      "total": 2,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 8,
+      "date": "2026-06-17T14:42:58.953Z"
     }
   ],
   "customers": [
@@ -834,6 +866,13 @@
       "amount": 120,
       "note": "فاتورة بيع #7",
       "date": "2026-06-17T14:41:21.077Z"
+    },
+    {
+      "id": 10,
+      "type": "in",
+      "amount": 2,
+      "note": "فاتورة بيع #8",
+      "date": "2026-06-17T14:42:58.954Z"
     }
   ],
   "vodafone": [
