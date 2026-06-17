@@ -1289,7 +1289,7 @@
       "brand_id": null,
       "buy_price": 585,
       "sell_price": 600,
-      "stock": 4,
+      "stock": 15,
       "min_stock": 2,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1308,7 +1308,7 @@
       "brand_id": null,
       "buy_price": 290,
       "sell_price": 300,
-      "stock": 7,
+      "stock": 17,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1794,7 +1794,7 @@
       "department_id": null,
       "buy_price": 495,
       "sell_price": 500,
-      "stock": 2,
+      "stock": 0,
       "min_stock": 1,
       "unit": "علبة",
       "icon": "📦",
@@ -2547,7 +2547,7 @@
       "brand_id": null,
       "buy_price": 480,
       "sell_price": 550,
-      "stock": 8,
+      "stock": 6,
       "min_stock": 5,
       "expiry_date": "",
       "unit": "شكارة",
@@ -3889,7 +3889,7 @@
       "brand_id": null,
       "buy_price": 14.3,
       "sell_price": 14.8,
-      "stock": 1348,
+      "stock": 148,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4041,7 +4041,7 @@
       "brand_id": null,
       "buy_price": 13.7,
       "sell_price": 14.5,
-      "stock": 2430,
+      "stock": 1530,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4060,7 +4060,7 @@
       "brand_id": null,
       "buy_price": 23.5,
       "sell_price": 26,
-      "stock": 403,
+      "stock": 103,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4079,7 +4079,7 @@
       "brand_id": null,
       "buy_price": 21,
       "sell_price": 24,
-      "stock": 598.75,
+      "stock": 398.75,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4231,7 +4231,7 @@
       "brand_id": null,
       "buy_price": 20,
       "sell_price": 50,
-      "stock": 233,
+      "stock": 213,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -50089,6 +50089,182 @@
       "is_madasha": false,
       "id": 646,
       "date": "2026-06-17T12:07:22.170Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نخاله 40ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 480,
+          "sell_price": 550,
+          "stock": 8,
+          "min_stock": 5,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 174,
+          "created_at": "2026-05-10T08:35:14.681Z",
+          "pos_type": "main",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1100,
+      "discount": 0,
+      "total": 1100,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 647,
+      "date": "2026-06-17T21:00:26.720Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دره صفرا برزيلي",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 14.3,
+          "sell_price": 14.8,
+          "stock": 1348,
+          "min_stock": 200,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 262,
+          "created_at": "2026-05-23T21:33:28.844Z",
+          "quantity": 1200
+        },
+        {
+          "name": "نخاله",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.7,
+          "sell_price": 14.5,
+          "stock": 2430,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 270,
+          "created_at": "2026-05-29T09:46:17.375Z",
+          "quantity": 900
+        },
+        {
+          "name": "مستخلص",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 21,
+          "sell_price": 24,
+          "stock": 598.75,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 272,
+          "created_at": "2026-05-29T09:49:44.422Z",
+          "quantity": 200
+        },
+        {
+          "name": "فولصويا",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 23.5,
+          "sell_price": 26,
+          "stock": 403,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 271,
+          "created_at": "2026-05-29T09:48:04.654Z",
+          "quantity": 300
+        },
+        {
+          "name": "اضفات",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 20,
+          "sell_price": 50,
+          "stock": 233,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 280,
+          "created_at": "2026-05-30T14:26:45.537Z",
+          "quantity": 20
+        }
+      ],
+      "subtotal": 44410,
+      "discount": 0,
+      "total": 44410,
+      "cashier": "gaza",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 648,
+      "date": "2026-06-17T21:25:57.623Z"
+    },
+    {
+      "items": [
+        {
+          "name": "سجاير كليو باترا",
+          "barcode": "6221004001976",
+          "department_id": null,
+          "buy_price": 495,
+          "sell_price": 500,
+          "stock": 2,
+          "min_stock": 1,
+          "unit": "علبة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 121,
+          "created_at": "2026-05-06T10:58:15.061Z",
+          "pos_type": "main",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1000,
+      "discount": 0,
+      "total": 1000,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 649,
+      "date": "2026-06-17T21:47:35.710Z"
     }
   ],
   "customers": [
@@ -51611,6 +51787,14 @@
       "notes": "",
       "id": 207,
       "created_at": "2026-06-16T14:17:08.908Z"
+    },
+    {
+      "name": "مصطفي  العمريه",
+      "phone": "",
+      "address": "العمريه",
+      "notes": "",
+      "id": 208,
+      "created_at": "2026-06-17T21:35:40.143Z"
     }
   ],
   "installments": [
@@ -55070,16 +55254,6 @@
       "created_at": "2026-05-26T16:30:02.703Z"
     },
     {
-      "customer_id": 94,
-      "total_amount": 440,
-      "down_payment": 0,
-      "description": "بس",
-      "date": "2026-05-26",
-      "remaining": 440,
-      "id": 394,
-      "created_at": "2026-05-26T16:41:35.049Z"
-    },
-    {
       "customer_id": 105,
       "total_amount": 635,
       "down_payment": 0,
@@ -56571,6 +56745,56 @@
       "remaining": 205,
       "id": 548,
       "created_at": "2026-06-17T18:06:14.780Z"
+    },
+    {
+      "customer_id": 94,
+      "total_amount": 165,
+      "down_payment": 0,
+      "description": "ببس",
+      "date": "2026-06-17",
+      "remaining": 165,
+      "id": 549,
+      "created_at": "2026-06-17T20:37:35.677Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 9215,
+      "down_payment": 0,
+      "description": "دشيش اشر",
+      "date": "2026-06-17",
+      "remaining": 9215,
+      "id": 550,
+      "created_at": "2026-06-17T21:29:00.257Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 1710,
+      "down_payment": 0,
+      "description": "لب",
+      "date": "2026-06-17",
+      "remaining": 1710,
+      "id": 551,
+      "created_at": "2026-06-17T21:31:00.800Z"
+    },
+    {
+      "customer_id": 208,
+      "total_amount": 9790,
+      "down_payment": 0,
+      "description": "1طن علف",
+      "date": "2026-06-17",
+      "remaining": 9790,
+      "id": 552,
+      "created_at": "2026-06-17T21:36:22.102Z"
+    },
+    {
+      "customer_id": 60,
+      "total_amount": 26100,
+      "down_payment": 0,
+      "description": "1طن علف نصطن نخاله",
+      "date": "2026-06-17",
+      "remaining": 26100,
+      "id": 553,
+      "created_at": "2026-06-17T21:42:37.686Z"
     }
   ],
   "inst_payments": [
@@ -58482,6 +58706,20 @@
       "note": "سداد",
       "id": 291,
       "date": "2026-06-17T15:21:11.328Z"
+    },
+    {
+      "customer_id": 94,
+      "amount": 6400,
+      "note": "",
+      "id": 292,
+      "date": "2026-06-17T20:34:54.784Z"
+    },
+    {
+      "customer_id": 94,
+      "amount": 4665,
+      "note": "",
+      "id": 293,
+      "date": "2026-06-17T20:42:18.931Z"
     }
   ],
   "creditors": [
@@ -60561,6 +60799,13 @@
       "note": "",
       "id": 155,
       "date": "2026-06-16T16:50:55.711Z"
+    },
+    {
+      "creditor_id": 13,
+      "amount": 5175,
+      "note": "سداد",
+      "id": 156,
+      "date": "2026-06-17T18:31:43.386Z"
     }
   ],
   "treasury": [
@@ -68704,6 +68949,48 @@
       "note": "سداد دفعة - ام احمد نادي ",
       "id": 1163,
       "date": "2026-06-17T15:21:11.330Z"
+    },
+    {
+      "type": "out",
+      "amount": 5175,
+      "note": "سداد دين - وائل زيت اسرار (سداد)",
+      "id": 1164,
+      "date": "2026-06-17T18:31:43.388Z"
+    },
+    {
+      "type": "in",
+      "amount": 6400,
+      "note": "سداد دفعة - ابو احمد ماهر المساكن ",
+      "id": 1165,
+      "date": "2026-06-17T20:34:54.786Z"
+    },
+    {
+      "type": "in",
+      "amount": 4665,
+      "note": "سداد دفعة - ابو احمد ماهر المساكن ",
+      "id": 1166,
+      "date": "2026-06-17T20:42:18.933Z"
+    },
+    {
+      "id": 1167,
+      "type": "in",
+      "amount": 1100,
+      "note": "فاتورة بيع #647",
+      "date": "2026-06-17T21:00:26.739Z"
+    },
+    {
+      "id": 1168,
+      "type": "in",
+      "amount": 44410,
+      "note": "فاتورة بيع #648",
+      "date": "2026-06-17T21:25:57.643Z"
+    },
+    {
+      "id": 1169,
+      "type": "in",
+      "amount": 1000,
+      "note": "فاتورة بيع #649",
+      "date": "2026-06-17T21:47:35.730Z"
     }
   ],
   "expenses": [
