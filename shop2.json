@@ -8,7 +8,7 @@
       "brand_id": "",
       "buy_price": 8,
       "sell_price": 10,
-      "stock": 89,
+      "stock": 76,
       "min_stock": 20,
       "expiry_date": "",
       "unit": "علبة",
@@ -27,7 +27,7 @@
       "brand_id": "",
       "buy_price": 8,
       "sell_price": 10,
-      "stock": 23,
+      "stock": 15,
       "min_stock": 20,
       "expiry_date": "",
       "unit": "علبة",
@@ -1318,6 +1318,58 @@
       "is_madasha": false,
       "id": 17,
       "date": "2026-06-18T17:40:00.322Z"
+    },
+    {
+      "items": [
+        {
+          "name": "كوكاكولا 330مل",
+          "barcode": "5449000000996",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 8,
+          "sell_price": 10,
+          "stock": 89,
+          "min_stock": 20,
+          "expiry_date": "",
+          "unit": "علبة",
+          "weight": "",
+          "description": "",
+          "icon": "🥤",
+          "pos_type": "main",
+          "id": 1,
+          "created_at": "2026-06-16T20:33:24.642Z",
+          "quantity": 13
+        },
+        {
+          "name": "بيبسي 330مل",
+          "barcode": "6221017013327",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 8,
+          "sell_price": 10,
+          "stock": 23,
+          "min_stock": 20,
+          "expiry_date": "",
+          "unit": "علبة",
+          "weight": "",
+          "description": "",
+          "icon": "🥤",
+          "pos_type": "main",
+          "id": 2,
+          "created_at": "2026-06-16T20:33:24.657Z",
+          "quantity": 8
+        }
+      ],
+      "subtotal": 210,
+      "discount": 0,
+      "total": 210,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 18,
+      "date": "2026-06-18T17:42:08.581Z"
     }
   ],
   "customers": [
@@ -1491,6 +1543,13 @@
       "amount": 402,
       "note": "فاتورة بيع #17",
       "date": "2026-06-18T17:40:00.323Z"
+    },
+    {
+      "id": 21,
+      "type": "in",
+      "amount": 210,
+      "note": "فاتورة بيع #18",
+      "date": "2026-06-18T17:42:08.582Z"
     }
   ],
   "vodafone": [
