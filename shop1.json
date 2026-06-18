@@ -3889,7 +3889,7 @@
       "brand_id": null,
       "buy_price": 13.95,
       "sell_price": 14.6,
-      "stock": 30955,
+      "stock": 25765,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -3908,7 +3908,7 @@
       "brand_id": null,
       "buy_price": 1.3,
       "sell_price": 2.3,
-      "stock": 5142,
+      "stock": 4602,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -50316,6 +50316,58 @@
       "is_madasha": false,
       "id": 650,
       "date": "2026-06-18T13:21:19.364Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دره صفرا برزيلي",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.95,
+          "sell_price": 14.6,
+          "stock": 30955,
+          "min_stock": 200,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 262,
+          "created_at": "2026-05-23T21:33:28.844Z",
+          "quantity": 5190
+        },
+        {
+          "name": "بديل",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 1.3,
+          "sell_price": 2.3,
+          "stock": 5142,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 263,
+          "created_at": "2026-05-24T13:10:02.966Z",
+          "quantity": 540
+        }
+      ],
+      "subtotal": 77016,
+      "discount": 0,
+      "total": 77016,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 651,
+      "date": "2026-06-18T17:30:48.853Z"
     }
   ],
   "customers": [
@@ -69131,6 +69183,13 @@
       "note": "سداد دين - محمد عبد العزيز فهمي ",
       "id": 1173,
       "date": "2026-06-18T17:15:11.567Z"
+    },
+    {
+      "id": 1174,
+      "type": "in",
+      "amount": 77016,
+      "note": "فاتورة بيع #651",
+      "date": "2026-06-18T17:30:48.875Z"
     }
   ],
   "expenses": [
