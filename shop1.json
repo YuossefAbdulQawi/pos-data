@@ -5343,6 +5343,25 @@
       "pos_type": "main",
       "id": 339,
       "created_at": "2026-06-16T13:43:44.520Z"
+    },
+    {
+      "name": "نسكافية كلاسيك",
+      "barcode": "6221007051114",
+      "department_id": null,
+      "sub_department_id": null,
+      "brand_id": null,
+      "buy_price": 4,
+      "sell_price": 5,
+      "stock": 57,
+      "min_stock": 25,
+      "expiry_date": "",
+      "unit": "قطعة",
+      "weight": "",
+      "description": "",
+      "icon": "📦",
+      "pos_type": "main",
+      "id": 340,
+      "created_at": "2026-06-18T10:14:00.737Z"
     }
   ],
   "sales": [
@@ -56795,6 +56814,36 @@
       "remaining": 26100,
       "id": 553,
       "created_at": "2026-06-17T21:42:37.686Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 50,
+      "down_payment": 0,
+      "description": "علفه",
+      "date": "2026-06-18",
+      "remaining": 50,
+      "id": 554,
+      "created_at": "2026-06-18T08:53:58.054Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 245,
+      "down_payment": 0,
+      "description": "فاتوره",
+      "date": "2026-06-18",
+      "remaining": 245,
+      "id": 555,
+      "created_at": "2026-06-18T09:10:41.929Z"
+    },
+    {
+      "customer_id": 91,
+      "total_amount": 2215,
+      "down_payment": 0,
+      "description": "فاتوره",
+      "date": "2026-06-18",
+      "remaining": 2215,
+      "id": 556,
+      "created_at": "2026-06-18T09:19:22.749Z"
     }
   ],
   "inst_payments": [
@@ -58720,6 +58769,20 @@
       "note": "",
       "id": 293,
       "date": "2026-06-17T20:42:18.931Z"
+    },
+    {
+      "customer_id": 205,
+      "amount": 10000,
+      "note": "",
+      "id": 294,
+      "date": "2026-06-18T07:47:21.702Z"
+    },
+    {
+      "customer_id": 91,
+      "amount": 2000,
+      "note": "سداد",
+      "id": 295,
+      "date": "2026-06-18T09:11:11.097Z"
     }
   ],
   "creditors": [
@@ -68991,6 +69054,20 @@
       "amount": 1000,
       "note": "فاتورة بيع #649",
       "date": "2026-06-17T21:47:35.730Z"
+    },
+    {
+      "type": "in",
+      "amount": 10000,
+      "note": "سداد دفعة - غزه 2",
+      "id": 1170,
+      "date": "2026-06-18T07:47:21.704Z"
+    },
+    {
+      "type": "in",
+      "amount": 2000,
+      "note": "سداد دفعة - ام محمد اسماعيل ",
+      "id": 1171,
+      "date": "2026-06-18T09:11:11.099Z"
     }
   ],
   "expenses": [
@@ -69534,6 +69611,18 @@
       "username": "gaza",
       "id": 65,
       "opened_at": "2026-06-17T17:01:12.628Z",
+      "closed_at": null
+    },
+    {
+      "username": "محمود",
+      "id": 66,
+      "opened_at": "2026-06-18T06:23:42.978Z",
+      "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "id": 67,
+      "opened_at": "2026-06-18T11:11:38.208Z",
       "closed_at": null
     }
   ],
