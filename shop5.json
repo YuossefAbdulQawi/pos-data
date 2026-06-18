@@ -278,7 +278,7 @@
       "department_id": null,
       "buy_price": 204,
       "sell_price": 205,
-      "stock": 17,
+      "stock": 0,
       "min_stock": 2,
       "unit": "علبة",
       "icon": "📦",
@@ -50754,6 +50754,38 @@
       "is_madasha": false,
       "id": 651,
       "date": "2026-06-18T17:45:49.982Z"
+    },
+    {
+      "items": [
+        {
+          "name": "شاي عروسة ربع",
+          "barcode": "6222002300030",
+          "department_id": null,
+          "buy_price": 204,
+          "sell_price": 205,
+          "stock": 17,
+          "min_stock": 2,
+          "unit": "علبة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 20,
+          "created_at": "2026-05-05T12:54:26.893Z",
+          "pos_type": "main",
+          "quantity": 17
+        }
+      ],
+      "subtotal": 3485,
+      "discount": 0,
+      "total": 3485,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 652,
+      "date": "2026-06-18T17:46:38.282Z"
     }
   ],
   "customers": [
@@ -69494,6 +69526,13 @@
       "amount": 4870,
       "note": "فاتورة بيع #651",
       "date": "2026-06-18T17:45:50.028Z"
+    },
+    {
+      "id": 1172,
+      "type": "in",
+      "amount": 3485,
+      "note": "فاتورة بيع #652",
+      "date": "2026-06-18T17:46:38.330Z"
     }
   ],
   "expenses": [
