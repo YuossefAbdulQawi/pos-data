@@ -8,7 +8,7 @@
       "brand_id": "",
       "buy_price": 8,
       "sell_price": 10,
-      "stock": 97,
+      "stock": 94,
       "min_stock": 20,
       "expiry_date": "",
       "unit": "علبة",
@@ -27,7 +27,7 @@
       "brand_id": "",
       "buy_price": 8,
       "sell_price": 10,
-      "stock": 94,
+      "stock": 92,
       "min_stock": 20,
       "expiry_date": "",
       "unit": "علبة",
@@ -207,6 +207,58 @@
       "is_madasha": false,
       "id": 1,
       "date": "2026-06-18T19:58:12.386Z"
+    },
+    {
+      "items": [
+        {
+          "name": "كوكاكولا 330مل",
+          "barcode": "5449000000996",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 8,
+          "sell_price": 10,
+          "stock": 97,
+          "min_stock": 20,
+          "expiry_date": "",
+          "unit": "علبة",
+          "weight": "",
+          "description": "",
+          "icon": "🥤",
+          "pos_type": "main",
+          "id": 1,
+          "created_at": "2026-06-18T19:57:29.098Z",
+          "quantity": 3
+        },
+        {
+          "name": "بيبسي 330مل",
+          "barcode": "6221017013327",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 8,
+          "sell_price": 10,
+          "stock": 94,
+          "min_stock": 20,
+          "expiry_date": "",
+          "unit": "علبة",
+          "weight": "",
+          "description": "",
+          "icon": "🥤",
+          "pos_type": "main",
+          "id": 2,
+          "created_at": "2026-06-18T19:57:29.128Z",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 50,
+      "discount": 0,
+      "total": 50,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 2,
+      "date": "2026-06-18T19:59:25.114Z"
     }
   ],
   "treasury": [
@@ -216,6 +268,13 @@
       "amount": 144,
       "note": "فاتورة بيع #1",
       "date": "2026-06-18T19:58:12.387Z"
+    },
+    {
+      "id": 2,
+      "type": "in",
+      "amount": 50,
+      "note": "فاتورة بيع #2",
+      "date": "2026-06-18T19:59:25.115Z"
     }
   ],
   "shifts": [
