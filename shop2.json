@@ -46,7 +46,7 @@
       "brand_id": null,
       "buy_price": 80,
       "sell_price": 140,
-      "stock": 21.284999999999982,
+      "stock": 21.21399999999998,
       "min_stock": 5,
       "expiry_date": "",
       "unit": "كيلو",
@@ -31434,6 +31434,38 @@
       "is_madasha": false,
       "id": 506,
       "date": "2026-06-18T22:14:10.469Z"
+    },
+    {
+      "items": [
+        {
+          "name": "لب عباد عريض",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 80,
+          "sell_price": 140,
+          "stock": 21.284999999999982,
+          "min_stock": 5,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "main",
+          "id": 3,
+          "created_at": "2026-06-12T11:55:06.320Z",
+          "quantity": 0.071
+        }
+      ],
+      "subtotal": 9.94,
+      "discount": 0,
+      "total": 9.94,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 507,
+      "date": "2026-06-18T22:33:57.237Z"
     }
   ],
   "creditors": [
@@ -35174,6 +35206,13 @@
       "amount": 85,
       "note": "فاتورة بيع #506",
       "date": "2026-06-18T22:14:10.498Z"
+    },
+    {
+      "id": 523,
+      "type": "in",
+      "amount": 9.94,
+      "note": "فاتورة بيع #507",
+      "date": "2026-06-18T22:33:57.262Z"
     }
   ],
   "shifts": [
