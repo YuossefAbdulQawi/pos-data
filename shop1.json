@@ -1308,7 +1308,7 @@
       "brand_id": null,
       "buy_price": 290,
       "sell_price": 300,
-      "stock": 17,
+      "stock": 30,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -2547,7 +2547,7 @@
       "brand_id": null,
       "buy_price": 480,
       "sell_price": 550,
-      "stock": 6,
+      "stock": 16,
       "min_stock": 5,
       "expiry_date": "",
       "unit": "شكارة",
@@ -3887,9 +3887,9 @@
       "department_id": null,
       "sub_department_id": null,
       "brand_id": null,
-      "buy_price": 14.3,
-      "sell_price": 14.8,
-      "stock": 148,
+      "buy_price": 13.95,
+      "sell_price": 14.6,
+      "stock": 30955,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -50284,6 +50284,38 @@
       "is_madasha": false,
       "id": 649,
       "date": "2026-06-17T21:47:35.710Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نخاله 40ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 480,
+          "sell_price": 550,
+          "stock": 6,
+          "min_stock": 5,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 174,
+          "created_at": "2026-05-10T08:35:14.681Z",
+          "pos_type": "main",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 550,
+      "discount": 0,
+      "total": 550,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 650,
+      "date": "2026-06-18T13:21:19.364Z"
     }
   ],
   "customers": [
@@ -59901,6 +59933,16 @@
       "remaining": 5825,
       "id": 102,
       "created_at": "2026-06-16T16:40:10.219Z"
+    },
+    {
+      "creditor_id": 6,
+      "total_amount": 431822,
+      "down_payment": 0,
+      "description": "30955",
+      "date": "2026-06-18",
+      "remaining": 431822,
+      "id": 103,
+      "created_at": "2026-06-18T17:19:49.783Z"
     }
   ],
   "debt_payments": [
@@ -60869,6 +60911,13 @@
       "note": "سداد",
       "id": 156,
       "date": "2026-06-17T18:31:43.386Z"
+    },
+    {
+      "creditor_id": 6,
+      "amount": 100000,
+      "note": "",
+      "id": 157,
+      "date": "2026-06-18T17:15:11.564Z"
     }
   ],
   "treasury": [
@@ -69068,6 +69117,20 @@
       "note": "سداد دفعة - ام محمد اسماعيل ",
       "id": 1171,
       "date": "2026-06-18T09:11:11.099Z"
+    },
+    {
+      "id": 1172,
+      "type": "in",
+      "amount": 550,
+      "note": "فاتورة بيع #650",
+      "date": "2026-06-18T13:21:19.383Z"
+    },
+    {
+      "type": "out",
+      "amount": 100000,
+      "note": "سداد دين - محمد عبد العزيز فهمي ",
+      "id": 1173,
+      "date": "2026-06-18T17:15:11.567Z"
     }
   ],
   "expenses": [
@@ -69623,6 +69686,12 @@
       "username": "gaza",
       "id": 67,
       "opened_at": "2026-06-18T11:11:38.208Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 68,
+      "opened_at": "2026-06-18T17:21:25.542Z",
       "closed_at": null
     }
   ],
