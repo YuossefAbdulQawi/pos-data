@@ -27,7 +27,7 @@
       "brand_id": "",
       "buy_price": 8,
       "sell_price": 10,
-      "stock": 40,
+      "stock": 28,
       "min_stock": 20,
       "expiry_date": "",
       "unit": "علبة",
@@ -1194,6 +1194,38 @@
       "is_madasha": false,
       "id": 15,
       "date": "2026-06-18T17:35:29.962Z"
+    },
+    {
+      "items": [
+        {
+          "name": "بيبسي 330مل",
+          "barcode": "6221017013327",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 8,
+          "sell_price": 10,
+          "stock": 40,
+          "min_stock": 20,
+          "expiry_date": "",
+          "unit": "علبة",
+          "weight": "",
+          "description": "",
+          "icon": "🥤",
+          "pos_type": "main",
+          "id": 2,
+          "created_at": "2026-06-16T20:33:24.657Z",
+          "quantity": 12
+        }
+      ],
+      "subtotal": 120,
+      "discount": 0,
+      "total": 120,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 16,
+      "date": "2026-06-18T17:38:31.065Z"
     }
   ],
   "customers": [
@@ -1353,6 +1385,13 @@
       "amount": 301,
       "note": "فاتورة بيع #15",
       "date": "2026-06-18T17:35:29.963Z"
+    },
+    {
+      "id": 19,
+      "type": "in",
+      "amount": 120,
+      "note": "فاتورة بيع #16",
+      "date": "2026-06-18T17:38:31.073Z"
     }
   ],
   "vodafone": [
