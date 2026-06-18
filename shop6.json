@@ -65,7 +65,7 @@
       "brand_id": "",
       "buy_price": 10,
       "sell_price": 12,
-      "stock": 49,
+      "stock": 48,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيس",
@@ -259,6 +259,38 @@
       "is_madasha": false,
       "id": 2,
       "date": "2026-06-18T19:59:25.114Z"
+    },
+    {
+      "items": [
+        {
+          "name": "شيبسي عائلي",
+          "barcode": "6221018021116",
+          "department_id": "",
+          "sub_department_id": "",
+          "brand_id": "",
+          "buy_price": 10,
+          "sell_price": 12,
+          "stock": 49,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيس",
+          "weight": "",
+          "description": "",
+          "icon": "🥔",
+          "pos_type": "main",
+          "id": 4,
+          "created_at": "2026-06-18T19:57:29.129Z",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 12,
+      "discount": 2,
+      "total": 10,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 3,
+      "date": "2026-06-18T21:34:35.810Z"
     }
   ],
   "treasury": [
@@ -275,6 +307,13 @@
       "amount": 50,
       "note": "فاتورة بيع #2",
       "date": "2026-06-18T19:59:25.115Z"
+    },
+    {
+      "id": 3,
+      "type": "in",
+      "amount": 10,
+      "note": "فاتورة بيع #3",
+      "date": "2026-06-18T21:34:35.813Z"
     }
   ],
   "shifts": [
