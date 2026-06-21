@@ -55,7 +55,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 3,
-      "created_at": "2026-05-05T12:17:55.989Z"
+      "created_at": "2026-05-05T12:17:55.989Z",
+      "image": "https://www.mapsland.com/maps/europe/large-scale-detailed-political-map-of-europe-with-the-marks-of-capitals-large-cities-and-names-of-countries-2004-small.jpg"
     },
     {
       "name": "تونة أونو مفتتة حار",
@@ -73,7 +74,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 4,
-      "created_at": "2026-05-05T12:20:08.149Z"
+      "created_at": "2026-05-05T12:20:08.149Z",
+      "image": "https://i.ytimg.com/vi/sA5mXtfo_xc/maxresdefault.jpg"
     },
     {
       "name": "طحينة ظرف",
@@ -91,7 +93,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 5,
-      "created_at": "2026-05-05T12:21:07.002Z"
+      "created_at": "2026-05-05T12:21:07.002Z",
+      "image": "https://images6.alphacoders.com/328/thumb-1920-328976.jpg"
     },
     {
       "name": "فانيليا بالبرتقال 2*1",
@@ -109,7 +112,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 9,
-      "created_at": "2026-05-05T12:26:15.081Z"
+      "created_at": "2026-05-05T12:26:15.081Z",
+      "image": "https://thefappeningblog.com/wp-content/uploads/2024/01/Makenzie-Raine-Sexy-Tits-and-Ass-Photo-Collection-65-thefappeningblog.com_.jpg"
     },
     {
       "name": "مناديل فاين",
@@ -127,7 +131,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 10,
-      "created_at": "2026-05-05T12:28:33.432Z"
+      "created_at": "2026-05-05T12:28:33.432Z",
+      "image": "https://m.media-amazon.com/images/I/71cKfVih2ZL._AC_UL960_QL65_.jpg"
     },
     {
       "name": " فانيلينا بالسكر",
@@ -145,7 +150,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 11,
-      "created_at": "2026-05-05T12:30:34.768Z"
+      "created_at": "2026-05-05T12:30:34.768Z",
+      "image": "https://continentalhospitals.com/uploads/mceu_86235263511701247882508.jpg"
     },
     {
       "name": "شاي ليبتون 100 جرام",
@@ -163,7 +169,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 12,
-      "created_at": "2026-05-05T12:37:13.306Z"
+      "created_at": "2026-05-05T12:37:13.306Z",
+      "image": "https://media.gemini.media/img/large/2023/10/10/2023_10_10_19_0_58_200.jpg"
     },
     {
       "name": "برطمان صلصة طماطم مورنا",
@@ -200,7 +207,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 15,
-      "created_at": "2026-05-05T12:40:55.933Z"
+      "created_at": "2026-05-05T12:40:55.933Z",
+      "image": "https://www.avito.ru/img/share/auto/41126542785"
     },
     {
       "name": "خلطة المشاوي",
@@ -218,7 +226,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 16,
-      "created_at": "2026-05-05T12:46:13.306Z"
+      "created_at": "2026-05-05T12:46:13.306Z",
+      "image": "https://d2p6e6u75xmxt8.cloudfront.net/6/2018/07/DSC_9400.JPG-1920x1280.jpg"
     },
     {
       "name": "خلطة حواوشي",
@@ -236,7 +245,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 17,
-      "created_at": "2026-05-05T12:46:49.504Z"
+      "created_at": "2026-05-05T12:46:49.504Z",
+      "image": "https://kalendarz.roai.pl/tools/xs/kalendarz-miesieczny-luty-2026-poziomo.webp"
     },
     {
       "name": "خلطة البشاميل",
@@ -254,7 +264,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 18,
-      "created_at": "2026-05-05T12:48:45.706Z"
+      "created_at": "2026-05-05T12:48:45.706Z",
+      "image": "https://news.techable.com/wp-content/uploads/2025/02/apple.jpg"
     },
     {
       "name": "بارليكو ",
@@ -272,7 +283,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 19,
-      "created_at": "2026-05-05T12:51:59.990Z"
+      "created_at": "2026-05-05T12:51:59.990Z",
+      "image": "https://logos-world.net/wp-content/uploads/2020/04/Adidas-Logo.png"
     },
     {
       "name": "شاي عروسة ربع",
@@ -291,7 +303,8 @@
       "brand_id": null,
       "id": 20,
       "created_at": "2026-05-05T12:54:26.893Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": "https://media.gemini.media/img/large/2023/10/10/2023_10_10_19_0_58_200.jpg"
     },
     {
       "name": "كوفي مكس ",
@@ -309,7 +322,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 21,
-      "created_at": "2026-05-05T12:57:51.083Z"
+      "created_at": "2026-05-05T12:57:51.083Z",
+      "image": "https://www.yakiniku-miki.com/shared/img/index/opening_txt1.png"
     },
     {
       "name": "عبورلاند 250 جرام",
@@ -328,7 +342,8 @@
       "brand_id": null,
       "id": 22,
       "created_at": "2026-05-05T13:00:08.291Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": "https://m.media-amazon.com/images/I/31QTvtZRoAL.jpg"
     },
     {
       "name": "دهب",
@@ -347,7 +362,8 @@
       "brand_id": null,
       "id": 23,
       "created_at": "2026-05-05T13:01:40.490Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": "https://kommunikasjon.ntb.no/data/images/00335/7f79c021-5961-462c-9a97-1acd662fe077-w_960.jpg"
     },
     {
       "name": "عبور لاند ثمن",
@@ -365,7 +381,8 @@
       "description": "",
       "icon": "📦",
       "id": 24,
-      "created_at": "2026-05-05T14:30:33.331Z"
+      "created_at": "2026-05-05T14:30:33.331Z",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Poem_about_Rumi_in_Ottoman_Turkish.jpg/135px-Poem_about_Rumi_in_Ottoman_Turkish.jpg"
     },
     {
       "name": "حلاوه ايبون",
@@ -384,7 +401,8 @@
       "brand_id": null,
       "id": 25,
       "created_at": "2026-05-05T15:13:00.579Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY4NDQzZGItM2VlNi00Yjk4LWIwNzMtMDM5YmM4YTFmNmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "name": "مناديل سحب",
@@ -402,7 +420,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 26,
-      "created_at": "2026-05-05T15:14:32.727Z"
+      "created_at": "2026-05-05T15:14:32.727Z",
+      "image": "https://lynxdefense.com/uploads/2025/12/glock-20_1e17db1f.jpg"
     },
     {
       "name": "صلصه ظرف مورنا",
@@ -420,7 +439,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 27,
-      "created_at": "2026-05-05T15:16:03.951Z"
+      "created_at": "2026-05-05T15:16:03.951Z",
+      "image": "https://i.etsystatic.com/48006558/r/il/eb7de9/5755358777/il_1080xN.5755358777_9xsu.jpg"
     },
     {
       "name": "نوجا الاصدقاء",
@@ -438,7 +458,8 @@
       "description": "",
       "icon": "📦",
       "id": 29,
-      "created_at": "2026-05-05T15:19:51.742Z"
+      "created_at": "2026-05-05T15:19:51.742Z",
+      "image": "https://www.ates-sav.com/wp-content/uploads/2025/11/VALOR-HORA-EXTRA-2026-1.jpg"
     },
     {
       "name": "لبان اكس فريش",
