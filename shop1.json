@@ -653,7 +653,7 @@
       "brand_id": null,
       "id": 47,
       "created_at": "2026-05-05T15:59:38.028Z",
-      "image": "https://images.openfoodfacts.org/images/products/869/742/263/0407/front_en.3.400.jpg"
+      "image": ""
     },
     {
       "name": "بشامل",
@@ -691,7 +691,7 @@
       "icon": "📦",
       "id": 50,
       "created_at": "2026-05-05T16:04:53.494Z",
-      "image": ""
+      "image": "https://images.openfoodfacts.org/images/products/613/547/400/0028/front_es.3.400.jpg"
     },
     {
       "name": "فيجتار تاج الرشيد",
