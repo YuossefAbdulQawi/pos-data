@@ -6,7 +6,7 @@
       "department_id": null,
       "buy_price": 23.75,
       "sell_price": 27,
-      "stock": 0,
+      "stock": 3,
       "min_stock": 5,
       "unit": "قطعة",
       "icon": "📦",
