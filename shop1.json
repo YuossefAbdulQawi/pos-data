@@ -1982,7 +1982,7 @@
       "id": 128,
       "created_at": "2026-05-06T11:49:37.166Z",
       "pos_type": "main",
-      "image": ""
+      "image": "https://images.openfoodfacts.org/images/products/629/401/711/7750/front_en.4.400.jpg"
     },
     {
       "name": "بيض ",
@@ -2002,7 +2002,7 @@
       "id": 129,
       "created_at": "2026-05-06T11:50:24.916Z",
       "pos_type": "main",
-      "image": ""
+      "image": "https://images.openfoodfacts.org/images/products/622/103/409/0759/front_en.8.400.jpg"
     },
     {
       "name": "لبان مربيلا",
@@ -2177,7 +2177,7 @@
       "id": 147,
       "created_at": "2026-05-07T15:34:51.762Z",
       "pos_type": "main",
-      "image": "https://images.openfoodfacts.org/images/products/529/640/006/6318/front_en.3.400.jpg"
+      "image": ""
     },
     {
       "name": "لب عباد رفيع",
@@ -2428,7 +2428,7 @@
       "icon": "📦",
       "id": 160,
       "created_at": "2026-05-07T19:36:48.308Z",
-      "image": ""
+      "image": "https://images.openfoodfacts.org/images/products/000/002/738/3612/front_ar.3.400.jpg"
     },
     {
       "name": "سرس ",
