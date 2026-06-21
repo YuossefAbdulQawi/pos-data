@@ -316,7 +316,7 @@
       "department_id": null,
       "buy_price": 583,
       "sell_price": 595,
-      "stock": 3,
+      "stock": 1,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -50932,6 +50932,38 @@
       "is_madasha": false,
       "id": 652,
       "date": "2026-06-18T17:46:38.282Z"
+    },
+    {
+      "items": [
+        {
+          "name": "عبورلاند 250 جرام",
+          "barcode": "6224000147815",
+          "department_id": null,
+          "buy_price": 583,
+          "sell_price": 595,
+          "stock": 3,
+          "min_stock": 10,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 22,
+          "created_at": "2026-05-05T13:00:08.291Z",
+          "pos_type": "main",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1190,
+      "discount": 0,
+      "total": 1190,
+      "cashier": "gaza",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 653,
+      "date": "2026-06-21T18:58:17.359Z"
     }
   ],
   "customers": [
@@ -69679,6 +69711,13 @@
       "amount": 3485,
       "note": "فاتورة بيع #652",
       "date": "2026-06-18T17:46:38.330Z"
+    },
+    {
+      "id": 1173,
+      "type": "in",
+      "amount": 1190,
+      "note": "فاتورة بيع #653",
+      "date": "2026-06-21T18:58:17.402Z"
     }
   ],
   "expenses": [
