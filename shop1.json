@@ -1468,7 +1468,7 @@
       "id": 98,
       "created_at": "2026-05-05T19:57:25.164Z",
       "pos_type": "main",
-      "image": "https://images.openfoodfacts.org/images/products/611/118/000/0392/front_ar.14.400.jpg"
+      "image": ""
     },
     {
       "name": "خل بيور",
@@ -1647,7 +1647,7 @@
       "id": 108,
       "created_at": "2026-05-05T20:25:30.151Z",
       "pos_type": "main",
-      "image": "https://images.openfoodfacts.org/images/products/978/789/960/9873/front_es.3.400.jpg"
+      "image": ""
     },
     {
       "name": "دقيق لقمه هنيه",
@@ -1843,7 +1843,7 @@
       "id": 118,
       "created_at": "2026-05-06T08:20:55.369Z",
       "pos_type": "main",
-      "image": ""
+      "image": "https://images.openfoodfacts.org/images/products/535/210/130/2831/front_es.3.400.jpg"
     },
     {
       "name": "مكروه 5 ك",
