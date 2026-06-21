@@ -2819,7 +2819,7 @@
     {
       "name": "جبنه رودس قطاعي",
       "barcode": "",
-      "department_id": null,
+      "department_id": 6,
       "sub_department_id": null,
       "brand_id": null,
       "buy_price": 22.5,
@@ -2832,7 +2832,9 @@
       "description": "",
       "icon": "📦",
       "id": 192,
-      "created_at": "2026-05-13T14:55:23.726Z"
+      "created_at": "2026-05-13T14:55:23.726Z",
+      "image": "",
+      "pos_type": "main"
     },
     {
       "name": "مصاصه 2ج",
