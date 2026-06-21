@@ -247,7 +247,7 @@
       "brand_id": null,
       "id": 17,
       "created_at": "2026-05-05T12:46:49.504Z",
-      "image": ""
+      "image": "https://images.openfoodfacts.org/images/products/622/100/703/8030/front_en.3.400.jpg"
     },
     {
       "name": "خلطة البشاميل",
@@ -653,7 +653,7 @@
       "brand_id": null,
       "id": 47,
       "created_at": "2026-05-05T15:59:38.028Z",
-      "image": "https://images.openfoodfacts.org/images/products/869/742/263/0407/front_en.3.400.jpg"
+      "image": ""
     },
     {
       "name": "بشامل",
