@@ -36,7 +36,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 2,
-      "created_at": "2026-05-05T12:16:50.639Z"
+      "created_at": "2026-05-05T12:16:50.639Z",
+      "image": "https://i.ytimg.com/vi/yffcwTf1RUA/maxresdefault.jpg"
     },
     {
       "name": "تونة عافية قطع",
@@ -70528,6 +70529,12 @@
       "username": "gaza",
       "id": 96,
       "opened_at": "2026-06-21T19:30:37.990Z",
+      "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "id": 97,
+      "opened_at": "2026-06-21T19:39:57.149Z",
       "closed_at": null
     }
   ],
