@@ -2684,7 +2684,7 @@
       "department_id": null,
       "buy_price": 82.75,
       "sell_price": 90,
-      "stock": 6,
+      "stock": 3,
       "min_stock": 1,
       "unit": "قطعة",
       "icon": "📦",
@@ -2694,7 +2694,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 147,
-      "created_at": "2026-06-13T11:37:28.763Z"
+      "created_at": "2026-06-13T11:37:28.763Z",
+      "pos_type": "main"
     },
     {
       "name": "سجاير ال ام احمر",
