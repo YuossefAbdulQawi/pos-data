@@ -2660,7 +2660,7 @@
       "pos_type": "main"
     },
     {
-      "name": "حلاو طحنيه اجدادنا",
+      "name": "حلاو طحنيه اجدادنا ربع",
       "barcode": "6772504395381",
       "department_id": null,
       "buy_price": 47.9,
@@ -2675,7 +2675,8 @@
       "sub_department_id": null,
       "brand_id": null,
       "id": 146,
-      "created_at": "2026-06-13T11:35:17.056Z"
+      "created_at": "2026-06-13T11:35:17.056Z",
+      "pos_type": "main"
     },
     {
       "name": "حلاو طحنيه نص  اجدادنا",
