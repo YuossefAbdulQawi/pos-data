@@ -65319,6 +65319,16 @@
       "remaining": 510,
       "id": 604,
       "created_at": "2026-06-23T20:01:59.895Z"
+    },
+    {
+      "customer_id": 7,
+      "total_amount": 40,
+      "down_payment": 0,
+      "description": "نخاله",
+      "date": "2026-06-24",
+      "remaining": 40,
+      "id": 605,
+      "created_at": "2026-06-24T18:52:24.881Z"
     }
   ],
   "inst_payments": [
