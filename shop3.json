@@ -59449,14 +59449,6 @@
       "created_at": "2026-05-06T19:43:31.701Z"
     },
     {
-      "name": "اشرف كارم",
-      "phone": "",
-      "address": "دمو ",
-      "notes": "",
-      "id": 167,
-      "created_at": "2026-05-07T17:50:38.690Z"
-    },
-    {
       "name": "محمو جبر",
       "phone": "",
       "address": "البرج",
@@ -61283,16 +61275,6 @@
       "remaining": 450,
       "id": 182,
       "created_at": "2026-05-07T15:19:12.995Z"
-    },
-    {
-      "customer_id": 167,
-      "total_amount": 1500,
-      "down_payment": 0,
-      "description": "125 ك دريس",
-      "date": "2026-05-07",
-      "remaining": 1500,
-      "id": 183,
-      "created_at": "2026-05-07T17:51:18.578Z"
     },
     {
       "customer_id": 105,
