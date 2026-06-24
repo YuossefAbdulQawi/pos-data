@@ -67962,6 +67962,16 @@
       "remaining": 14750,
       "id": 114,
       "created_at": "2026-06-23T09:54:35.519Z"
+    },
+    {
+      "creditor_id": 6,
+      "total_amount": 17538,
+      "down_payment": 0,
+      "description": "صويا اشر",
+      "date": "2026-06-24",
+      "remaining": 17538,
+      "id": 115,
+      "created_at": "2026-06-24T15:33:52.531Z"
     }
   ],
   "debt_payments": [
