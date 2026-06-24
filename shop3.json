@@ -59353,14 +59353,6 @@
       "created_at": "2026-05-05T10:59:39.631Z"
     },
     {
-      "name": "محمد حسن مسعود",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 154,
-      "created_at": "2026-05-05T11:00:29.130Z"
-    },
-    {
       "name": "خالي هريدي",
       "phone": "",
       "address": "عزبه شكر",
@@ -61041,16 +61033,6 @@
       "remaining": 3500,
       "id": 156,
       "created_at": "2026-05-05T11:00:02.071Z"
-    },
-    {
-      "customer_id": 154,
-      "total_amount": 850,
-      "down_payment": 0,
-      "description": "علفه",
-      "date": "2026-05-05",
-      "remaining": 850,
-      "id": 157,
-      "created_at": "2026-05-05T11:00:45.383Z"
     },
     {
       "customer_id": 155,
