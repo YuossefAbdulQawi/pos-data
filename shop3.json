@@ -59465,14 +59465,6 @@
       "created_at": "2026-05-07T19:21:19.419Z"
     },
     {
-      "name": "عزبه احمد كمال ",
-      "phone": "",
-      "address": "",
-      "notes": "",
-      "id": 173,
-      "created_at": "2026-05-07T19:23:00.492Z"
-    },
-    {
       "name": "ابو اسلام احمد البيت ",
       "phone": "",
       "address": "عزبه سعد",
@@ -61269,16 +61261,6 @@
       "remaining": 56000,
       "id": 188,
       "created_at": "2026-05-07T19:21:47.397Z"
-    },
-    {
-      "customer_id": 173,
-      "total_amount": 2900,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-07",
-      "remaining": 2900,
-      "id": 190,
-      "created_at": "2026-05-07T19:23:22.841Z"
     },
     {
       "customer_id": 174,
