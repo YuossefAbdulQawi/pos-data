@@ -58497,14 +58497,6 @@
       "created_at": "2026-05-05T07:49:22.325Z"
     },
     {
-      "name": "محمود عفت علي خاطر",
-      "phone": "",
-      "address": "دمو الباطن",
-      "notes": "",
-      "id": 27,
-      "created_at": "2026-05-05T07:50:52.556Z"
-    },
-    {
       "name": "حمدي طه ",
       "phone": "",
       "address": "عزبه سعد",
@@ -60061,16 +60053,6 @@
       "remaining": 7225,
       "id": 25,
       "created_at": "2026-05-05T07:48:44.053Z"
-    },
-    {
-      "customer_id": 27,
-      "total_amount": 19970,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 19970,
-      "id": 27,
-      "created_at": "2026-05-05T07:51:19.932Z"
     },
     {
       "customer_id": 28,
@@ -61681,16 +61663,6 @@
       "created_at": "2026-05-09T17:31:14.429Z"
     },
     {
-      "customer_id": 27,
-      "total_amount": 2960,
-      "down_payment": 0,
-      "description": "فاتوره 9/5",
-      "date": "2026-05-09",
-      "remaining": 2960,
-      "id": 208,
-      "created_at": "2026-05-09T17:33:39.507Z"
-    },
-    {
       "customer_id": 18,
       "total_amount": 1800,
       "down_payment": 0,
@@ -62179,26 +62151,6 @@
       "created_at": "2026-05-14T12:05:55.140Z"
     },
     {
-      "customer_id": 27,
-      "total_amount": 310,
-      "down_payment": 0,
-      "description": "زره",
-      "date": "2026-05-14",
-      "remaining": 310,
-      "id": 265,
-      "created_at": "2026-05-14T14:03:53.928Z"
-    },
-    {
-      "customer_id": 27,
-      "total_amount": 40,
-      "down_payment": 0,
-      "description": "تب",
-      "date": "2026-05-14",
-      "remaining": 40,
-      "id": 266,
-      "created_at": "2026-05-14T14:04:47.390Z"
-    },
-    {
       "customer_id": 169,
       "total_amount": 1900,
       "down_payment": 0,
@@ -62317,16 +62269,6 @@
       "remaining": 40,
       "id": 278,
       "created_at": "2026-05-15T18:35:12.213Z"
-    },
-    {
-      "customer_id": 27,
-      "total_amount": 530,
-      "down_payment": 0,
-      "description": "1 نخاله 40ك",
-      "date": "2026-05-15",
-      "remaining": 530,
-      "id": 279,
-      "created_at": "2026-05-15T19:41:01.576Z"
     },
     {
       "customer_id": 169,
@@ -62898,16 +62840,6 @@
       "created_at": "2026-05-22T15:03:27.580Z"
     },
     {
-      "customer_id": 27,
-      "total_amount": 925,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-21",
-      "remaining": 925,
-      "id": 346,
-      "created_at": "2026-05-22T15:35:50.714Z"
-    },
-    {
       "customer_id": 44,
       "total_amount": 550,
       "down_payment": 0,
@@ -63056,16 +62988,6 @@
       "remaining": 245,
       "id": 366,
       "created_at": "2026-05-24T19:08:09.800Z"
-    },
-    {
-      "customer_id": 27,
-      "total_amount": 925,
-      "down_payment": 0,
-      "description": "علف50",
-      "date": "2026-05-24",
-      "remaining": 925,
-      "id": 368,
-      "created_at": "2026-05-24T20:15:23.791Z"
     },
     {
       "customer_id": 188,
