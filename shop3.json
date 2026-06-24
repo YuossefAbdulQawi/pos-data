@@ -59113,14 +59113,6 @@
       "created_at": "2026-05-05T09:43:21.542Z"
     },
     {
-      "name": "محمد ناصر عبد الكريم ",
-      "phone": "",
-      "address": "عزبه النشره",
-      "notes": "",
-      "id": 113,
-      "created_at": "2026-05-05T09:44:31.841Z"
-    },
-    {
       "name": "ام يوسف كاميرات ",
       "phone": "",
       "address": "الخوري ",
@@ -60787,16 +60779,6 @@
       "remaining": 193,
       "id": 113,
       "created_at": "2026-05-05T09:43:42.304Z"
-    },
-    {
-      "customer_id": 113,
-      "total_amount": 1760,
-      "down_payment": 0,
-      "description": "علفه",
-      "date": "2026-05-05",
-      "remaining": 1760,
-      "id": 114,
-      "created_at": "2026-05-05T09:44:52.335Z"
     },
     {
       "customer_id": 114,
