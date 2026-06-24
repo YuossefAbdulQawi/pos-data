@@ -58497,14 +58497,6 @@
       "created_at": "2026-05-05T07:51:54.740Z"
     },
     {
-      "name": "قرني عبد العليم ",
-      "phone": "",
-      "address": "عزبه سعد",
-      "notes": "",
-      "id": 29,
-      "created_at": "2026-05-05T07:55:24.738Z"
-    },
-    {
       "name": "احمد قرني عبد العليم ",
       "phone": "",
       "address": "عزبه سعد ",
@@ -60029,16 +60021,6 @@
       "remaining": 4935,
       "id": 28,
       "created_at": "2026-05-05T07:52:18.420Z"
-    },
-    {
-      "customer_id": 29,
-      "total_amount": 4000,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 4000,
-      "id": 29,
-      "created_at": "2026-05-05T07:55:40.746Z"
     },
     {
       "customer_id": 30,
