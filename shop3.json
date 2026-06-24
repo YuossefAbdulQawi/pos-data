@@ -59601,14 +59601,6 @@
       "created_at": "2026-05-26T19:48:48.439Z"
     },
     {
-      "name": "ام على صفا",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 197,
-      "created_at": "2026-05-31T17:37:32.729Z"
-    },
-    {
       "name": "رمضان غز اوى",
       "phone": "",
       "address": "سعد ابو ياب",
@@ -63307,16 +63299,6 @@
       "remaining": 310,
       "id": 434,
       "created_at": "2026-05-31T17:10:26.083Z"
-    },
-    {
-      "customer_id": 197,
-      "total_amount": 3040,
-      "down_payment": 0,
-      "description": "شبس",
-      "date": "2026-05-31",
-      "remaining": 3040,
-      "id": 435,
-      "created_at": "2026-05-31T17:37:53.971Z"
     },
     {
       "customer_id": 198,
