@@ -59537,14 +59537,6 @@
       "created_at": "2026-05-11T10:18:59.497Z"
     },
     {
-      "name": "ام مياده عزبه شكر",
-      "phone": "",
-      "address": "",
-      "notes": "",
-      "id": 184,
-      "created_at": "2026-05-12T19:34:25.297Z"
-    },
-    {
       "name": "جابر حجاج ",
       "phone": "",
       "address": "سعدابودياب",
@@ -61676,16 +61668,6 @@
       "created_at": "2026-05-12T19:16:44.123Z"
     },
     {
-      "customer_id": 184,
-      "total_amount": 1000,
-      "down_payment": 0,
-      "description": "باقي فاتوره",
-      "date": "2026-05-12",
-      "remaining": 1000,
-      "id": 236,
-      "created_at": "2026-05-12T19:35:10.233Z"
-    },
-    {
       "customer_id": 165,
       "total_amount": 435,
       "down_payment": 0,
@@ -62927,16 +62909,6 @@
       "remaining": 95,
       "id": 388,
       "created_at": "2026-05-26T08:44:16.158Z"
-    },
-    {
-      "customer_id": 184,
-      "total_amount": 1230,
-      "down_payment": 0,
-      "description": "كرت يه",
-      "date": "2026-05-25",
-      "remaining": 1230,
-      "id": 389,
-      "created_at": "2026-05-26T10:37:30.968Z"
     },
     {
       "customer_id": 32,
