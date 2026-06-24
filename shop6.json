@@ -344,6 +344,12 @@
       "id": 4,
       "opened_at": "2026-06-24T13:54:35.483Z",
       "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "id": 5,
+      "opened_at": "2026-06-24T18:25:17.484Z",
+      "closed_at": null
     }
   ],
   "settings": {
