@@ -59145,14 +59145,6 @@
       "created_at": "2026-05-05T10:19:26.111Z"
     },
     {
-      "name": "علوم ",
-      "phone": "",
-      "address": "عزبه سعد",
-      "notes": "",
-      "id": 123,
-      "created_at": "2026-05-05T10:21:49.966Z"
-    },
-    {
       "name": "خالي علي احمد شكر",
       "phone": "",
       "address": "عزبه شكر",
@@ -60779,16 +60771,6 @@
       "remaining": 1710,
       "id": 123,
       "created_at": "2026-05-05T10:19:42.213Z"
-    },
-    {
-      "customer_id": 123,
-      "total_amount": 660,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 660,
-      "id": 124,
-      "created_at": "2026-05-05T10:22:07.772Z"
     },
     {
       "customer_id": 126,
