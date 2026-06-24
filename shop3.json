@@ -58841,14 +58841,6 @@
       "created_at": "2026-05-05T09:05:39.804Z"
     },
     {
-      "name": "ابو فهد سلطان ",
-      "phone": "",
-      "address": "البرميلجي",
-      "notes": "",
-      "id": 80,
-      "created_at": "2026-05-05T09:06:38.702Z"
-    },
-    {
       "name": "ربيع فاروق",
       "phone": "",
       "address": "عزبه سعد ",
@@ -60451,16 +60443,6 @@
       "remaining": 500,
       "id": 80,
       "created_at": "2026-05-05T09:05:59.332Z"
-    },
-    {
-      "customer_id": 80,
-      "total_amount": 320,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 320,
-      "id": 81,
-      "created_at": "2026-05-05T09:06:51.739Z"
     },
     {
       "customer_id": 81,
@@ -62217,16 +62199,6 @@
       "remaining": 90,
       "id": 282,
       "created_at": "2026-05-16T03:05:36.475Z"
-    },
-    {
-      "customer_id": 80,
-      "total_amount": 3000,
-      "down_payment": 0,
-      "description": "عتف",
-      "date": "2026-05-15",
-      "remaining": 3000,
-      "id": 283,
-      "created_at": "2026-05-16T06:30:06.936Z"
     },
     {
       "customer_id": 50,
