@@ -59465,14 +59465,6 @@
       "created_at": "2026-05-07T19:21:19.419Z"
     },
     {
-      "name": "مختار قروض",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 172,
-      "created_at": "2026-05-07T19:22:10.460Z"
-    },
-    {
       "name": "عزبه احمد كمال ",
       "phone": "",
       "address": "",
@@ -61285,16 +61277,6 @@
       "remaining": 56000,
       "id": 188,
       "created_at": "2026-05-07T19:21:47.397Z"
-    },
-    {
-      "customer_id": 172,
-      "total_amount": 5200,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-07",
-      "remaining": 5200,
-      "id": 189,
-      "created_at": "2026-05-07T19:22:24.737Z"
     },
     {
       "customer_id": 173,
