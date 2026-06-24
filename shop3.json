@@ -58897,14 +58897,6 @@
       "created_at": "2026-05-05T09:17:04.129Z"
     },
     {
-      "name": "احمد سيد عبد التواب",
-      "phone": "",
-      "address": "عزبه سعد",
-      "notes": "",
-      "id": 89,
-      "created_at": "2026-05-05T09:18:01.088Z"
-    },
-    {
       "name": "اسلام ابو غريب",
       "phone": "",
       "address": "عزبه سعد",
@@ -60495,16 +60487,6 @@
       "remaining": 2510,
       "id": 89,
       "created_at": "2026-05-05T09:17:18.910Z"
-    },
-    {
-      "customer_id": 89,
-      "total_amount": 540,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 540,
-      "id": 90,
-      "created_at": "2026-05-05T09:18:17.293Z"
     },
     {
       "customer_id": 90,
