@@ -65243,6 +65243,16 @@
       "remaining": 72,
       "id": 607,
       "created_at": "2026-06-24T19:34:16.083Z"
+    },
+    {
+      "customer_id": 69,
+      "total_amount": 3000,
+      "down_payment": 0,
+      "description": "500اش",
+      "date": "2026-06-24",
+      "remaining": 3000,
+      "id": 608,
+      "created_at": "2026-06-24T19:34:50.401Z"
     }
   ],
   "inst_payments": [
