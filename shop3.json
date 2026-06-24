@@ -2135,15 +2135,16 @@
       "brand_id": null,
       "buy_price": 80,
       "sell_price": 100,
-      "stock": 0,
-      "min_stock": 10,
+      "stock": 5,
+      "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
       "weight": "",
       "description": "",
       "icon": "📦",
       "id": 151,
-      "created_at": "2026-05-07T15:38:05.744Z"
+      "created_at": "2026-05-07T15:38:05.744Z",
+      "pos_type": "main"
     },
     {
       "name": "فول اسواني ",
