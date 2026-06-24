@@ -58841,14 +58841,6 @@
       "created_at": "2026-05-05T09:03:57.687Z"
     },
     {
-      "name": "ربيع عبد السلام ",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 78,
-      "created_at": "2026-05-05T09:04:47.095Z"
-    },
-    {
       "name": "واليد جمال ",
       "phone": "01123342087",
       "address": "الخوري",
@@ -60475,16 +60467,6 @@
       "remaining": 300,
       "id": 78,
       "created_at": "2026-05-05T09:04:10.045Z"
-    },
-    {
-      "customer_id": 78,
-      "total_amount": 2605,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 2605,
-      "id": 79,
-      "created_at": "2026-05-05T09:05:00.180Z"
     },
     {
       "customer_id": 79,
@@ -62391,16 +62373,6 @@
       "remaining": 770,
       "id": 295,
       "created_at": "2026-05-17T13:55:31.423Z"
-    },
-    {
-      "customer_id": 78,
-      "total_amount": 700,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-17",
-      "remaining": 700,
-      "id": 296,
-      "created_at": "2026-05-17T17:00:14.878Z"
     },
     {
       "customer_id": 60,
