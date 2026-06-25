@@ -4010,7 +4010,7 @@
       "brand_id": null,
       "buy_price": 13.7,
       "sell_price": 14.5,
-      "stock": 0,
+      "stock": 1000,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
