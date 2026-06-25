@@ -373,7 +373,9 @@
       "username": "gaza",
       "id": 7,
       "opened_at": "2026-06-25T10:15:28.484Z",
-      "closed_at": null
+      "closed_at": "2026-06-25T13:58:46.913Z",
+      "sales_total": 0,
+      "orders_count": 0
     },
     {
       "username": "gaza",
@@ -444,6 +446,13 @@
       "closed_at": "2026-06-25T13:57:24.184Z",
       "sales_total": 0,
       "orders_count": 0
+    },
+    {
+      "username": "gaza",
+      "start_cash": 0,
+      "id": 17,
+      "opened_at": "2026-06-25T13:58:46.914Z",
+      "closed_at": null
     }
   ],
   "settings": {
