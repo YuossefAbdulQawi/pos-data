@@ -66184,6 +66184,16 @@
       "remaining": -3300,
       "id": 612,
       "created_at": "2026-06-25T15:43:47.136Z"
+    },
+    {
+      "customer_id": 165,
+      "total_amount": 100,
+      "down_payment": 0,
+      "description": "باقي ارز",
+      "date": "2026-06-25",
+      "remaining": 100,
+      "id": 613,
+      "created_at": "2026-06-25T18:15:01.084Z"
     }
   ],
   "inst_payments": [
