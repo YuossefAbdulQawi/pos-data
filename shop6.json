@@ -373,6 +373,27 @@
       "closed_at": null
     }
   ],
+  "users": [
+    {
+      "username": "youssef",
+      "password": "130796@",
+      "role": "admin",
+      "permissions": [
+        "pos",
+        "categories",
+        "products",
+        "warehouses",
+        "services",
+        "purchases",
+        "installments",
+        "treasury",
+        "reports"
+      ],
+      "active": true,
+      "id": 1,
+      "created_at": "2026-06-25T10:19:43.827Z"
+    }
+  ],
   "settings": {
     "storeName": "Gaza 2 POS",
     "phone": "",
