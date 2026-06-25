@@ -358,6 +358,12 @@
       "id": 6,
       "opened_at": "2026-06-24T18:31:40.673Z",
       "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "id": 7,
+      "opened_at": "2026-06-25T10:15:28.484Z",
+      "closed_at": null
     }
   ],
   "settings": {
