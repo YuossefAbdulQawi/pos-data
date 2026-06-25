@@ -1834,7 +1834,7 @@
       "department_id": null,
       "buy_price": 830,
       "sell_price": 850,
-      "stock": 0,
+      "stock": 1,
       "min_stock": 10,
       "unit": "علبة",
       "icon": "📦",
