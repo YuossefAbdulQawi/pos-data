@@ -1611,7 +1611,7 @@
       "department_id": null,
       "buy_price": 122,
       "sell_price": 125,
-      "stock": 90,
+      "stock": 85,
       "min_stock": 10,
       "unit": "شكارة",
       "icon": "📦",
@@ -58947,6 +58947,38 @@
       "is_madasha": true,
       "id": 747,
       "date": "2026-06-25T14:39:27.556Z"
+    },
+    {
+      "items": [
+        {
+          "name": "ارز ابو الفتوح 5ك",
+          "barcode": "6224008615064",
+          "department_id": null,
+          "buy_price": 122,
+          "sell_price": 125,
+          "stock": 90,
+          "min_stock": 10,
+          "unit": "شكارة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 112,
+          "created_at": "2026-05-06T08:11:24.543Z",
+          "pos_type": "main",
+          "quantity": 5
+        }
+      ],
+      "subtotal": 625,
+      "discount": 0,
+      "total": 625,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 748,
+      "date": "2026-06-25T14:40:46.509Z"
     }
   ],
   "customers": [
@@ -79352,6 +79384,13 @@
       "amount": 1600,
       "note": "فاتورة بيع #747",
       "date": "2026-06-25T14:39:27.579Z"
+    },
+    {
+      "id": 1339,
+      "type": "in",
+      "amount": 625,
+      "note": "فاتورة بيع #748",
+      "date": "2026-06-25T14:40:46.530Z"
     }
   ],
   "expenses": [
