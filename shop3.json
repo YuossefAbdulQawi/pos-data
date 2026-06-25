@@ -65484,16 +65484,6 @@
       "created_at": "2026-06-23T15:49:04.296Z"
     },
     {
-      "customer_id": 53,
-      "total_amount": 2990,
-      "down_payment": 0,
-      "description": "15كرت 5سحاير 1مكرونه",
-      "date": "2026-06-23",
-      "remaining": 2990,
-      "id": 599,
-      "created_at": "2026-06-23T16:35:07.845Z"
-    },
-    {
       "customer_id": 59,
       "total_amount": 1600,
       "down_payment": 0,
