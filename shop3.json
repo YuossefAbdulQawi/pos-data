@@ -3858,7 +3858,7 @@
       "brand_id": null,
       "buy_price": 13.95,
       "sell_price": 14.6,
-      "stock": 15303,
+      "stock": 14803,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4010,7 +4010,7 @@
       "brand_id": null,
       "buy_price": 13.7,
       "sell_price": 14.5,
-      "stock": 776.552,
+      "stock": 376.552,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -58719,6 +58719,58 @@
       "is_madasha": false,
       "id": 743,
       "date": "2026-06-25T14:11:20.603Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دره صفرا برزيلي",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.95,
+          "sell_price": 14.6,
+          "stock": 15303,
+          "min_stock": 200,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 262,
+          "created_at": "2026-05-23T21:33:28.844Z",
+          "quantity": 500
+        },
+        {
+          "name": "نخاله",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.7,
+          "sell_price": 14.5,
+          "stock": 776.552,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 270,
+          "created_at": "2026-05-29T09:46:17.375Z",
+          "quantity": 400
+        }
+      ],
+      "subtotal": 13100,
+      "discount": 0,
+      "total": 13100,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 744,
+      "date": "2026-06-25T14:25:26.932Z"
     }
   ],
   "customers": [
@@ -79086,6 +79138,13 @@
       "note": "مقدم قسط - مصطفي  العمريه",
       "id": 1334,
       "date": "2026-06-25T14:23:27.267Z"
+    },
+    {
+      "id": 1335,
+      "type": "in",
+      "amount": 13100,
+      "note": "فاتورة بيع #744",
+      "date": "2026-06-25T14:25:26.953Z"
     }
   ],
   "expenses": [
