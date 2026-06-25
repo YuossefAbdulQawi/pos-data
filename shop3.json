@@ -1874,7 +1874,7 @@
       "brand_id": null,
       "buy_price": 77,
       "sell_price": 85,
-      "stock": 35,
+      "stock": 30,
       "min_stock": 2,
       "expiry_date": "",
       "unit": "كرتونة",
@@ -59519,6 +59519,38 @@
       "is_madasha": false,
       "id": 753,
       "date": "2026-06-25T15:49:55.995Z"
+    },
+    {
+      "items": [
+        {
+          "name": "بيض ",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 77,
+          "sell_price": 85,
+          "stock": 35,
+          "min_stock": 2,
+          "expiry_date": "",
+          "unit": "كرتونة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 129,
+          "created_at": "2026-05-06T11:50:24.916Z",
+          "pos_type": "main",
+          "quantity": 5
+        }
+      ],
+      "subtotal": 425,
+      "discount": 0,
+      "total": 425,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 754,
+      "date": "2026-06-25T16:47:16.842Z"
     }
   ],
   "customers": [
@@ -79980,6 +80012,13 @@
       "amount": 9600,
       "note": "فاتورة بيع #753",
       "date": "2026-06-25T15:49:56.017Z"
+    },
+    {
+      "id": 1346,
+      "type": "in",
+      "amount": 425,
+      "note": "فاتورة بيع #754",
+      "date": "2026-06-25T16:47:16.864Z"
     }
   ],
   "expenses": [
