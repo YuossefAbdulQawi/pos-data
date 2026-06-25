@@ -1778,7 +1778,7 @@
       "department_id": null,
       "buy_price": 495,
       "sell_price": 500,
-      "stock": 13,
+      "stock": 2,
       "min_stock": 1,
       "unit": "علبة",
       "icon": "📦",
@@ -1834,7 +1834,7 @@
       "department_id": null,
       "buy_price": 830,
       "sell_price": 850,
-      "stock": 1,
+      "stock": 0,
       "min_stock": 10,
       "unit": "علبة",
       "icon": "📦",
@@ -59679,6 +59679,58 @@
       "is_madasha": false,
       "id": 758,
       "date": "2026-06-25T19:38:54.073Z"
+    },
+    {
+      "items": [
+        {
+          "name": "سجاير كليو باترا",
+          "barcode": "6221004001976",
+          "department_id": null,
+          "buy_price": 495,
+          "sell_price": 500,
+          "stock": 13,
+          "min_stock": 1,
+          "unit": "علبة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 121,
+          "created_at": "2026-05-06T10:58:15.061Z",
+          "pos_type": "main",
+          "quantity": 11
+        },
+        {
+          "name": "سجاير lm ازرق",
+          "barcode": "62211628",
+          "department_id": null,
+          "buy_price": 830,
+          "sell_price": 850,
+          "stock": 1,
+          "min_stock": 10,
+          "unit": "علبة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 124,
+          "created_at": "2026-05-06T11:01:27.717Z",
+          "pos_type": "main",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 6350,
+      "discount": 0,
+      "total": 6350,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 759,
+      "date": "2026-06-25T19:51:51.030Z"
     }
   ],
   "customers": [
@@ -80237,6 +80289,13 @@
       "note": "سداد دفعة - شعبان مطعم ",
       "id": 1353,
       "date": "2026-06-25T19:46:00.437Z"
+    },
+    {
+      "id": 1354,
+      "type": "in",
+      "amount": 6350,
+      "note": "فاتورة بيع #759",
+      "date": "2026-06-25T19:51:51.052Z"
     }
   ],
   "expenses": [
