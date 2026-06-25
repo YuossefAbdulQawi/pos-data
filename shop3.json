@@ -63843,16 +63843,6 @@
       "created_at": "2026-05-21T20:18:51.869Z"
     },
     {
-      "customer_id": 56,
-      "total_amount": 1190,
-      "down_payment": 0,
-      "description": "زره ونخاله",
-      "date": "2026-05-21",
-      "remaining": 1190,
-      "id": 333,
-      "created_at": "2026-05-21T20:23:12.133Z"
-    },
-    {
       "customer_id": 87,
       "total_amount": 435,
       "down_payment": 0,
@@ -64936,16 +64926,6 @@
       "created_at": "2026-06-04T12:02:03.750Z"
     },
     {
-      "customer_id": 56,
-      "total_amount": 530,
-      "down_payment": 0,
-      "description": "نخاله",
-      "date": "2026-06-04",
-      "remaining": 530,
-      "id": 462,
-      "created_at": "2026-06-04T18:31:02.870Z"
-    },
-    {
       "customer_id": 73,
       "total_amount": 594,
       "down_payment": 0,
@@ -65254,16 +65234,6 @@
       "remaining": 430,
       "id": 495,
       "created_at": "2026-06-08T10:16:01.310Z"
-    },
-    {
-      "customer_id": 56,
-      "total_amount": 7280,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-06-07",
-      "remaining": 7280,
-      "id": 496,
-      "created_at": "2026-06-08T13:05:26.812Z"
     },
     {
       "customer_id": 73,
@@ -66773,13 +66743,6 @@
       "note": "من ام محمد ",
       "id": 66,
       "date": "2026-05-14T18:14:32.214Z"
-    },
-    {
-      "customer_id": 56,
-      "amount": 22220,
-      "note": "",
-      "id": 67,
-      "date": "2026-05-14T19:46:05.275Z"
     },
     {
       "installment_id": 268,
@@ -80286,6 +80249,13 @@
       "amount": 6350,
       "note": "فاتورة بيع #759",
       "date": "2026-06-25T19:51:51.052Z"
+    },
+    {
+      "type": "out",
+      "amount": 22220,
+      "note": "إلغاء دفعة محصلة (حذف) - علي قرني امين ",
+      "id": 1355,
+      "date": "2026-06-25T20:10:56.112Z"
     }
   ],
   "expenses": [
