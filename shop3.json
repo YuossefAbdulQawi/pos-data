@@ -317,7 +317,7 @@
       "department_id": null,
       "buy_price": 583,
       "sell_price": 595,
-      "stock": 10,
+      "stock": 9,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -1273,7 +1273,7 @@
       "brand_id": null,
       "buy_price": 585,
       "sell_price": 600,
-      "stock": 12,
+      "stock": 11,
       "min_stock": 2,
       "expiry_date": "",
       "unit": "شكارة",
@@ -59223,6 +59223,58 @@
       "is_madasha": false,
       "id": 750,
       "date": "2026-06-25T15:46:38.147Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دشيش 40ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 585,
+          "sell_price": 600,
+          "stock": 12,
+          "min_stock": 2,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 86,
+          "created_at": "2026-05-05T19:08:29.646Z",
+          "pos_type": "main",
+          "quantity": 1
+        },
+        {
+          "name": "عبورلاند 250 جرام",
+          "barcode": "6224000147815",
+          "department_id": null,
+          "buy_price": 583,
+          "sell_price": 595,
+          "stock": 10,
+          "min_stock": 10,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 22,
+          "created_at": "2026-05-05T13:00:08.291Z",
+          "pos_type": "main",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1195,
+      "discount": 0,
+      "total": 1195,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 751,
+      "date": "2026-06-25T15:47:34.833Z"
     }
   ],
   "customers": [
@@ -79663,6 +79715,13 @@
       "amount": 2397,
       "note": "فاتورة بيع #750",
       "date": "2026-06-25T15:46:38.169Z"
+    },
+    {
+      "id": 1343,
+      "type": "in",
+      "amount": 1195,
+      "note": "فاتورة بيع #751",
+      "date": "2026-06-25T15:47:34.854Z"
     }
   ],
   "expenses": [
