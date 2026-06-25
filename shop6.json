@@ -364,6 +364,13 @@
       "id": 7,
       "opened_at": "2026-06-25T10:15:28.484Z",
       "closed_at": null
+    },
+    {
+      "username": "gaza",
+      "start_cash": 0,
+      "id": 8,
+      "opened_at": "2026-06-25T10:18:48.531Z",
+      "closed_at": null
     }
   ],
   "settings": {
