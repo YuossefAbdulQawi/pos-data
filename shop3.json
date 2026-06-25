@@ -66226,6 +66226,16 @@
       "remaining": 100,
       "id": 613,
       "created_at": "2026-06-25T18:15:01.084Z"
+    },
+    {
+      "customer_id": 194,
+      "total_amount": 12,
+      "down_payment": 0,
+      "description": "نص ك ارز",
+      "date": "2026-06-25",
+      "remaining": 12,
+      "id": 614,
+      "created_at": "2026-06-25T18:29:52.477Z"
     }
   ],
   "inst_payments": [
