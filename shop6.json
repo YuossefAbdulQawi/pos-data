@@ -371,27 +371,15 @@
       "id": 8,
       "opened_at": "2026-06-25T10:18:48.531Z",
       "closed_at": null
-    }
-  ],
-  "users": [
+    },
     {
-      "username": "youssef",
-      "password": "130796@",
-      "role": "admin",
-      "permissions": [
-        "pos",
-        "categories",
-        "products",
-        "warehouses",
-        "services",
-        "purchases",
-        "installments",
-        "treasury",
-        "reports"
-      ],
-      "active": true,
-      "id": 1,
-      "created_at": "2026-06-25T10:19:43.827Z"
+      "username": "gaza",
+      "start_cash": 0,
+      "id": 9,
+      "opened_at": "2026-06-25T10:48:38.687Z",
+      "closed_at": "2026-06-25T11:04:22.779Z",
+      "sales_total": 0,
+      "orders_count": 0
     }
   ],
   "settings": {
