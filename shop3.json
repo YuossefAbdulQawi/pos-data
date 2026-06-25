@@ -4105,7 +4105,7 @@
       "brand_id": null,
       "buy_price": 15,
       "sell_price": 16,
-      "stock": 250,
+      "stock": 150,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -58915,6 +58915,38 @@
       "is_madasha": true,
       "id": 746,
       "date": "2026-06-25T14:38:12.624Z"
+    },
+    {
+      "items": [
+        {
+          "name": "اشر بلدى",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 15,
+          "sell_price": 16,
+          "stock": 250,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 275,
+          "created_at": "2026-05-29T09:55:33.724Z",
+          "quantity": 100
+        }
+      ],
+      "subtotal": 1600,
+      "discount": 0,
+      "total": 1600,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 747,
+      "date": "2026-06-25T14:39:27.556Z"
     }
   ],
   "customers": [
@@ -79313,6 +79345,13 @@
       "amount": 29286.5,
       "note": "فاتورة بيع #746",
       "date": "2026-06-25T14:38:12.646Z"
+    },
+    {
+      "id": 1338,
+      "type": "in",
+      "amount": 1600,
+      "note": "فاتورة بيع #747",
+      "date": "2026-06-25T14:39:27.579Z"
     }
   ],
   "expenses": [
