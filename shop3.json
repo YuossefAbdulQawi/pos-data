@@ -66463,6 +66463,16 @@
       "remaining": 100,
       "id": 619,
       "created_at": "2026-06-26T16:39:53.297Z"
+    },
+    {
+      "customer_id": 194,
+      "total_amount": 112.5,
+      "down_payment": 0,
+      "description": "كهرباء  ارز",
+      "date": "2026-06-26",
+      "remaining": 112.5,
+      "id": 620,
+      "created_at": "2026-06-26T19:49:25.518Z"
     }
   ],
   "inst_payments": [
