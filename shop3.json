@@ -1812,24 +1812,6 @@
       "pos_type": "main"
     },
     {
-      "name": "سجاير بوكس",
-      "barcode": "6221004503364",
-      "department_id": null,
-      "buy_price": 485,
-      "sell_price": 495,
-      "stock": 0,
-      "min_stock": 10,
-      "unit": "علبة",
-      "icon": "📦",
-      "weight": "",
-      "description": "",
-      "expiry_date": "",
-      "sub_department_id": null,
-      "brand_id": null,
-      "id": 123,
-      "created_at": "2026-05-06T11:00:33.523Z"
-    },
-    {
       "name": "سجاير lm ازرق",
       "barcode": "62211628",
       "department_id": null,
