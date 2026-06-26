@@ -615,6 +615,15 @@
       "start_cash": 0,
       "id": 34,
       "opened_at": "2026-06-26T15:32:41.579Z",
+      "closed_at": "2026-06-26T15:39:19.550Z",
+      "sales_total": 0,
+      "orders_count": 0
+    },
+    {
+      "username": "gaza",
+      "start_cash": 0,
+      "id": 35,
+      "opened_at": "2026-06-26T15:39:19.552Z",
       "closed_at": null
     }
   ],
