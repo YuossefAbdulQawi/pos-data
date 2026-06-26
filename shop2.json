@@ -81279,7 +81279,9 @@
       "start_cash": 0,
       "id": 3,
       "opened_at": "2026-06-12T12:06:28.992Z",
-      "closed_at": null
+      "closed_at": "2026-06-26T20:15:33.641Z",
+      "sales_total": 110138.54000000018,
+      "orders_count": 1279
     },
     {
       "username": "gaza",
@@ -82268,6 +82270,13 @@
       "closed_at": "2026-06-26T20:15:21.177Z",
       "sales_total": 0,
       "orders_count": 0
+    },
+    {
+      "username": "gaza",
+      "start_cash": 0,
+      "id": 118,
+      "opened_at": "2026-06-26T20:15:33.642Z",
+      "closed_at": null
     }
   ],
   "users": [
