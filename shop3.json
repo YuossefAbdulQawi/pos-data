@@ -69694,6 +69694,16 @@
       "remaining": 1190,
       "id": 116,
       "created_at": "2026-06-26T13:47:28.780Z"
+    },
+    {
+      "creditor_id": 15,
+      "total_amount": 620,
+      "down_payment": 0,
+      "description": "3شاي",
+      "date": "2026-06-26",
+      "remaining": 620,
+      "id": 117,
+      "created_at": "2026-06-26T15:21:58.949Z"
     }
   ],
   "debt_payments": [
