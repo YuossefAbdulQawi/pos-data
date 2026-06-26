@@ -69664,6 +69664,16 @@
       "remaining": 17538,
       "id": 115,
       "created_at": "2026-06-24T15:33:52.531Z"
+    },
+    {
+      "creditor_id": 15,
+      "total_amount": 1190,
+      "down_payment": 0,
+      "description": "2نيوهب",
+      "date": "2026-06-26",
+      "remaining": 1190,
+      "id": 116,
+      "created_at": "2026-06-26T13:47:28.780Z"
     }
   ],
   "debt_payments": [
