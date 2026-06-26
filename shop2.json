@@ -82256,7 +82256,9 @@
       "start_cash": 0,
       "id": 116,
       "opened_at": "2026-06-26T20:13:28.417Z",
-      "closed_at": null
+      "closed_at": "2026-06-26T20:14:49.077Z",
+      "sales_total": 0,
+      "orders_count": 0
     }
   ],
   "users": [
