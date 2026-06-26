@@ -66354,6 +66354,16 @@
       "remaining": 10070,
       "id": 615,
       "created_at": "2026-06-25T20:11:37.329Z"
+    },
+    {
+      "customer_id": 102,
+      "total_amount": 4325,
+      "down_payment": 0,
+      "description": "ربع خفيف",
+      "date": "2026-06-26",
+      "remaining": 4325,
+      "id": 616,
+      "created_at": "2026-06-26T14:05:13.366Z"
     }
   ],
   "inst_payments": [
