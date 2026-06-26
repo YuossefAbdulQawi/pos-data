@@ -543,7 +543,9 @@
       "start_cash": 100,
       "id": 26,
       "opened_at": "2026-06-26T13:10:39.322Z",
-      "closed_at": null
+      "closed_at": "2026-06-26T13:12:00.847Z",
+      "sales_total": 0,
+      "orders_count": 0
     }
   ],
   "settings": {
