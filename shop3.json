@@ -59876,14 +59876,6 @@
   ],
   "customers": [
     {
-      "name": "محمد سيد احمد جبر",
-      "phone": "",
-      "address": "دمو البرج",
-      "notes": "",
-      "id": 2,
-      "created_at": "2026-05-04T20:16:56.867Z"
-    },
-    {
       "name": "احمد عزوز",
       "phone": "",
       "address": "الخوري",
@@ -61237,16 +61229,6 @@
     }
   ],
   "installments": [
-    {
-      "customer_id": 2,
-      "total_amount": 16255,
-      "down_payment": 0,
-      "description": "علف ",
-      "date": "2026-05-04",
-      "remaining": 16255,
-      "id": 2,
-      "created_at": "2026-05-04T20:17:20.158Z"
-    },
     {
       "customer_id": 4,
       "total_amount": 1470,
