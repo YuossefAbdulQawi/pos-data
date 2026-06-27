@@ -66595,6 +66595,16 @@
       "remaining": 150,
       "id": 625,
       "created_at": "2026-06-27T11:07:28.212Z"
+    },
+    {
+      "customer_id": 63,
+      "total_amount": 3315,
+      "down_payment": 0,
+      "description": "علف",
+      "date": "2026-06-27",
+      "remaining": 3315,
+      "id": 626,
+      "created_at": "2026-06-27T13:55:02.319Z"
     }
   ],
   "inst_payments": [
