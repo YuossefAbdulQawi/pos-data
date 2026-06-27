@@ -3077,7 +3077,7 @@
       "department_id": null,
       "buy_price": 9.5,
       "sell_price": 12,
-      "stock": 40,
+      "stock": 38,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -74439,6 +74439,38 @@
       "is_madasha": false,
       "id": 1333,
       "date": "2026-06-27T10:49:47.671Z"
+    },
+    {
+      "items": [
+        {
+          "name": "استينج صغير",
+          "barcode": "6223001366638",
+          "department_id": null,
+          "buy_price": 9.5,
+          "sell_price": 12,
+          "stock": 40,
+          "min_stock": 10,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 168,
+          "created_at": "2026-06-13T14:30:49.062Z",
+          "pos_type": "main",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 24,
+      "discount": 0,
+      "total": 24,
+      "cashier": "عبدو",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 1334,
+      "date": "2026-06-27T10:53:31.201Z"
     }
   ],
   "customers": [
@@ -84621,6 +84653,13 @@
       "amount": 28,
       "note": "فاتورة بيع #1333",
       "date": "2026-06-27T10:49:47.750Z"
+    },
+    {
+      "id": 1394,
+      "type": "in",
+      "amount": 24,
+      "note": "فاتورة بيع #1334",
+      "date": "2026-06-27T10:53:31.276Z"
     }
   ],
   "expenses": [
