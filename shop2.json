@@ -2009,7 +2009,7 @@
       "department_id": null,
       "buy_price": 200,
       "sell_price": 220,
-      "stock": 4,
+      "stock": 3,
       "min_stock": 1,
       "unit": "قطعة",
       "icon": "📦",
@@ -2175,7 +2175,7 @@
       "department_id": null,
       "buy_price": 185,
       "sell_price": 200,
-      "stock": 1,
+      "stock": 0,
       "min_stock": 1,
       "unit": "قطعة",
       "icon": "📦",
@@ -75176,6 +75176,57 @@
       "is_madasha": false,
       "id": 1345,
       "date": "2026-06-27T13:59:58.448Z"
+    },
+    {
+      "items": [
+        {
+          "name": "ستربس شهد",
+          "barcode": "6223002612932",
+          "department_id": null,
+          "buy_price": 200,
+          "sell_price": 220,
+          "stock": 4,
+          "min_stock": 1,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 110,
+          "created_at": "2026-06-12T17:53:44.813Z",
+          "pos_type": "main",
+          "quantity": 1
+        },
+        {
+          "name": "وجبه كامله شهد",
+          "barcode": "6223002611577",
+          "department_id": null,
+          "buy_price": 185,
+          "sell_price": 200,
+          "stock": 1,
+          "min_stock": 1,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 119,
+          "created_at": "2026-06-12T18:09:46.624Z",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 420,
+      "discount": 0,
+      "total": 420,
+      "cashier": "عبدو",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 1346,
+      "date": "2026-06-27T14:00:33.717Z"
     }
   ],
   "customers": [
@@ -85470,6 +85521,13 @@
       "amount": 76,
       "note": "فاتورة بيع #1345",
       "date": "2026-06-27T13:59:58.511Z"
+    },
+    {
+      "id": 1408,
+      "type": "in",
+      "amount": 420,
+      "note": "فاتورة بيع #1346",
+      "date": "2026-06-27T14:00:33.779Z"
     }
   ],
   "expenses": [
