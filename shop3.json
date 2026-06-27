@@ -66587,6 +66587,16 @@
       "remaining": 3315,
       "id": 626,
       "created_at": "2026-06-27T13:55:02.319Z"
+    },
+    {
+      "customer_id": 105,
+      "total_amount": 50,
+      "down_payment": 0,
+      "description": "باقي من نخاله",
+      "date": "2026-06-27",
+      "remaining": 50,
+      "id": 627,
+      "created_at": "2026-06-27T15:43:33.498Z"
     }
   ],
   "inst_payments": [
