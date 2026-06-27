@@ -66503,6 +66503,16 @@
       "remaining": 150,
       "id": 623,
       "created_at": "2026-06-27T10:36:49.805Z"
+    },
+    {
+      "customer_id": 91,
+      "total_amount": 1315,
+      "down_payment": 0,
+      "description": "فاتوره",
+      "date": "2026-06-27",
+      "remaining": 1315,
+      "id": 624,
+      "created_at": "2026-06-27T10:39:14.205Z"
     }
   ],
   "inst_payments": [
