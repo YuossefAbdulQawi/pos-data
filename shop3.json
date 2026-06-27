@@ -66493,6 +66493,16 @@
       "remaining": 870,
       "id": 622,
       "created_at": "2026-06-26T20:15:00.322Z"
+    },
+    {
+      "customer_id": 111,
+      "total_amount": 150,
+      "down_payment": 0,
+      "description": "كبريت + سماره",
+      "date": "2026-06-27",
+      "remaining": 150,
+      "id": 623,
+      "created_at": "2026-06-27T10:36:49.805Z"
     }
   ],
   "inst_payments": [
