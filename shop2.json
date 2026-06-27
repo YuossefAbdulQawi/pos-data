@@ -1042,7 +1042,7 @@
       "department_id": null,
       "buy_price": 25,
       "sell_price": 28,
-      "stock": 18,
+      "stock": 17,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -74408,6 +74408,37 @@
       "is_madasha": false,
       "id": 1332,
       "date": "2026-06-27T10:43:11.803Z"
+    },
+    {
+      "items": [
+        {
+          "name": "تونه مفتته بلانكو بارد",
+          "barcode": "6223000710470",
+          "department_id": null,
+          "buy_price": 25,
+          "sell_price": 28,
+          "stock": 18,
+          "min_stock": 10,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 58,
+          "created_at": "2026-06-12T13:45:06.633Z",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 28,
+      "discount": 0,
+      "total": 28,
+      "cashier": "عبدو",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 1333,
+      "date": "2026-06-27T10:49:47.671Z"
     }
   ],
   "customers": [
@@ -84583,6 +84614,13 @@
       "amount": 85,
       "note": "فاتورة بيع #1332",
       "date": "2026-06-27T10:43:11.870Z"
+    },
+    {
+      "id": 1393,
+      "type": "in",
+      "amount": 28,
+      "note": "فاتورة بيع #1333",
+      "date": "2026-06-27T10:49:47.750Z"
     }
   ],
   "expenses": [
