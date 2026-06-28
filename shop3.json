@@ -67345,6 +67345,16 @@
       "remaining": 1150,
       "id": 634,
       "created_at": "2026-06-28T17:36:48.788Z"
+    },
+    {
+      "customer_id": 109,
+      "total_amount": 1040,
+      "down_payment": 0,
+      "description": "بضاعه",
+      "date": "2026-06-28",
+      "remaining": 1040,
+      "id": 635,
+      "created_at": "2026-06-28T17:45:50.911Z"
     }
   ],
   "inst_payments": [
