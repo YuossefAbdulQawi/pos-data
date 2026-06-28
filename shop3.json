@@ -1179,7 +1179,7 @@
       "brand_id": null,
       "buy_price": 585,
       "sell_price": 600,
-      "stock": 10,
+      "stock": 6,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1218,7 +1218,7 @@
       "brand_id": null,
       "buy_price": 570,
       "sell_price": 580,
-      "stock": 5,
+      "stock": 3,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "قطعة",
@@ -60370,6 +60370,59 @@
       "is_madasha": false,
       "id": 774,
       "date": "2026-06-28T12:28:39.961Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيوهوب حرش صغير",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 585,
+          "sell_price": 600,
+          "stock": 10,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 80,
+          "created_at": "2026-05-05T19:02:05.706Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 4
+        },
+        {
+          "name": "فجر سوبر 25 ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 570,
+          "sell_price": 580,
+          "stock": 5,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "قطعة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 83,
+          "created_at": "2026-05-05T19:06:42.008Z",
+          "pos_type": "main",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 3560,
+      "discount": 0,
+      "total": 3560,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 775,
+      "date": "2026-06-28T15:47:33.923Z"
     }
   ],
   "customers": [
@@ -81552,6 +81605,13 @@
       "note": "سداد دين - وائل زيت اسرار ",
       "id": 1399,
       "date": "2026-06-28T14:54:01.781Z"
+    },
+    {
+      "id": 1400,
+      "type": "in",
+      "amount": 3560,
+      "note": "فاتورة بيع #775",
+      "date": "2026-06-28T15:47:33.947Z"
     }
   ],
   "expenses": [
