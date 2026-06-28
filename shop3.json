@@ -1631,7 +1631,7 @@
       "department_id": null,
       "buy_price": 204,
       "sell_price": 205,
-      "stock": 0,
+      "stock": 12,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -1642,7 +1642,8 @@
       "brand_id": null,
       "id": 113,
       "created_at": "2026-05-06T08:13:14.430Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "عدس بجبه",
