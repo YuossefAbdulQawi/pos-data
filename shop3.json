@@ -3731,9 +3731,9 @@
       "department_id": null,
       "sub_department_id": null,
       "brand_id": null,
-      "buy_price": 550,
-      "sell_price": 560,
-      "stock": 8,
+      "buy_price": 540,
+      "sell_price": 550,
+      "stock": 18,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "قطعة",
@@ -3742,7 +3742,8 @@
       "icon": "📦",
       "id": 256,
       "created_at": "2026-05-18T13:53:50.771Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "كارتيه65 ج ",
