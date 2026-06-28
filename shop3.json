@@ -70579,6 +70579,16 @@
       "remaining": 9970,
       "id": 118,
       "created_at": "2026-06-28T13:09:24.265Z"
+    },
+    {
+      "creditor_id": 2,
+      "total_amount": 5210,
+      "down_payment": 0,
+      "description": "ارز",
+      "date": "2026-06-28",
+      "remaining": 5210,
+      "id": 119,
+      "created_at": "2026-06-28T15:44:09.736Z"
     }
   ],
   "debt_payments": [
