@@ -1778,7 +1778,7 @@
       "department_id": null,
       "buy_price": 495,
       "sell_price": 500,
-      "stock": 25,
+      "stock": 15,
       "min_stock": 1,
       "unit": "علبة",
       "icon": "📦",
@@ -59996,6 +59996,39 @@
       "is_madasha": true,
       "id": 764,
       "date": "2026-06-27T16:10:31.871Z"
+    },
+    {
+      "items": [
+        {
+          "name": "سجاير كليو باترا",
+          "barcode": "6221004001976",
+          "department_id": null,
+          "buy_price": 495,
+          "sell_price": 500,
+          "stock": 25,
+          "min_stock": 1,
+          "unit": "علبة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 121,
+          "created_at": "2026-05-06T10:58:15.061Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 10
+        }
+      ],
+      "subtotal": 5000,
+      "discount": 0,
+      "total": 5000,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 765,
+      "date": "2026-06-28T05:11:20.745Z"
     }
   ],
   "customers": [
@@ -80908,6 +80941,13 @@
       "note": "سداد دفعة - رمضان عبدالله البيت ",
       "id": 1375,
       "date": "2026-06-27T19:54:14.362Z"
+    },
+    {
+      "id": 1376,
+      "type": "in",
+      "amount": 5000,
+      "note": "فاتورة بيع #765",
+      "date": "2026-06-28T05:11:20.768Z"
     }
   ],
   "expenses": [
