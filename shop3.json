@@ -4214,7 +4214,7 @@
       "brand_id": null,
       "buy_price": 9.3,
       "sell_price": 10.5,
-      "stock": 1518.762,
+      "stock": 0.7619999999999436,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -60528,6 +60528,38 @@
       "is_madasha": false,
       "id": 777,
       "date": "2026-06-28T16:03:41.818Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دريس",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 9.3,
+          "sell_price": 10.5,
+          "stock": 1518.762,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 282,
+          "created_at": "2026-05-30T17:32:35.367Z",
+          "quantity": 1518
+        }
+      ],
+      "subtotal": 15939,
+      "discount": 0,
+      "total": 15939,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 778,
+      "date": "2026-06-28T17:37:26.040Z"
     }
   ],
   "customers": [
@@ -81755,6 +81787,13 @@
       "note": "سداد دين - محمود ببس ",
       "id": 1403,
       "date": "2026-06-28T17:25:58.366Z"
+    },
+    {
+      "id": 1404,
+      "type": "in",
+      "amount": 15939,
+      "note": "فاتورة بيع #778",
+      "date": "2026-06-28T17:37:26.062Z"
     }
   ],
   "expenses": [
