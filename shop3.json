@@ -3064,9 +3064,9 @@
       "department_id": null,
       "sub_department_id": null,
       "brand_id": null,
-      "buy_price": 96,
+      "buy_price": 95,
       "sell_price": 100,
-      "stock": 4,
+      "stock": 14,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "علبة",
@@ -3075,7 +3075,8 @@
       "icon": "📦",
       "id": 219,
       "created_at": "2026-05-13T20:08:05.551Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "كبريت كبير ",
