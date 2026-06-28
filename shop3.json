@@ -1554,9 +1554,9 @@
       "department_id": null,
       "sub_department_id": null,
       "brand_id": null,
-      "buy_price": 415,
-      "sell_price": 430,
-      "stock": 2,
+      "buy_price": 405,
+      "sell_price": 420,
+      "stock": 12,
       "min_stock": 5,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1565,7 +1565,8 @@
       "icon": "📦",
       "id": 109,
       "created_at": "2026-05-06T07:59:21.083Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "ارز حماده",
