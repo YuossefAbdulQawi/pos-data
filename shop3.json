@@ -70533,6 +70533,16 @@
       "remaining": 620,
       "id": 117,
       "created_at": "2026-06-26T15:21:58.949Z"
+    },
+    {
+      "creditor_id": 15,
+      "total_amount": 9970,
+      "down_payment": 0,
+      "description": "علف",
+      "date": "2026-06-28",
+      "remaining": 9970,
+      "id": 118,
+      "created_at": "2026-06-28T13:09:24.265Z"
     }
   ],
   "debt_payments": [
