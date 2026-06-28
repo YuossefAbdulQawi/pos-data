@@ -1235,7 +1235,7 @@
       "brand_id": null,
       "buy_price": 515,
       "sell_price": 525,
-      "stock": 9,
+      "stock": 5,
       "min_stock": 4,
       "expiry_date": "",
       "unit": "شكارة",
@@ -60158,6 +60158,38 @@
       "is_madasha": false,
       "id": 769,
       "date": "2026-06-28T05:13:18.401Z"
+    },
+    {
+      "items": [
+        {
+          "name": "فجر بلدي",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 515,
+          "sell_price": 525,
+          "stock": 9,
+          "min_stock": 4,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 84,
+          "created_at": "2026-05-05T19:07:19.751Z",
+          "pos_type": "main",
+          "quantity": 4
+        }
+      ],
+      "subtotal": 2100,
+      "discount": 0,
+      "total": 2100,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 770,
+      "date": "2026-06-28T05:13:38.546Z"
     }
   ],
   "customers": [
@@ -81105,6 +81137,13 @@
       "amount": 3600,
       "note": "فاتورة بيع #769",
       "date": "2026-06-28T05:13:18.422Z"
+    },
+    {
+      "id": 1381,
+      "type": "in",
+      "amount": 2100,
+      "note": "فاتورة بيع #770",
+      "date": "2026-06-28T05:13:38.568Z"
     }
   ],
   "expenses": [
