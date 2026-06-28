@@ -67303,6 +67303,16 @@
       "remaining": 95,
       "id": 633,
       "created_at": "2026-06-28T14:45:17.394Z"
+    },
+    {
+      "customer_id": 24,
+      "total_amount": 1150,
+      "down_payment": 0,
+      "description": "دريس",
+      "date": "2026-06-28",
+      "remaining": 1150,
+      "id": 634,
+      "created_at": "2026-06-28T17:36:48.788Z"
     }
   ],
   "inst_payments": [
