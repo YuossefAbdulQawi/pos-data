@@ -1140,7 +1140,7 @@
       "brand_id": null,
       "buy_price": 1177,
       "sell_price": 1200,
-      "stock": 3,
+      "stock": 0,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -60126,6 +60126,38 @@
       "is_madasha": false,
       "id": 768,
       "date": "2026-06-28T05:13:00.386Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيوهوب  حرش مميز50ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 1177,
+          "sell_price": 1200,
+          "stock": 3,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 78,
+          "created_at": "2026-05-05T18:56:22.775Z",
+          "pos_type": "main",
+          "quantity": 3
+        }
+      ],
+      "subtotal": 3600,
+      "discount": 0,
+      "total": 3600,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 769,
+      "date": "2026-06-28T05:13:18.401Z"
     }
   ],
   "customers": [
@@ -81066,6 +81098,13 @@
       "amount": 1890,
       "note": "فاتورة بيع #768",
       "date": "2026-06-28T05:13:00.416Z"
+    },
+    {
+      "id": 1380,
+      "type": "in",
+      "amount": 3600,
+      "note": "فاتورة بيع #769",
+      "date": "2026-06-28T05:13:18.422Z"
     }
   ],
   "expenses": [
