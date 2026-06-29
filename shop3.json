@@ -67823,6 +67823,16 @@
       "remaining": 620,
       "id": 636,
       "created_at": "2026-06-29T11:41:17.176Z"
+    },
+    {
+      "customer_id": 37,
+      "total_amount": 460,
+      "down_payment": 0,
+      "description": "1نخاله",
+      "date": "2026-06-29",
+      "remaining": 460,
+      "id": 637,
+      "created_at": "2026-06-29T15:20:34.104Z"
     }
   ],
   "inst_payments": [
