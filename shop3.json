@@ -67502,6 +67502,16 @@
       "remaining": 1040,
       "id": 635,
       "created_at": "2026-06-28T17:45:50.911Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 620,
+      "down_payment": 0,
+      "description": "1دشيش 20خمير",
+      "date": "2026-06-29",
+      "remaining": 620,
+      "id": 636,
+      "created_at": "2026-06-29T11:41:17.176Z"
     }
   ],
   "inst_payments": [
