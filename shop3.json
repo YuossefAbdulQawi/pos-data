@@ -70215,14 +70215,6 @@
       "created_at": "2026-05-07T19:14:40.543Z"
     },
     {
-      "name": "اسلام ممدوح",
-      "phone": "",
-      "address": "",
-      "notes": "",
-      "id": 11,
-      "created_at": "2026-05-07T19:16:24.225Z"
-    },
-    {
       "name": "وائل زيت اسرار",
       "phone": "",
       "address": "",
@@ -70391,16 +70383,6 @@
       "remaining": 75000,
       "id": 10,
       "created_at": "2026-05-07T19:15:02.529Z"
-    },
-    {
-      "creditor_id": 11,
-      "total_amount": 20000,
-      "down_payment": 0,
-      "description": "سلف",
-      "date": "2026-05-07",
-      "remaining": 20000,
-      "id": 11,
-      "created_at": "2026-05-07T19:16:48.429Z"
     },
     {
       "creditor_id": 13,
