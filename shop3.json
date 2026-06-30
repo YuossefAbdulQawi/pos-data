@@ -1277,7 +1277,7 @@
       "brand_id": null,
       "buy_price": 585,
       "sell_price": 600,
-      "stock": 8,
+      "stock": 7,
       "min_stock": 2,
       "expiry_date": "",
       "unit": "شكارة",
@@ -61355,6 +61355,38 @@
       "is_madasha": true,
       "id": 788,
       "date": "2026-06-30T16:37:48.262Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دشيش 40ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 585,
+          "sell_price": 600,
+          "stock": 8,
+          "min_stock": 2,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 86,
+          "created_at": "2026-05-05T19:08:29.646Z",
+          "pos_type": "main",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 600,
+      "discount": 0,
+      "total": 600,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 789,
+      "date": "2026-06-30T18:03:05.676Z"
     }
   ],
   "customers": [
@@ -82819,6 +82851,13 @@
       "amount": 27953,
       "note": "فاتورة بيع #788",
       "date": "2026-06-30T16:37:48.284Z"
+    },
+    {
+      "id": 1425,
+      "type": "in",
+      "amount": 600,
+      "note": "فاتورة بيع #789",
+      "date": "2026-06-30T18:03:05.702Z"
     }
   ],
   "expenses": [
