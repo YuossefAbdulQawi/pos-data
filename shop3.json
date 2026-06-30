@@ -71313,6 +71313,16 @@
       "remaining": 4235,
       "id": 120,
       "created_at": "2026-06-30T10:04:16.136Z"
+    },
+    {
+      "creditor_id": 17,
+      "total_amount": 24400,
+      "down_payment": 0,
+      "description": "نخاله",
+      "date": "2026-06-30",
+      "remaining": 24400,
+      "id": 121,
+      "created_at": "2026-06-30T12:58:47.429Z"
     }
   ],
   "debt_payments": [
