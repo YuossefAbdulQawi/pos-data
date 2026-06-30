@@ -68262,6 +68262,16 @@
       "remaining": 4440,
       "id": 641,
       "created_at": "2026-06-30T18:44:28.908Z"
+    },
+    {
+      "customer_id": 109,
+      "total_amount": 210,
+      "down_payment": 0,
+      "description": "لب عس",
+      "date": "2026-06-30",
+      "remaining": 210,
+      "id": 642,
+      "created_at": "2026-06-30T20:33:49.038Z"
     }
   ],
   "inst_payments": [
