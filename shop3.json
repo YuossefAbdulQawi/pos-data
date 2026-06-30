@@ -3857,7 +3857,7 @@
       "brand_id": null,
       "buy_price": 13.95,
       "sell_price": 14.6,
-      "stock": 12396,
+      "stock": 12246,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4009,7 +4009,7 @@
       "brand_id": null,
       "buy_price": 13.7,
       "sell_price": 14,
-      "stock": 3000,
+      "stock": 2890,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4200,7 +4200,7 @@
       "brand_id": null,
       "buy_price": 20,
       "sell_price": 50,
-      "stock": 192,
+      "stock": 188,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -61096,6 +61096,80 @@
       "is_madasha": false,
       "id": 785,
       "date": "2026-06-30T15:36:43.387Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دره صفرا برزيلي",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.95,
+          "sell_price": 14.6,
+          "stock": 12396,
+          "min_stock": 200,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 262,
+          "created_at": "2026-05-23T21:33:28.844Z",
+          "quantity": 150
+        },
+        {
+          "name": "نخاله",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.7,
+          "sell_price": 14,
+          "stock": 3000,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 270,
+          "created_at": "2026-05-29T09:46:17.375Z",
+          "image": "",
+          "quantity": 110
+        },
+        {
+          "name": "اضفات",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 20,
+          "sell_price": 50,
+          "stock": 192,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 280,
+          "created_at": "2026-05-30T14:26:45.537Z",
+          "quantity": 4
+        }
+      ],
+      "subtotal": 3930,
+      "discount": 0,
+      "total": 3930,
+      "cashier": "امير",
+      "paid_amount": 0,
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 786,
+      "date": "2026-06-30T16:29:36.518Z"
     }
   ],
   "customers": [
@@ -62450,6 +62524,14 @@
       "notes": "",
       "id": 209,
       "created_at": "2026-06-24T19:31:26.715Z"
+    },
+    {
+      "name": "رمضان عم عبد الله فرحات",
+      "phone": "",
+      "address": "",
+      "notes": "",
+      "id": 210,
+      "created_at": "2026-06-30T16:29:36.511Z"
     }
   ],
   "installments": [
@@ -67931,6 +68013,15 @@
       "remaining": 10925,
       "id": 639,
       "created_at": "2026-06-30T15:09:42.773Z"
+    },
+    {
+      "customer_id": 210,
+      "total_amount": 3930,
+      "down_payment": 0,
+      "description": "مبيعات من نقطة البيع فاتورة #786",
+      "date": "2026-06-30",
+      "id": 640,
+      "created_at": "2026-06-30T16:29:36.551Z"
     }
   ],
   "inst_payments": [
