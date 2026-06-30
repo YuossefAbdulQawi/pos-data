@@ -1180,7 +1180,7 @@
       "brand_id": null,
       "buy_price": 585,
       "sell_price": 600,
-      "stock": 0,
+      "stock": 60,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
