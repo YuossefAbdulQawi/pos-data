@@ -1161,7 +1161,7 @@
       "brand_id": null,
       "buy_price": 1260,
       "sell_price": 1270,
-      "stock": 9,
+      "stock": 7,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -61602,6 +61602,39 @@
       "is_madasha": false,
       "id": 793,
       "date": "2026-07-01T11:34:28.028Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيو هوب ناعم مميز 50ك",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 1260,
+          "sell_price": 1270,
+          "stock": 9,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 79,
+          "created_at": "2026-05-05T18:58:42.986Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 2540,
+      "discount": 0,
+      "total": 2540,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 794,
+      "date": "2026-07-01T11:35:17.633Z"
     }
   ],
   "customers": [
@@ -83223,6 +83256,13 @@
       "amount": 1200,
       "note": "فاتورة بيع #793",
       "date": "2026-07-01T11:34:28.055Z"
+    },
+    {
+      "id": 1437,
+      "type": "in",
+      "amount": 2540,
+      "note": "فاتورة بيع #794",
+      "date": "2026-07-01T11:35:17.660Z"
     }
   ],
   "expenses": [
