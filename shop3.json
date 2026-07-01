@@ -1638,7 +1638,7 @@
       "department_id": null,
       "buy_price": 204,
       "sell_price": 205,
-      "stock": 20,
+      "stock": 12,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -61671,6 +61671,39 @@
       "is_madasha": false,
       "id": 795,
       "date": "2026-07-01T12:06:00.662Z"
+    },
+    {
+      "items": [
+        {
+          "name": "شاي العروسه 40جرام",
+          "barcode": "6222002300153",
+          "department_id": null,
+          "buy_price": 204,
+          "sell_price": 205,
+          "stock": 20,
+          "min_stock": 10,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 113,
+          "created_at": "2026-05-06T08:13:14.430Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 8
+        }
+      ],
+      "subtotal": 1640,
+      "discount": 0,
+      "total": 1640,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 796,
+      "date": "2026-07-01T12:19:38.705Z"
     }
   ],
   "customers": [
@@ -83320,6 +83353,13 @@
       "note": "سداد دين - محمود عبد السلام  ",
       "id": 1439,
       "date": "2026-07-01T12:15:14.516Z"
+    },
+    {
+      "id": 1440,
+      "type": "in",
+      "amount": 1640,
+      "note": "فاتورة بيع #796",
+      "date": "2026-07-01T12:19:38.727Z"
     }
   ],
   "expenses": [
