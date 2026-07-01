@@ -1181,7 +1181,7 @@
       "brand_id": null,
       "buy_price": 585,
       "sell_price": 600,
-      "stock": 27,
+      "stock": 24,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -62526,6 +62526,39 @@
       "is_madasha": false,
       "id": 806,
       "date": "2026-07-01T17:24:27.297Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيوهوب حرش صغير",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 585,
+          "sell_price": 600,
+          "stock": 27,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 80,
+          "created_at": "2026-05-05T19:02:05.706Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 3
+        }
+      ],
+      "subtotal": 1800,
+      "discount": 0,
+      "total": 1800,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 807,
+      "date": "2026-07-01T18:33:50.641Z"
     }
   ],
   "customers": [
@@ -84336,6 +84369,13 @@
       "note": "سداد دين - وائل زيت اسرار ",
       "id": 1455,
       "date": "2026-07-01T18:33:16.927Z"
+    },
+    {
+      "id": 1456,
+      "type": "in",
+      "amount": 1800,
+      "note": "فاتورة بيع #807",
+      "date": "2026-07-01T18:33:50.664Z"
     }
   ],
   "expenses": [
