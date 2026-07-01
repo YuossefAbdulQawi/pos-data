@@ -1600,7 +1600,7 @@
       "department_id": null,
       "buy_price": 24,
       "sell_price": 25,
-      "stock": 80,
+      "stock": 0,
       "min_stock": 10,
       "unit": "كيلو",
       "icon": "📦",
@@ -1619,7 +1619,7 @@
       "department_id": null,
       "buy_price": 122,
       "sell_price": 125,
-      "stock": 84,
+      "stock": 12,
       "min_stock": 10,
       "unit": "شكارة",
       "icon": "📦",
@@ -61802,6 +61802,58 @@
       "is_madasha": false,
       "id": 799,
       "date": "2026-07-01T12:25:07.431Z"
+    },
+    {
+      "items": [
+        {
+          "name": "ارز ابو الفتحوح معبئ 1ك",
+          "barcode": "6224008615040",
+          "department_id": null,
+          "buy_price": 24,
+          "sell_price": 25,
+          "stock": 80,
+          "min_stock": 10,
+          "unit": "كيلو",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 111,
+          "created_at": "2026-05-06T08:09:19.586Z",
+          "pos_type": "main",
+          "quantity": 80
+        },
+        {
+          "name": "ارز ابو الفتوح 5ك",
+          "barcode": "6224008615064",
+          "department_id": null,
+          "buy_price": 122,
+          "sell_price": 125,
+          "stock": 84,
+          "min_stock": 10,
+          "unit": "شكارة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 112,
+          "created_at": "2026-05-06T08:11:24.543Z",
+          "pos_type": "main",
+          "quantity": 72
+        }
+      ],
+      "subtotal": 11000,
+      "discount": 0,
+      "total": 11000,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 800,
+      "date": "2026-07-01T12:26:58.597Z"
     }
   ],
   "customers": [
@@ -83479,6 +83531,13 @@
       "amount": 12100,
       "note": "فاتورة بيع #799",
       "date": "2026-07-01T12:25:07.454Z"
+    },
+    {
+      "id": 1444,
+      "type": "in",
+      "amount": 11000,
+      "note": "فاتورة بيع #800",
+      "date": "2026-07-01T12:26:58.619Z"
     }
   ],
   "expenses": [
