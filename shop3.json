@@ -1714,7 +1714,7 @@
       "brand_id": null,
       "buy_price": 235,
       "sell_price": 300,
-      "stock": 0,
+      "stock": 1,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1722,7 +1722,9 @@
       "description": "",
       "icon": "📦",
       "id": 117,
-      "created_at": "2026-05-06T08:19:55.401Z"
+      "created_at": "2026-05-06T08:19:55.401Z",
+      "image": "",
+      "pos_type": "main"
     },
     {
       "name": "نشا ",
