@@ -2584,9 +2584,9 @@
       "department_id": null,
       "sub_department_id": null,
       "brand_id": null,
-      "buy_price": 46.5,
-      "sell_price": 50,
-      "stock": 8,
+      "buy_price": 53,
+      "sell_price": 60,
+      "stock": 20,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "علبة",
@@ -2594,7 +2594,9 @@
       "description": "",
       "icon": "📦",
       "id": 180,
-      "created_at": "2026-05-10T19:51:57.813Z"
+      "created_at": "2026-05-10T19:51:57.813Z",
+      "image": "",
+      "pos_type": "main"
     },
     {
       "name": "عصير",
