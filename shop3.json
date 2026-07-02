@@ -66124,16 +66124,6 @@
       "created_at": "2026-05-10T08:49:44.634Z"
     },
     {
-      "customer_id": 180,
-      "total_amount": 480,
-      "down_payment": 0,
-      "description": "باقي شكاره نيوهوب 50 ك",
-      "date": "2026-05-10",
-      "remaining": 480,
-      "id": 219,
-      "created_at": "2026-05-10T08:51:03.066Z"
-    },
-    {
       "customer_id": 94,
       "total_amount": 155,
       "down_payment": 0,
