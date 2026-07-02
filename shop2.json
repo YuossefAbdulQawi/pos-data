@@ -94275,6 +94275,16 @@
       "remaining": 2000,
       "id": 31,
       "created_at": "2026-07-02T02:40:51.993Z"
+    },
+    {
+      "customer_id": 10,
+      "total_amount": 475,
+      "down_payment": 0,
+      "description": "طلبات",
+      "date": "2026-06-30",
+      "remaining": 475,
+      "id": 32,
+      "created_at": "2026-07-02T03:03:59.807Z"
     }
   ],
   "inst_payments": [
