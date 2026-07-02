@@ -2018,7 +2018,7 @@
       "brand_id": null,
       "buy_price": 80,
       "sell_price": 100,
-      "stock": 0,
+      "stock": 50,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -2027,7 +2027,8 @@
       "icon": "📦",
       "id": 146,
       "created_at": "2026-05-07T15:34:03.540Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "فول سوداني",
