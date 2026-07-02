@@ -5383,7 +5383,7 @@
       "brand_id": null,
       "buy_price": 35,
       "sell_price": 50,
-      "stock": 10,
+      "stock": 22,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "علبة",
@@ -5392,7 +5392,8 @@
       "icon": "📦",
       "pos_type": "main",
       "id": 343,
-      "created_at": "2026-06-20T20:41:10.493Z"
+      "created_at": "2026-06-20T20:41:10.493Z",
+      "image": ""
     },
     {
       "name": "اكشن ببس5",
