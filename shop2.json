@@ -9468,6 +9468,24 @@
       "pos_type": "main",
       "id": 519,
       "created_at": "2026-07-01T10:55:16.177Z"
+    },
+    {
+      "name": "هالي",
+      "barcode": "6222024107778",
+      "department_id": null,
+      "buy_price": 13.5,
+      "sell_price": 15,
+      "stock": 1,
+      "min_stock": 10,
+      "unit": "قطعة",
+      "icon": "📦",
+      "weight": "",
+      "description": "",
+      "expiry_date": "",
+      "sub_department_id": null,
+      "brand_id": null,
+      "id": 520,
+      "created_at": "2026-07-02T02:53:33.226Z"
     }
   ],
   "sales": [
