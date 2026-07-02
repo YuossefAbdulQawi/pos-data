@@ -2038,7 +2038,7 @@
       "brand_id": null,
       "buy_price": 80,
       "sell_price": 100,
-      "stock": 25,
+      "stock": 75,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -2047,7 +2047,8 @@
       "icon": "📦",
       "id": 147,
       "created_at": "2026-05-07T15:34:51.762Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "لب عباد رفيع",
