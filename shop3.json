@@ -2077,7 +2077,7 @@
       "brand_id": null,
       "buy_price": 210,
       "sell_price": 250,
-      "stock": 0,
+      "stock": 10,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -2086,7 +2086,8 @@
       "icon": "📦",
       "id": 149,
       "created_at": "2026-05-07T15:36:32.010Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "لب خشب",
