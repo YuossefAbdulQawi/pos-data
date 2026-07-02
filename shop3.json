@@ -2436,7 +2436,7 @@
       "department_id": null,
       "buy_price": 6.5,
       "sell_price": 7,
-      "stock": 47,
+      "stock": 46,
       "min_stock": 10,
       "unit": "ظرف",
       "icon": "📦",
@@ -62559,6 +62559,38 @@
       "is_madasha": false,
       "id": 807,
       "date": "2026-07-01T18:33:50.641Z"
+    },
+    {
+      "items": [
+        {
+          "name": "كوفي ميكس",
+          "barcode": "6221007034933",
+          "department_id": null,
+          "buy_price": 6.5,
+          "sell_price": 7,
+          "stock": 47,
+          "min_stock": 10,
+          "unit": "ظرف",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 169,
+          "created_at": "2026-05-08T11:04:02.315Z",
+          "pos_type": "main",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 7,
+      "discount": 0,
+      "total": 7,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 808,
+      "date": "2026-07-02T12:48:19.878Z"
     }
   ],
   "customers": [
@@ -84428,6 +84460,13 @@
       "note": "سداد دين - احمد ربيع ",
       "id": 1459,
       "date": "2026-07-02T09:14:47.806Z"
+    },
+    {
+      "id": 1460,
+      "type": "in",
+      "amount": 7,
+      "note": "فاتورة بيع #808",
+      "date": "2026-07-02T12:48:19.904Z"
     }
   ],
   "expenses": [
