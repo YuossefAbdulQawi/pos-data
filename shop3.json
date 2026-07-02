@@ -4230,9 +4230,9 @@
       "department_id": null,
       "sub_department_id": null,
       "brand_id": null,
-      "buy_price": 9.3,
-      "sell_price": 10.5,
-      "stock": 0.7619999999999436,
+      "buy_price": 9,
+      "sell_price": 10,
+      "stock": 3500,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4241,7 +4241,8 @@
       "icon": "📦",
       "pos_type": "madasha",
       "id": 282,
-      "created_at": "2026-05-30T17:32:35.367Z"
+      "created_at": "2026-05-30T17:32:35.367Z",
+      "image": ""
     },
     {
       "name": "ترسكل",
