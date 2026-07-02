@@ -69873,6 +69873,16 @@
       "remaining": 980,
       "id": 647,
       "created_at": "2026-07-02T16:00:51.951Z"
+    },
+    {
+      "customer_id": 180,
+      "total_amount": 2420,
+      "down_payment": 0,
+      "description": "هعععععلف",
+      "date": "2026-07-02",
+      "remaining": 2420,
+      "id": 648,
+      "created_at": "2026-07-02T16:13:31.335Z"
     }
   ],
   "inst_payments": [
