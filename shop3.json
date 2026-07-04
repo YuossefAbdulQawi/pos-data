@@ -64363,14 +64363,6 @@
       "created_at": "2026-05-05T07:56:22.563Z"
     },
     {
-      "name": "ام طارق جمال بليه",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 31,
-      "created_at": "2026-05-05T07:57:30.944Z"
-    },
-    {
       "name": "جمال بليه ",
       "phone": "",
       "address": "الخوري ",
@@ -65759,16 +65751,6 @@
       "remaining": 205,
       "id": 30,
       "created_at": "2026-05-05T07:56:38.641Z"
-    },
-    {
-      "customer_id": 31,
-      "total_amount": 290,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 290,
-      "id": 31,
-      "created_at": "2026-05-05T07:58:10.456Z"
     },
     {
       "customer_id": 32,
