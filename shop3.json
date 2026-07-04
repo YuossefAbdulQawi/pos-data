@@ -5454,7 +5454,7 @@
       "brand_id": null,
       "buy_price": 47,
       "sell_price": 52,
-      "stock": 12,
+      "stock": 0,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كرتونة",
@@ -64110,6 +64110,39 @@
       "is_madasha": false,
       "id": 829,
       "date": "2026-07-04T13:42:59.999Z"
+    },
+    {
+      "items": [
+        {
+          "name": "عصير 5",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 47,
+          "sell_price": 52,
+          "stock": 12,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كرتونة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "main",
+          "id": 346,
+          "created_at": "2026-06-22T12:52:22.174Z",
+          "image": "",
+          "quantity": 12
+        }
+      ],
+      "subtotal": 624,
+      "discount": 0,
+      "total": 624,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 830,
+      "date": "2026-07-04T13:43:29.950Z"
     }
   ],
   "customers": [
@@ -85995,6 +86028,13 @@
       "amount": 2370,
       "note": "فاتورة بيع #829",
       "date": "2026-07-04T13:43:00.024Z"
+    },
+    {
+      "id": 1497,
+      "type": "in",
+      "amount": 624,
+      "note": "فاتورة بيع #830",
+      "date": "2026-07-04T13:43:29.974Z"
     }
   ],
   "expenses": [
