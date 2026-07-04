@@ -73115,14 +73115,6 @@
       "created_at": "2026-05-23T19:13:55.288Z"
     },
     {
-      "name": "نيوهب",
-      "phone": "",
-      "address": "بنى سويف",
-      "notes": "",
-      "id": 23,
-      "created_at": "2026-06-02T13:59:20.027Z"
-    },
-    {
       "name": "محمود ببس",
       "phone": "",
       "address": "دمو",
@@ -73581,16 +73573,6 @@
       "created_at": "2026-06-01T20:12:02.088Z"
     },
     {
-      "creditor_id": 23,
-      "total_amount": 63715,
-      "down_payment": 0,
-      "description": "80صغير 10ناعم كبير",
-      "date": "2026-06-02",
-      "remaining": 63715,
-      "id": 58,
-      "created_at": "2026-06-02T14:02:02.135Z"
-    },
-    {
       "creditor_id": 2,
       "total_amount": 7010,
       "down_payment": 0,
@@ -73811,66 +73793,6 @@
       "created_at": "2026-06-12T09:51:38.179Z"
     },
     {
-      "creditor_id": 23,
-      "total_amount": 62530,
-      "down_payment": 0,
-      "description": "60علف ص  10نامى ممز10بادى ممز",
-      "date": "2026-06-13",
-      "remaining": 62530,
-      "id": 86,
-      "created_at": "2026-06-13T10:57:51.229Z"
-    },
-    {
-      "creditor_id": 23,
-      "total_amount": 70017,
-      "down_payment": 0,
-      "description": "1طن نامى مميز 1.25نامى صغير .25بادى مميز  23/5/2026",
-      "date": "2026-03-02",
-      "remaining": 70017,
-      "id": 87,
-      "created_at": "2026-06-13T11:08:49.225Z"
-    },
-    {
-      "creditor_id": 23,
-      "total_amount": 229675,
-      "down_payment": 0,
-      "description": "1بادى مميز 1نامى مميز 3نامى مميز 4نامى صغير  4/5/2026",
-      "date": "2026-04-05",
-      "remaining": 229675,
-      "id": 88,
-      "created_at": "2026-06-13T11:15:59.909Z"
-    },
-    {
-      "creditor_id": 23,
-      "total_amount": 63530,
-      "down_payment": 0,
-      "description": "1نامى مميز 1.5نامي صغير29/4/2026",
-      "date": "2026-09-04",
-      "remaining": 63530,
-      "id": 89,
-      "created_at": "2026-06-13T11:23:56.211Z"
-    },
-    {
-      "creditor_id": 23,
-      "total_amount": 50340,
-      "down_payment": 0,
-      "description": "2طن نامي صغير",
-      "date": "2026-01-04",
-      "remaining": 50340,
-      "id": 90,
-      "created_at": "2026-06-13T11:34:10.903Z"
-    },
-    {
-      "creditor_id": 23,
-      "total_amount": 411590,
-      "down_payment": 0,
-      "description": "6نام مميز7نامى مميز5بادى مميز",
-      "date": "2026-12-03",
-      "remaining": 411590,
-      "id": 91,
-      "created_at": "2026-06-13T11:40:37.700Z"
-    },
-    {
       "creditor_id": 6,
       "total_amount": 137564,
       "down_payment": 0,
@@ -73949,16 +73871,6 @@
       "remaining": 5950,
       "id": 99,
       "created_at": "2026-06-16T14:44:58.958Z"
-    },
-    {
-      "creditor_id": 23,
-      "total_amount": 50095,
-      "down_payment": 0,
-      "description": "1طن نامي صغيرنص نامي مميز نص بادي مميز",
-      "date": "2026-06-16",
-      "remaining": 50095,
-      "id": 100,
-      "created_at": "2026-06-16T15:40:36.249Z"
     },
     {
       "creditor_id": 31,
