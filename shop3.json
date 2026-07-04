@@ -65299,14 +65299,6 @@
       "created_at": "2026-05-06T19:43:31.701Z"
     },
     {
-      "name": "محمود جبر",
-      "phone": "",
-      "address": "البرج",
-      "notes": "",
-      "id": 169,
-      "created_at": "2026-05-07T19:09:04.898Z"
-    },
-    {
       "name": "احمد بط ",
       "phone": "",
       "address": "منشيه عبدالله",
@@ -67079,16 +67071,6 @@
       "created_at": "2026-05-07T18:40:10.778Z"
     },
     {
-      "customer_id": 169,
-      "total_amount": 5580,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-07",
-      "remaining": 5580,
-      "id": 187,
-      "created_at": "2026-05-07T19:09:53.170Z"
-    },
-    {
       "customer_id": 171,
       "total_amount": 56000,
       "down_payment": 0,
@@ -67685,16 +67667,6 @@
       "created_at": "2026-05-14T12:05:55.140Z"
     },
     {
-      "customer_id": 169,
-      "total_amount": 1900,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-14",
-      "remaining": 1900,
-      "id": 267,
-      "created_at": "2026-05-14T16:16:12.069Z"
-    },
-    {
       "customer_id": 67,
       "total_amount": 5100,
       "down_payment": 2000,
@@ -67803,16 +67775,6 @@
       "remaining": 40,
       "id": 278,
       "created_at": "2026-05-15T18:35:12.213Z"
-    },
-    {
-      "customer_id": 169,
-      "total_amount": 1900,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-15",
-      "remaining": 1900,
-      "id": 281,
-      "created_at": "2026-05-15T20:28:02.528Z"
     },
     {
       "customer_id": 46,
@@ -68533,16 +68495,6 @@
       "remaining": 3000,
       "id": 377,
       "created_at": "2026-05-25T14:48:28.289Z"
-    },
-    {
-      "customer_id": 169,
-      "total_amount": 3750,
-      "down_payment": 0,
-      "description": "خلطت بهايم",
-      "date": "2026-05-25",
-      "remaining": 3750,
-      "id": 378,
-      "created_at": "2026-05-25T15:24:10.228Z"
     },
     {
       "customer_id": 88,
@@ -70069,16 +70021,6 @@
       "created_at": "2026-06-19T14:12:56.180Z"
     },
     {
-      "customer_id": 169,
-      "total_amount": 1800,
-      "down_payment": 0,
-      "description": "100علف",
-      "date": "2026-06-19",
-      "remaining": 1800,
-      "id": 567,
-      "created_at": "2026-06-19T17:54:45.324Z"
-    },
-    {
       "customer_id": 188,
       "total_amount": 295,
       "down_payment": 0,
@@ -70846,16 +70788,6 @@
       "remaining": 4700,
       "id": 659,
       "created_at": "2026-07-04T14:43:07.909Z"
-    },
-    {
-      "customer_id": 169,
-      "total_amount": 675,
-      "down_payment": 0,
-      "description": "علف40",
-      "date": "2026-07-04",
-      "remaining": 675,
-      "id": 660,
-      "created_at": "2026-07-04T18:04:20.827Z"
     }
   ],
   "inst_payments": [
