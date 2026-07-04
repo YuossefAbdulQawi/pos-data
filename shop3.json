@@ -4063,7 +4063,7 @@
       "brand_id": null,
       "buy_price": 20.5,
       "sell_price": 24,
-      "stock": 680,
+      "stock": 630,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -64143,6 +64143,38 @@
       "is_madasha": false,
       "id": 830,
       "date": "2026-07-04T13:43:29.950Z"
+    },
+    {
+      "items": [
+        {
+          "name": "مستخلص",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 20.5,
+          "sell_price": 24,
+          "stock": 680,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 272,
+          "created_at": "2026-05-29T09:49:44.422Z",
+          "quantity": 50
+        }
+      ],
+      "subtotal": 1200,
+      "discount": 0,
+      "total": 1200,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 831,
+      "date": "2026-07-04T13:44:11.447Z"
     }
   ],
   "customers": [
@@ -86035,6 +86067,13 @@
       "amount": 624,
       "note": "فاتورة بيع #830",
       "date": "2026-07-04T13:43:29.974Z"
+    },
+    {
+      "id": 1498,
+      "type": "in",
+      "amount": 1200,
+      "note": "فاتورة بيع #831",
+      "date": "2026-07-04T13:44:11.470Z"
     }
   ],
   "expenses": [
