@@ -70622,6 +70622,16 @@
       "remaining": 9295,
       "id": 657,
       "created_at": "2026-07-04T13:36:13.767Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 530,
+      "down_payment": 0,
+      "description": "حماده",
+      "date": "2026-07-04",
+      "remaining": 530,
+      "id": 658,
+      "created_at": "2026-07-04T13:39:29.677Z"
     }
   ],
   "inst_payments": [
