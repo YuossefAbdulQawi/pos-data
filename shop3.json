@@ -71190,6 +71190,16 @@
       "remaining": 1030,
       "id": 661,
       "created_at": "2026-07-05T16:38:48.448Z"
+    },
+    {
+      "customer_id": 115,
+      "total_amount": 4490,
+      "down_payment": 0,
+      "description": "علق",
+      "date": "2026-07-05",
+      "remaining": 4490,
+      "id": 662,
+      "created_at": "2026-07-05T18:45:39.808Z"
     }
   ],
   "inst_payments": [
