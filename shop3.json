@@ -1184,7 +1184,7 @@
       "brand_id": null,
       "buy_price": 580,
       "sell_price": 595,
-      "stock": 50,
+      "stock": 35,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -5475,7 +5475,7 @@
       "brand_id": null,
       "buy_price": 47,
       "sell_price": 49,
-      "stock": 98,
+      "stock": 38,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كرتونة",
@@ -64703,6 +64703,60 @@
       "is_madasha": false,
       "id": 837,
       "date": "2026-07-05T19:39:39.360Z"
+    },
+    {
+      "items": [
+        {
+          "name": "عصير 5",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 47,
+          "sell_price": 49,
+          "stock": 98,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كرتونة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "main",
+          "id": 346,
+          "created_at": "2026-06-22T12:52:22.174Z",
+          "image": "",
+          "quantity": 60
+        },
+        {
+          "name": "نيوهوب حرش صغير",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 580,
+          "sell_price": 595,
+          "stock": 50,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 80,
+          "created_at": "2026-05-05T19:02:05.706Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 15
+        }
+      ],
+      "subtotal": 11865,
+      "discount": 0,
+      "total": 11865,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 838,
+      "date": "2026-07-05T20:04:19.445Z"
     }
   ],
   "customers": [
@@ -86726,6 +86780,13 @@
       "amount": 1610,
       "note": "فاتورة بيع #837",
       "date": "2026-07-05T19:39:39.390Z"
+    },
+    {
+      "id": 1512,
+      "type": "in",
+      "amount": 11865,
+      "note": "فاتورة بيع #838",
+      "date": "2026-07-05T20:04:19.470Z"
     }
   ],
   "expenses": [
