@@ -71328,6 +71328,16 @@
       "remaining": 4490,
       "id": 662,
       "created_at": "2026-07-05T18:45:39.808Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 11715,
+      "down_payment": 0,
+      "description": "عصير",
+      "date": "2026-07-05",
+      "remaining": 11715,
+      "id": 663,
+      "created_at": "2026-07-05T20:03:03.152Z"
     }
   ],
   "inst_payments": [
