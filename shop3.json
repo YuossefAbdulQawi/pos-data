@@ -74977,6 +74977,16 @@
       "remaining": 19000,
       "id": 122,
       "created_at": "2026-07-05T10:41:18.565Z"
+    },
+    {
+      "creditor_id": 15,
+      "total_amount": 10925,
+      "down_payment": 0,
+      "description": "فجر",
+      "date": "2026-07-05",
+      "remaining": 10925,
+      "id": 123,
+      "created_at": "2026-07-06T10:20:47.918Z"
     }
   ],
   "debt_payments": [
