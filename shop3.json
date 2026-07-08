@@ -3895,7 +3895,7 @@
       "brand_id": null,
       "buy_price": 13.95,
       "sell_price": 14.6,
-      "stock": 7926,
+      "stock": 5926,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -65398,6 +65398,38 @@
       "is_madasha": true,
       "id": 845,
       "date": "2026-07-08T11:40:54.598Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دره صفرا برزيلي",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.95,
+          "sell_price": 14.6,
+          "stock": 7926,
+          "min_stock": 200,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 262,
+          "created_at": "2026-05-23T21:33:28.844Z",
+          "quantity": 2000
+        }
+      ],
+      "subtotal": 29200,
+      "discount": 0,
+      "total": 29200,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 846,
+      "date": "2026-07-08T11:41:40.061Z"
     }
   ],
   "customers": [
@@ -87659,6 +87691,13 @@
       "amount": 10000,
       "note": "فاتورة بيع #845",
       "date": "2026-07-08T11:40:54.624Z"
+    },
+    {
+      "id": 1528,
+      "type": "in",
+      "amount": 29200,
+      "note": "فاتورة بيع #846",
+      "date": "2026-07-08T11:41:40.087Z"
     }
   ],
   "expenses": [
