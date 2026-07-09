@@ -72339,6 +72339,16 @@
       "remaining": 185,
       "id": 669,
       "created_at": "2026-07-08T18:36:57.944Z"
+    },
+    {
+      "customer_id": 48,
+      "total_amount": 60,
+      "down_payment": 0,
+      "description": "سج",
+      "date": "2026-07-08",
+      "remaining": 60,
+      "id": 670,
+      "created_at": "2026-07-09T11:43:51.389Z"
     }
   ],
   "inst_payments": [
