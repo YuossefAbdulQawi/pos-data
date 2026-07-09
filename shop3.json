@@ -1437,9 +1437,9 @@
       "name": "زيت اسرار  5لتر",
       "barcode": "6224002657084",
       "department_id": null,
-      "buy_price": 340,
+      "buy_price": 330,
       "sell_price": 350,
-      "stock": 60,
+      "stock": 100,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -1450,7 +1450,8 @@
       "brand_id": null,
       "id": 101,
       "created_at": "2026-05-05T20:08:03.980Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "سولينا 600م",
