@@ -72339,6 +72339,16 @@
       "remaining": 60,
       "id": 670,
       "created_at": "2026-07-09T11:43:51.389Z"
+    },
+    {
+      "customer_id": 214,
+      "total_amount": 1878,
+      "down_payment": 0,
+      "description": "نخاله",
+      "date": "2026-07-08",
+      "remaining": 1878,
+      "id": 671,
+      "created_at": "2026-07-09T12:57:14.152Z"
     }
   ],
   "inst_payments": [
