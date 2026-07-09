@@ -1632,9 +1632,9 @@
       "name": "ارز ابو الفتوح 5ك",
       "barcode": "6224008615064",
       "department_id": null,
-      "buy_price": 122,
+      "buy_price": 118,
       "sell_price": 125,
-      "stock": 0,
+      "stock": 35,
       "min_stock": 10,
       "unit": "شكارة",
       "icon": "📦",
@@ -1645,7 +1645,8 @@
       "brand_id": null,
       "id": 112,
       "created_at": "2026-05-06T08:11:24.543Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "شاي العروسه 40جرام",
