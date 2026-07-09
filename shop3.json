@@ -5101,7 +5101,7 @@
       "brand_id": null,
       "buy_price": 260,
       "sell_price": 270,
-      "stock": 12,
+      "stock": 11,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كرتونة",
@@ -5110,7 +5110,8 @@
       "icon": "📦",
       "pos_type": "main",
       "id": 326,
-      "created_at": "2026-06-11T10:10:52.430Z"
+      "created_at": "2026-06-11T10:10:52.430Z",
+      "image": ""
     },
     {
       "name": "مكرونه الملكه 400 جرام قطاعي ",
