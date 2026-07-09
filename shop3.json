@@ -76041,6 +76041,16 @@
       "remaining": -2000,
       "id": 126,
       "created_at": "2026-07-09T11:16:48.079Z"
+    },
+    {
+      "creditor_id": 13,
+      "total_amount": 25675,
+      "down_payment": 0,
+      "description": "زيت",
+      "date": "2026-07-08",
+      "remaining": 25675,
+      "id": 127,
+      "created_at": "2026-07-09T13:17:53.654Z"
     }
   ],
   "debt_payments": [
