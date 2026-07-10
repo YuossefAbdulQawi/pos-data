@@ -1576,7 +1576,7 @@
       "brand_id": null,
       "buy_price": 375,
       "sell_price": 400,
-      "stock": 25,
+      "stock": 15,
       "min_stock": 5,
       "expiry_date": "",
       "unit": "شكارة",
@@ -66107,6 +66107,39 @@
       "is_madasha": false,
       "id": 857,
       "date": "2026-07-10T17:09:27.232Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دقيق لقمه هنيه",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 375,
+          "sell_price": 400,
+          "stock": 25,
+          "min_stock": 5,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 109,
+          "created_at": "2026-05-06T07:59:21.083Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 10
+        }
+      ],
+      "subtotal": 4000,
+      "discount": 0,
+      "total": 4000,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 858,
+      "date": "2026-07-10T18:42:35.083Z"
     }
   ],
   "customers": [
@@ -88918,6 +88951,13 @@
       "amount": 1900,
       "note": "فاتورة بيع #857",
       "date": "2026-07-10T17:09:27.255Z"
+    },
+    {
+      "id": 1568,
+      "type": "in",
+      "amount": 4000,
+      "note": "فاتورة بيع #858",
+      "date": "2026-07-10T18:42:35.108Z"
     }
   ],
   "expenses": [
