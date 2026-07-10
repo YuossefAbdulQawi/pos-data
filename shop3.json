@@ -1498,7 +1498,7 @@
       "brand_id": null,
       "buy_price": 235,
       "sell_price": 265,
-      "stock": 4,
+      "stock": 0,
       "min_stock": 5,
       "expiry_date": "",
       "unit": "شكارة",
@@ -65955,6 +65955,38 @@
       "is_madasha": false,
       "id": 853,
       "date": "2026-07-10T11:15:30.260Z"
+    },
+    {
+      "items": [
+        {
+          "name": "قرمش ",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 235,
+          "sell_price": 265,
+          "stock": 4,
+          "min_stock": 5,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 105,
+          "created_at": "2026-05-05T20:21:49.234Z",
+          "pos_type": "main",
+          "quantity": 4
+        }
+      ],
+      "subtotal": 1060,
+      "discount": 0,
+      "total": 1060,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 854,
+      "date": "2026-07-10T11:16:10.018Z"
     }
   ],
   "customers": [
@@ -88628,6 +88660,13 @@
       "amount": 7105,
       "note": "فاتورة بيع #853",
       "date": "2026-07-10T11:15:30.284Z"
+    },
+    {
+      "id": 1558,
+      "type": "in",
+      "amount": 1060,
+      "note": "فاتورة بيع #854",
+      "date": "2026-07-10T11:16:10.042Z"
     }
   ],
   "expenses": [
