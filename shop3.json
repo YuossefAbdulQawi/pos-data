@@ -1809,7 +1809,7 @@
       "department_id": null,
       "buy_price": 495,
       "sell_price": 500,
-      "stock": 6,
+      "stock": 0,
       "min_stock": 1,
       "unit": "علبة",
       "icon": "📦",
@@ -66041,6 +66041,39 @@
       "is_madasha": false,
       "id": 855,
       "date": "2026-07-10T17:08:43.947Z"
+    },
+    {
+      "items": [
+        {
+          "name": "سجاير كليو باترا",
+          "barcode": "6221004001976",
+          "department_id": null,
+          "buy_price": 495,
+          "sell_price": 500,
+          "stock": 6,
+          "min_stock": 1,
+          "unit": "علبة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 121,
+          "created_at": "2026-05-06T10:58:15.061Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 6
+        }
+      ],
+      "subtotal": 3000,
+      "discount": 0,
+      "total": 3000,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 856,
+      "date": "2026-07-10T17:09:10.986Z"
     }
   ],
   "customers": [
@@ -88838,6 +88871,13 @@
       "amount": 5930,
       "note": "فاتورة بيع #855",
       "date": "2026-07-10T17:08:43.971Z"
+    },
+    {
+      "id": 1566,
+      "type": "in",
+      "amount": 3000,
+      "note": "فاتورة بيع #856",
+      "date": "2026-07-10T17:09:11.011Z"
     }
   ],
   "expenses": [
