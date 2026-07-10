@@ -1147,7 +1147,7 @@
       "brand_id": null,
       "buy_price": 1160,
       "sell_price": 1180,
-      "stock": 18,
+      "stock": 17,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -65648,6 +65648,39 @@
       "is_madasha": false,
       "id": 848,
       "date": "2026-07-08T19:25:22.313Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيوهوب  حرش مميز50ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 1160,
+          "sell_price": 1180,
+          "stock": 18,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 78,
+          "created_at": "2026-05-05T18:56:22.775Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1180,
+      "discount": 0,
+      "total": 1180,
+      "cashier": "محمود",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 849,
+      "date": "2026-07-10T08:07:26.558Z"
     }
   ],
   "customers": [
@@ -88272,6 +88305,13 @@
       "note": "مقدم قسط - ام احمد نادي ",
       "id": 1551,
       "date": "2026-07-09T18:52:19.677Z"
+    },
+    {
+      "id": 1552,
+      "type": "in",
+      "amount": 1180,
+      "note": "فاتورة بيع #849",
+      "date": "2026-07-10T08:07:26.582Z"
     }
   ],
   "expenses": [
