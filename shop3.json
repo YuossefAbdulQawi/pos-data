@@ -1323,7 +1323,7 @@
       "brand_id": null,
       "buy_price": 182,
       "sell_price": 190,
-      "stock": 30,
+      "stock": 20,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -66074,6 +66074,39 @@
       "is_madasha": false,
       "id": 856,
       "date": "2026-07-10T17:09:10.986Z"
+    },
+    {
+      "items": [
+        {
+          "name": "مكرونه 10ك",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 182,
+          "sell_price": 190,
+          "stock": 30,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 88,
+          "created_at": "2026-05-05T19:12:04.601Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 10
+        }
+      ],
+      "subtotal": 1900,
+      "discount": 0,
+      "total": 1900,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 857,
+      "date": "2026-07-10T17:09:27.232Z"
     }
   ],
   "customers": [
@@ -88878,6 +88911,13 @@
       "amount": 3000,
       "note": "فاتورة بيع #856",
       "date": "2026-07-10T17:09:11.011Z"
+    },
+    {
+      "id": 1567,
+      "type": "in",
+      "amount": 1900,
+      "note": "فاتورة بيع #857",
+      "date": "2026-07-10T17:09:27.255Z"
     }
   ],
   "expenses": [
