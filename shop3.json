@@ -76700,6 +76700,16 @@
       "remaining": 23175,
       "id": 127,
       "created_at": "2026-07-09T13:19:48.771Z"
+    },
+    {
+      "creditor_id": 17,
+      "total_amount": 3600,
+      "down_payment": 0,
+      "description": "باق",
+      "date": "2026-07-11",
+      "remaining": 3600,
+      "id": 128,
+      "created_at": "2026-07-11T13:26:43.590Z"
     }
   ],
   "debt_payments": [
