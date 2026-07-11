@@ -2560,7 +2560,7 @@
       "brand_id": null,
       "buy_price": 530,
       "sell_price": 550,
-      "stock": 25,
+      "stock": 0,
       "min_stock": 2,
       "expiry_date": "",
       "unit": "شكارة",
@@ -66140,6 +66140,39 @@
       "is_madasha": false,
       "id": 858,
       "date": "2026-07-10T18:42:35.083Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نخاله 40ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 530,
+          "sell_price": 550,
+          "stock": 25,
+          "min_stock": 2,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 174,
+          "created_at": "2026-05-10T08:35:14.681Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 25
+        }
+      ],
+      "subtotal": 13750,
+      "discount": 0,
+      "total": 13750,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 859,
+      "date": "2026-07-11T16:28:43.601Z"
     }
   ],
   "customers": [
@@ -89020,6 +89053,13 @@
       "note": "سداد دين - مصطفى كفائه ",
       "id": 1571,
       "date": "2026-07-11T12:53:47.395Z"
+    },
+    {
+      "id": 1572,
+      "type": "in",
+      "amount": 13750,
+      "note": "فاتورة بيع #859",
+      "date": "2026-07-11T16:28:43.629Z"
     }
   ],
   "expenses": [
