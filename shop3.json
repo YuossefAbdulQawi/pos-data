@@ -72925,16 +72925,6 @@
       "remaining": 25,
       "id": 679,
       "created_at": "2026-07-10T17:08:26.888Z"
-    },
-    {
-      "customer_id": 111,
-      "total_amount": 500,
-      "down_payment": 0,
-      "description": "بسكوت",
-      "date": "2026-07-11",
-      "remaining": 500,
-      "id": 680,
-      "created_at": "2026-07-11T11:05:18.874Z"
     }
   ],
   "inst_payments": [
