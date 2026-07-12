@@ -5634,6 +5634,26 @@
       "pos_type": "main",
       "id": 353,
       "created_at": "2026-07-12T14:19:40.507Z"
+    },
+    {
+      "name": "زيت صافي",
+      "barcode": "",
+      "department_id": null,
+      "sub_department_id": null,
+      "brand_id": null,
+      "buy_price": 600,
+      "sell_price": 620,
+      "stock": 25,
+      "min_stock": 5,
+      "expiry_date": "",
+      "unit": "كرتونة",
+      "weight": "",
+      "description": "",
+      "icon": "📦",
+      "image": "",
+      "pos_type": "main",
+      "id": 354,
+      "created_at": "2026-07-12T14:21:06.505Z"
     }
   ],
   "sales": [
