@@ -67377,14 +67377,6 @@
       "created_at": "2026-05-05T10:42:08.466Z"
     },
     {
-      "name": "محمد حويحي",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 142,
-      "created_at": "2026-05-05T10:42:52.646Z"
-    },
-    {
       "name": "شريف الباطن",
       "phone": "",
       "address": "الباطن",
@@ -68907,16 +68899,6 @@
       "remaining": 815,
       "id": 142,
       "created_at": "2026-05-05T10:42:23.329Z"
-    },
-    {
-      "customer_id": 142,
-      "total_amount": 530,
-      "down_payment": 0,
-      "description": "علفه",
-      "date": "2026-05-05",
-      "remaining": 530,
-      "id": 143,
-      "created_at": "2026-05-05T10:43:09.888Z"
     },
     {
       "customer_id": 143,
