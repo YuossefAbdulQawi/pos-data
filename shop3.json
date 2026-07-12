@@ -5594,6 +5594,26 @@
       "pos_type": "main",
       "id": 351,
       "created_at": "2026-07-05T10:51:29.321Z"
+    },
+    {
+      "name": "بسكوت 3جنيه",
+      "barcode": "",
+      "department_id": null,
+      "sub_department_id": null,
+      "brand_id": null,
+      "buy_price": 27.5,
+      "sell_price": 30,
+      "stock": 120,
+      "min_stock": 5,
+      "expiry_date": "",
+      "unit": "علبة",
+      "weight": "",
+      "description": "",
+      "icon": "📦",
+      "image": "",
+      "pos_type": "main",
+      "id": 352,
+      "created_at": "2026-07-12T14:17:42.107Z"
     }
   ],
   "sales": [
