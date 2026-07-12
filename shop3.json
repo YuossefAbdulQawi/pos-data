@@ -1596,7 +1596,7 @@
       "brand_id": null,
       "buy_price": 550,
       "sell_price": 565,
-      "stock": 20,
+      "stock": 9,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "شكارة",
@@ -66436,6 +66436,39 @@
       "is_madasha": true,
       "id": 862,
       "date": "2026-07-12T15:38:51.346Z"
+    },
+    {
+      "items": [
+        {
+          "name": "ارز حماده",
+          "barcode": "111",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 550,
+          "sell_price": 565,
+          "stock": 20,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 110,
+          "created_at": "2026-05-06T08:06:26.288Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 11
+        }
+      ],
+      "subtotal": 6215,
+      "discount": 0,
+      "total": 6215,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 863,
+      "date": "2026-07-12T15:39:19.256Z"
     }
   ],
   "customers": [
@@ -89440,6 +89473,13 @@
       "amount": 2800,
       "note": "فاتورة بيع #862",
       "date": "2026-07-12T15:38:51.371Z"
+    },
+    {
+      "id": 1580,
+      "type": "in",
+      "amount": 6215,
+      "note": "فاتورة بيع #863",
+      "date": "2026-07-12T15:39:19.281Z"
     }
   ],
   "expenses": [
