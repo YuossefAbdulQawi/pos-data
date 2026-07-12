@@ -66953,14 +66953,6 @@
       "created_at": "2026-05-05T09:02:40.072Z"
     },
     {
-      "name": "ام طارق علي عزبه شكر ",
-      "phone": "",
-      "address": "عزبه شكر",
-      "notes": "",
-      "id": 77,
-      "created_at": "2026-05-05T09:03:57.687Z"
-    },
-    {
       "name": "واليد جمال ",
       "phone": "01123342087",
       "address": "الخوري",
@@ -68405,16 +68397,6 @@
       "remaining": 1030,
       "id": 77,
       "created_at": "2026-05-05T09:02:59.070Z"
-    },
-    {
-      "customer_id": 77,
-      "total_amount": 300,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 300,
-      "id": 78,
-      "created_at": "2026-05-05T09:04:10.045Z"
     },
     {
       "customer_id": 79,
