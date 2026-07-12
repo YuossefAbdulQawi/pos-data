@@ -1323,7 +1323,7 @@
       "brand_id": null,
       "buy_price": 182,
       "sell_price": 190,
-      "stock": 20,
+      "stock": 19,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1771,7 +1771,7 @@
       "brand_id": null,
       "buy_price": 93.5,
       "sell_price": 100,
-      "stock": 52,
+      "stock": 22,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "شكارة",
@@ -66469,6 +66469,60 @@
       "is_madasha": false,
       "id": 863,
       "date": "2026-07-12T15:39:19.256Z"
+    },
+    {
+      "items": [
+        {
+          "name": "مكرونه 10ك",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 182,
+          "sell_price": 190,
+          "stock": 20,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 88,
+          "created_at": "2026-05-05T19:12:04.601Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 1
+        },
+        {
+          "name": "مكروه 5 ك",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 93.5,
+          "sell_price": 100,
+          "stock": 52,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 119,
+          "created_at": "2026-05-06T08:21:54.689Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 30
+        }
+      ],
+      "subtotal": 3190,
+      "discount": 0,
+      "total": 3190,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 864,
+      "date": "2026-07-12T17:00:24.922Z"
     }
   ],
   "customers": [
@@ -89319,6 +89373,13 @@
       "note": "سداد دفعة - شعبان مطعم ",
       "id": 1584,
       "date": "2026-07-12T16:59:50.400Z"
+    },
+    {
+      "id": 1585,
+      "type": "in",
+      "amount": 3190,
+      "note": "فاتورة بيع #864",
+      "date": "2026-07-12T17:00:24.946Z"
     }
   ],
   "expenses": [
