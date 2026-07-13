@@ -4053,7 +4053,7 @@
       "brand_id": null,
       "buy_price": 13.7,
       "sell_price": 14,
-      "stock": 800,
+      "stock": 0,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "كيلو",
@@ -66642,6 +66642,39 @@
       "is_madasha": false,
       "id": 867,
       "date": "2026-07-12T18:40:07.246Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نخاله",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 13.7,
+          "sell_price": 14,
+          "stock": 800,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 270,
+          "created_at": "2026-05-29T09:46:17.375Z",
+          "image": "",
+          "quantity": 800
+        }
+      ],
+      "subtotal": 11200,
+      "discount": 0,
+      "total": 11200,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 868,
+      "date": "2026-07-13T09:03:09.755Z"
     }
   ],
   "customers": [
@@ -89540,6 +89573,13 @@
       "amount": 420,
       "note": "فاتورة بيع #867",
       "date": "2026-07-12T18:40:07.270Z"
+    },
+    {
+      "id": 1589,
+      "type": "in",
+      "amount": 11200,
+      "note": "فاتورة بيع #868",
+      "date": "2026-07-13T09:03:09.781Z"
     }
   ],
   "expenses": [
