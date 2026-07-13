@@ -73309,6 +73309,16 @@
       "remaining": 760,
       "id": 685,
       "created_at": "2026-07-12T19:22:14.451Z"
+    },
+    {
+      "customer_id": 202,
+      "total_amount": 90,
+      "down_payment": 0,
+      "description": "ببس",
+      "date": "2026-07-13",
+      "remaining": 90,
+      "id": 686,
+      "created_at": "2026-07-13T11:29:21.636Z"
     }
   ],
   "inst_payments": [
