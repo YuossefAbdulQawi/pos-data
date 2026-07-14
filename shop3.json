@@ -77198,6 +77198,16 @@
       "remaining": 118172,
       "id": 130,
       "created_at": "2026-07-14T13:41:56.729Z"
+    },
+    {
+      "creditor_id": 6,
+      "total_amount": 11760,
+      "down_payment": 0,
+      "description": "560صويا",
+      "date": "2026-07-13",
+      "remaining": 11760,
+      "id": 131,
+      "created_at": "2026-07-14T13:42:50.097Z"
     }
   ],
   "debt_payments": [
