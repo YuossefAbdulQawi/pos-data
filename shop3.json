@@ -77208,6 +77208,16 @@
       "remaining": 11760,
       "id": 131,
       "created_at": "2026-07-14T13:42:50.097Z"
+    },
+    {
+      "creditor_id": 6,
+      "total_amount": 8296,
+      "down_payment": 0,
+      "description": "610فشر",
+      "date": "2026-07-13",
+      "remaining": 8296,
+      "id": 132,
+      "created_at": "2026-07-14T13:43:27.222Z"
     }
   ],
   "debt_payments": [
