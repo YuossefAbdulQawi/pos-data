@@ -1147,7 +1147,7 @@
       "brand_id": null,
       "buy_price": 1160,
       "sell_price": 1180,
-      "stock": 30,
+      "stock": 27,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1187,7 +1187,7 @@
       "brand_id": null,
       "buy_price": 580,
       "sell_price": 595,
-      "stock": 70,
+      "stock": 40,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -67425,6 +67425,60 @@
       "is_madasha": false,
       "id": 880,
       "date": "2026-07-15T18:26:12.582Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيوهوب  حرش مميز50ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 1160,
+          "sell_price": 1180,
+          "stock": 30,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 78,
+          "created_at": "2026-05-05T18:56:22.775Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 3
+        },
+        {
+          "name": "نيوهوب حرش صغير",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 580,
+          "sell_price": 595,
+          "stock": 70,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 80,
+          "created_at": "2026-05-05T19:02:05.706Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 30
+        }
+      ],
+      "subtotal": 21390,
+      "discount": 0,
+      "total": 21390,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 881,
+      "date": "2026-07-15T18:42:54.166Z"
     }
   ],
   "customers": [
@@ -90624,6 +90678,13 @@
       "amount": 4355,
       "note": "فاتورة بيع #880",
       "date": "2026-07-15T18:26:12.607Z"
+    },
+    {
+      "id": 1613,
+      "type": "in",
+      "amount": 21390,
+      "note": "فاتورة بيع #881",
+      "date": "2026-07-15T18:42:54.190Z"
     }
   ],
   "expenses": [
