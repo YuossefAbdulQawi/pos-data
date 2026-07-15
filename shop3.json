@@ -2560,7 +2560,7 @@
       "brand_id": null,
       "buy_price": 540,
       "sell_price": 550,
-      "stock": 25,
+      "stock": 20,
       "min_stock": 2,
       "expiry_date": "",
       "unit": "شكارة",
@@ -66934,6 +66934,39 @@
       "is_madasha": true,
       "id": 872,
       "date": "2026-07-15T10:04:45.985Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نخاله 40ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 540,
+          "sell_price": 550,
+          "stock": 25,
+          "min_stock": 2,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 174,
+          "created_at": "2026-05-10T08:35:14.681Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 5
+        }
+      ],
+      "subtotal": 2750,
+      "discount": 0,
+      "total": 2750,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 873,
+      "date": "2026-07-15T10:05:07.183Z"
     }
   ],
   "customers": [
@@ -89997,6 +90030,13 @@
       "amount": 12900,
       "note": "فاتورة بيع #872",
       "date": "2026-07-15T10:04:46.009Z"
+    },
+    {
+      "id": 1600,
+      "type": "in",
+      "amount": 2750,
+      "note": "فاتورة بيع #873",
+      "date": "2026-07-15T10:05:07.208Z"
     }
   ],
   "expenses": [
