@@ -74606,6 +74606,16 @@
       "remaining": 160,
       "id": 692,
       "created_at": "2026-07-16T15:43:30.509Z"
+    },
+    {
+      "customer_id": 210,
+      "total_amount": 4300,
+      "down_payment": 0,
+      "description": "ربع علف",
+      "date": "2026-07-16",
+      "remaining": 4300,
+      "id": 693,
+      "created_at": "2026-07-16T17:28:59.202Z"
     }
   ],
   "inst_payments": [
