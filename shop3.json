@@ -3903,7 +3903,7 @@
       "brand_id": null,
       "buy_price": 14.35,
       "sell_price": 15,
-      "stock": 5200,
+      "stock": 4200,
       "min_stock": 200,
       "expiry_date": "",
       "unit": "كيلو",
@@ -4076,7 +4076,7 @@
       "brand_id": null,
       "buy_price": 21,
       "sell_price": 24,
-      "stock": 840,
+      "stock": 790,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "كيلو",
@@ -67665,6 +67665,60 @@
       "is_madasha": false,
       "id": 883,
       "date": "2026-07-16T10:17:28.419Z"
+    },
+    {
+      "items": [
+        {
+          "name": "دره صفرا برزيلي",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 14.35,
+          "sell_price": 15,
+          "stock": 5200,
+          "min_stock": 200,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 262,
+          "created_at": "2026-05-23T21:33:28.844Z",
+          "image": "",
+          "quantity": 1000
+        },
+        {
+          "name": "فولصويا",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 21,
+          "sell_price": 24,
+          "stock": 840,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "pos_type": "madasha",
+          "id": 271,
+          "created_at": "2026-05-29T09:48:04.654Z",
+          "image": "",
+          "quantity": 50
+        }
+      ],
+      "subtotal": 16200,
+      "discount": 0,
+      "total": 16200,
+      "cashier": "امير",
+      "pos_type": "madasha",
+      "is_madasha": true,
+      "id": 884,
+      "date": "2026-07-16T10:44:37.976Z"
     }
   ],
   "customers": [
@@ -90933,6 +90987,13 @@
       "note": "سداد دين - محمد عبد العزيز فهمي (فون كاش)",
       "id": 1617,
       "date": "2026-07-16T10:41:47.501Z"
+    },
+    {
+      "id": 1618,
+      "type": "in",
+      "amount": 16200,
+      "note": "فاتورة بيع #884",
+      "date": "2026-07-16T10:44:38.006Z"
     }
   ],
   "expenses": [
