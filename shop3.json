@@ -1636,7 +1636,7 @@
       "department_id": null,
       "buy_price": 118,
       "sell_price": 125,
-      "stock": 3,
+      "stock": 2,
       "min_stock": 10,
       "unit": "شكارة",
       "icon": "📦",
@@ -1773,7 +1773,7 @@
       "brand_id": null,
       "buy_price": 93.5,
       "sell_price": 100,
-      "stock": 22,
+      "stock": 21,
       "min_stock": 1,
       "expiry_date": "",
       "unit": "شكارة",
@@ -68041,6 +68041,60 @@
       "is_madasha": false,
       "id": 890,
       "date": "2026-07-17T09:19:32.258Z"
+    },
+    {
+      "items": [
+        {
+          "name": "ارز ابو الفتوح 5ك",
+          "barcode": "6224008615064",
+          "department_id": null,
+          "buy_price": 118,
+          "sell_price": 125,
+          "stock": 3,
+          "min_stock": 10,
+          "unit": "شكارة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 112,
+          "created_at": "2026-05-06T08:11:24.543Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 1
+        },
+        {
+          "name": "مكروه 5 ك",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 93.5,
+          "sell_price": 100,
+          "stock": 22,
+          "min_stock": 1,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 119,
+          "created_at": "2026-05-06T08:21:54.689Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 225,
+      "discount": 0,
+      "total": 225,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 891,
+      "date": "2026-07-17T09:35:07.891Z"
     }
   ],
   "customers": [
@@ -91454,6 +91508,13 @@
       "amount": 635,
       "note": "فاتورة بيع #890",
       "date": "2026-07-17T09:19:32.284Z"
+    },
+    {
+      "id": 1629,
+      "type": "in",
+      "amount": 225,
+      "note": "فاتورة بيع #891",
+      "date": "2026-07-17T09:35:07.917Z"
     }
   ],
   "expenses": [
