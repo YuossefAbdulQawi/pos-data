@@ -74616,6 +74616,16 @@
       "remaining": 4300,
       "id": 693,
       "created_at": "2026-07-16T17:28:59.202Z"
+    },
+    {
+      "customer_id": 5,
+      "total_amount": 380,
+      "down_payment": 0,
+      "description": "باقي",
+      "date": "2026-07-16",
+      "remaining": 380,
+      "id": 694,
+      "created_at": "2026-07-17T06:39:16.762Z"
     }
   ],
   "inst_payments": [
