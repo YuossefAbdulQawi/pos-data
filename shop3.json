@@ -1187,7 +1187,7 @@
       "brand_id": null,
       "buy_price": 580,
       "sell_price": 595,
-      "stock": 35,
+      "stock": 34,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -1305,7 +1305,7 @@
       "brand_id": null,
       "buy_price": 290,
       "sell_price": 300,
-      "stock": 14,
+      "stock": 13,
       "min_stock": 10,
       "expiry_date": "",
       "unit": "شكارة",
@@ -67902,6 +67902,60 @@
       "is_madasha": false,
       "id": 887,
       "date": "2026-07-16T15:45:02.851Z"
+    },
+    {
+      "items": [
+        {
+          "name": "نيوهوب حرش صغير",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 580,
+          "sell_price": 595,
+          "stock": 35,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 80,
+          "created_at": "2026-05-05T19:02:05.706Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 1
+        },
+        {
+          "name": "دشيش صغير 20ك",
+          "barcode": "",
+          "department_id": 1,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 290,
+          "sell_price": 300,
+          "stock": 14,
+          "min_stock": 10,
+          "expiry_date": "",
+          "unit": "شكارة",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 87,
+          "created_at": "2026-05-05T19:09:09.591Z",
+          "pos_type": "main",
+          "image": "",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 895,
+      "discount": 0,
+      "total": 895,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 888,
+      "date": "2026-07-17T07:12:16.052Z"
     }
   ],
   "customers": [
@@ -91284,6 +91338,13 @@
       "note": "سداد دفعة - رمضان عم عبد الله فرحات",
       "id": 1625,
       "date": "2026-07-16T17:26:53.322Z"
+    },
+    {
+      "id": 1626,
+      "type": "in",
+      "amount": 895,
+      "note": "فاتورة بيع #888",
+      "date": "2026-07-17T07:12:16.076Z"
     }
   ],
   "expenses": [
