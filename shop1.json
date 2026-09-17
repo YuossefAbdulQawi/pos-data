@@ -88622,6 +88622,16 @@
       "remaining": 2000,
       "id": 183,
       "created_at": "2026-09-17T17:17:43.128Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 2485,
+      "down_payment": 0,
+      "description": "نيو هب ناعم",
+      "date": "2026-09-16",
+      "remaining": 2485,
+      "id": 184,
+      "created_at": "2026-09-17T17:35:48.016Z"
     }
   ],
   "debt_payments": [
