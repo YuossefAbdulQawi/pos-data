@@ -87560,14 +87560,6 @@
       "created_at": "2026-05-23T19:13:55.288Z"
     },
     {
-      "name": "محمود ببس",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 24,
-      "created_at": "2026-06-06T18:37:32.841Z"
-    },
-    {
       "name": "كولا",
       "phone": "",
       "address": "دمو",
@@ -87898,26 +87890,6 @@
       "remaining": 6350,
       "id": 68,
       "created_at": "2026-06-05T13:16:47.766Z"
-    },
-    {
-      "creditor_id": 24,
-      "total_amount": 15135,
-      "down_payment": 5135,
-      "description": "ببس",
-      "date": "2026-06-06",
-      "remaining": 10000,
-      "id": 70,
-      "created_at": "2026-06-06T18:37:54.570Z"
-    },
-    {
-      "creditor_id": 24,
-      "total_amount": 3275,
-      "down_payment": 0,
-      "description": "5كنز15مياه",
-      "date": "2026-06-07",
-      "remaining": 3275,
-      "id": 71,
-      "created_at": "2026-06-07T13:12:54.561Z"
     },
     {
       "creditor_id": 17,
@@ -89059,13 +89031,6 @@
       "date": "2026-06-05T13:18:45.092Z"
     },
     {
-      "debt_id": 70,
-      "amount": 5135,
-      "note": "دفعة مقدمة",
-      "id": 108,
-      "date": "2026-06-06T18:37:54.570Z"
-    },
-    {
       "creditor_id": 13,
       "amount": 5000,
       "note": "",
@@ -89435,20 +89400,6 @@
       "note": "",
       "id": 186,
       "date": "2026-06-28T14:54:01.779Z"
-    },
-    {
-      "creditor_id": 24,
-      "amount": 5000,
-      "note": "",
-      "id": 187,
-      "date": "2026-06-28T17:25:58.361Z"
-    },
-    {
-      "creditor_id": 24,
-      "amount": 8275,
-      "note": "",
-      "id": 188,
-      "date": "2026-06-29T14:52:23.197Z"
     },
     {
       "creditor_id": 19,
