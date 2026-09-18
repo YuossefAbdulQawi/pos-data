@@ -75813,14 +75813,6 @@
       "created_at": "2026-05-05T10:33:05.160Z"
     },
     {
-      "name": "ام علاء رمضان",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 134,
-      "created_at": "2026-05-05T10:34:47.383Z"
-    },
-    {
       "name": "علاء جبلاوي",
       "phone": "",
       "address": "",
@@ -77373,16 +77365,6 @@
       "remaining": 210,
       "id": 134,
       "created_at": "2026-05-05T10:34:00.453Z"
-    },
-    {
-      "customer_id": 134,
-      "total_amount": 945,
-      "down_payment": 0,
-      "description": "علفه",
-      "date": "2026-05-05",
-      "remaining": 945,
-      "id": 135,
-      "created_at": "2026-05-05T10:34:59.725Z"
     },
     {
       "customer_id": 135,
