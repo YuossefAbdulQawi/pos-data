@@ -106011,6 +106011,12 @@
       "closed_at": "2026-09-17T18:43:07.527Z",
       "sales_total": 0,
       "orders_count": 0
+    },
+    {
+      "username": "امير",
+      "id": 169,
+      "opened_at": "2026-09-18T12:18:24.419Z",
+      "closed_at": null
     }
   ],
   "users": [
