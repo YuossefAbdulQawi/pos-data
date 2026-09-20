@@ -77967,16 +77967,6 @@
       "created_at": "2026-05-10T07:14:02.286Z"
     },
     {
-      "customer_id": 179,
-      "total_amount": 52,
-      "down_payment": 0,
-      "description": "2ك علفه",
-      "date": "2026-05-09",
-      "remaining": 52,
-      "id": 214,
-      "created_at": "2026-05-10T07:20:17.085Z"
-    },
-    {
       "customer_id": 63,
       "total_amount": 9370,
       "down_payment": 0,
