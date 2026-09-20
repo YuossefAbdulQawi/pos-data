@@ -83448,16 +83448,6 @@
       "remaining": 165,
       "id": 904,
       "created_at": "2026-09-20T16:18:15.626Z"
-    },
-    {
-      "customer_id": 179,
-      "total_amount": 110,
-      "down_payment": 0,
-      "description": "باقي",
-      "date": "2026-09-20",
-      "remaining": 110,
-      "id": 905,
-      "created_at": "2026-09-20T16:55:41.473Z"
     }
   ],
   "inst_payments": [
