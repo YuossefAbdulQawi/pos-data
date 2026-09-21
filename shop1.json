@@ -83468,6 +83468,16 @@
       "remaining": 200,
       "id": 906,
       "created_at": "2026-09-21T06:39:16.923Z"
+    },
+    {
+      "customer_id": 69,
+      "total_amount": 9860,
+      "down_payment": 0,
+      "description": "عتغ  دريس اش",
+      "date": "2026-09-21",
+      "remaining": 9860,
+      "id": 907,
+      "created_at": "2026-09-21T09:05:09.746Z"
     }
   ],
   "inst_payments": [
