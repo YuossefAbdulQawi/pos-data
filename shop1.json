@@ -78386,16 +78386,6 @@
       "created_at": "2026-05-15T11:43:41.479Z"
     },
     {
-      "customer_id": 176,
-      "total_amount": 635,
-      "down_payment": 0,
-      "description": "عتف",
-      "date": "2026-05-15",
-      "remaining": 635,
-      "id": 272,
-      "created_at": "2026-05-15T12:38:50.127Z"
-    },
-    {
       "customer_id": 91,
       "total_amount": 1260,
       "down_payment": 0,
@@ -79711,16 +79701,6 @@
       "created_at": "2026-06-05T17:58:47.491Z"
     },
     {
-      "customer_id": 176,
-      "total_amount": 650,
-      "down_payment": 0,
-      "description": "زيت جبه",
-      "date": "2026-06-05",
-      "remaining": 650,
-      "id": 474,
-      "created_at": "2026-06-05T19:27:52.214Z"
-    },
-    {
       "customer_id": 83,
       "total_amount": 1375,
       "down_payment": 0,
@@ -80069,16 +80049,6 @@
       "remaining": 600,
       "id": 523,
       "created_at": "2026-06-12T14:17:47.424Z"
-    },
-    {
-      "customer_id": 176,
-      "total_amount": 445,
-      "down_payment": 0,
-      "description": "جب",
-      "date": "2026-06-12",
-      "remaining": 445,
-      "id": 524,
-      "created_at": "2026-06-12T15:41:47.574Z"
     },
     {
       "customer_id": 204,
@@ -84192,13 +84162,6 @@
       "note": "سداد ",
       "id": 114,
       "date": "2026-05-20T20:38:25.694Z"
-    },
-    {
-      "customer_id": 176,
-      "amount": 300,
-      "note": "",
-      "id": 115,
-      "date": "2026-05-21T10:48:18.977Z"
     },
     {
       "customer_id": 59,
@@ -105329,6 +105292,13 @@
       "note": "إلغاء دفعة محصلة (حذف) - هاني عليان",
       "id": 2141,
       "date": "2026-09-24T19:40:50.531Z"
+    },
+    {
+      "type": "out",
+      "amount": 300,
+      "note": "إلغاء دفعة محصلة (حذف) - هاني عليان",
+      "id": 2142,
+      "date": "2026-09-24T19:40:56.642Z"
     }
   ],
   "expenses": [
