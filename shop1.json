@@ -83001,16 +83001,6 @@
     },
     {
       "customer_id": 73,
-      "total_amount": 8190,
-      "down_payment": 0,
-      "description": "بسكوت",
-      "date": "2026-09-05",
-      "remaining": 8190,
-      "id": 866,
-      "created_at": "2026-09-05T17:50:58.744Z"
-    },
-    {
-      "customer_id": 73,
       "total_amount": 8595,
       "down_payment": 0,
       "description": "بسكوت",
