@@ -75782,14 +75782,6 @@
       "created_at": "2026-05-05T10:18:23.272Z"
     },
     {
-      "name": "حسن يوسف عبد العاطي",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 122,
-      "created_at": "2026-05-05T10:19:26.111Z"
-    },
-    {
       "name": "خالي علي احمد شكر",
       "phone": "",
       "address": "عزبه شكر",
@@ -77318,16 +77310,6 @@
       "remaining": 640,
       "id": 122,
       "created_at": "2026-05-05T10:18:51.101Z"
-    },
-    {
-      "customer_id": 122,
-      "total_amount": 1710,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 1710,
-      "id": 123,
-      "created_at": "2026-05-05T10:19:42.213Z"
     },
     {
       "customer_id": 126,
