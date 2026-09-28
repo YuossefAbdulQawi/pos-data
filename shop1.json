@@ -83528,16 +83528,6 @@
       "remaining": 310,
       "id": 920,
       "created_at": "2026-09-27T15:28:27.366Z"
-    },
-    {
-      "customer_id": 59,
-      "total_amount": 2185,
-      "down_payment": 7500,
-      "description": "دشيش",
-      "date": "2026-09-27",
-      "remaining": -5315,
-      "id": 921,
-      "created_at": "2026-09-28T10:52:43.337Z"
     }
   ],
   "inst_payments": [
@@ -87802,13 +87792,6 @@
       "note": "",
       "id": 648,
       "date": "2026-09-27T16:56:42.272Z"
-    },
-    {
-      "installment_id": 921,
-      "amount": 7500,
-      "note": "دفعة مقدمة",
-      "id": 649,
-      "date": "2026-09-28T10:52:43.341Z"
     }
   ],
   "creditors": [
