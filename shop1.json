@@ -83580,6 +83580,16 @@
       "remaining": 200,
       "id": 927,
       "created_at": "2026-09-30T08:37:28.405Z"
+    },
+    {
+      "customer_id": 67,
+      "total_amount": 1000,
+      "down_payment": 0,
+      "description": "باقي من النخاله",
+      "date": "2026-09-30",
+      "remaining": 1000,
+      "id": 928,
+      "created_at": "2026-09-30T09:43:59.507Z"
     }
   ],
   "inst_payments": [
