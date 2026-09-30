@@ -83590,6 +83590,16 @@
       "remaining": 1000,
       "id": 928,
       "created_at": "2026-09-30T09:43:59.507Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 660,
+      "down_payment": 0,
+      "description": "دشيش",
+      "date": "2026-09-30",
+      "remaining": 660,
+      "id": 929,
+      "created_at": "2026-09-30T16:00:51.706Z"
     }
   ],
   "inst_payments": [
