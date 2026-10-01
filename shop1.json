@@ -75062,14 +75062,6 @@
       "created_at": "2026-05-04T20:43:20.626Z"
     },
     {
-      "name": "شبح اخو حاتم ",
-      "phone": "",
-      "address": "عزبه شكر",
-      "notes": "",
-      "id": 11,
-      "created_at": "2026-05-04T20:44:28.594Z"
-    },
-    {
       "name": "دسوقي غزاوي ",
       "phone": "",
       "address": "عزبه سعد ",
@@ -76460,16 +76452,6 @@
       "remaining": 2600,
       "id": 10,
       "created_at": "2026-05-04T20:43:46.120Z"
-    },
-    {
-      "customer_id": 11,
-      "total_amount": 20000,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-04",
-      "remaining": 20000,
-      "id": 11,
-      "created_at": "2026-05-04T20:44:42.103Z"
     },
     {
       "customer_id": 12,
@@ -79491,16 +79473,6 @@
       "remaining": 250,
       "id": 441,
       "created_at": "2026-06-01T16:28:02.987Z"
-    },
-    {
-      "customer_id": 11,
-      "total_amount": 2000,
-      "down_payment": 0,
-      "description": "ن",
-      "date": "2026-06-01",
-      "remaining": 2000,
-      "id": 444,
-      "created_at": "2026-06-01T20:20:21.579Z"
     },
     {
       "customer_id": 91,
