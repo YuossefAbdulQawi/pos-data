@@ -75238,14 +75238,6 @@
       "created_at": "2026-05-05T08:08:03.563Z"
     },
     {
-      "name": "ابراهيم شعبان سعد ابو ابو دياب",
-      "phone": "",
-      "address": "عزبه سعد",
-      "notes": "",
-      "id": 43,
-      "created_at": "2026-05-05T08:13:01.608Z"
-    },
-    {
       "name": "رمضان ابو سندي ",
       "phone": "",
       "address": "البرملجي ",
@@ -76662,16 +76654,6 @@
       "remaining": 775,
       "id": 40,
       "created_at": "2026-05-05T08:08:35.218Z"
-    },
-    {
-      "customer_id": 43,
-      "total_amount": 4575,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 4575,
-      "id": 43,
-      "created_at": "2026-05-05T08:13:14.840Z"
     },
     {
       "customer_id": 44,
