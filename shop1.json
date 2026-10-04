@@ -75614,14 +75614,6 @@
       "created_at": "2026-05-05T09:29:03.418Z"
     },
     {
-      "name": "ابو هاني طحاوي ",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 101,
-      "created_at": "2026-05-05T09:30:48.985Z"
-    },
-    {
       "name": "رمضان القشاش",
       "phone": "",
       "address": "دمو ",
@@ -77096,16 +77088,6 @@
       "created_at": "2026-05-05T09:29:25.456Z"
     },
     {
-      "customer_id": 101,
-      "total_amount": 7250,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 7250,
-      "id": 102,
-      "created_at": "2026-05-05T09:31:04.727Z"
-    },
-    {
       "customer_id": 102,
       "total_amount": 12265,
       "down_payment": 0,
@@ -78360,16 +78342,6 @@
       "remaining": 210,
       "id": 276,
       "created_at": "2026-05-15T14:19:22.174Z"
-    },
-    {
-      "customer_id": 101,
-      "total_amount": 360,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-15",
-      "remaining": 360,
-      "id": 277,
-      "created_at": "2026-05-15T14:51:45.313Z"
     },
     {
       "customer_id": 87,
