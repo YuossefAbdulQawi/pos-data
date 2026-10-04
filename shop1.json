@@ -83624,6 +83624,16 @@
       "remaining": 130,
       "id": 936,
       "created_at": "2026-10-04T10:26:32.412Z"
+    },
+    {
+      "customer_id": 10,
+      "total_amount": 2040,
+      "down_payment": 0,
+      "description": "زيت",
+      "date": "2026-10-04",
+      "remaining": 2040,
+      "id": 937,
+      "created_at": "2026-10-04T14:48:31.693Z"
     }
   ],
   "inst_payments": [
