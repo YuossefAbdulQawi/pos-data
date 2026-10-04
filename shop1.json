@@ -76038,14 +76038,6 @@
       "created_at": "2026-05-21T20:15:29.543Z"
     },
     {
-      "name": "باسم عزت",
-      "phone": "",
-      "address": "العنبه",
-      "notes": "",
-      "id": 195,
-      "created_at": "2026-05-26T15:21:28.867Z"
-    },
-    {
       "name": "رمضان غز اوى",
       "phone": "",
       "address": "سعد ابو ياب",
@@ -78728,16 +78720,6 @@
       "remaining": 200,
       "id": 390,
       "created_at": "2026-05-26T13:01:44.546Z"
-    },
-    {
-      "customer_id": 195,
-      "total_amount": 1270,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-26",
-      "remaining": 1270,
-      "id": 391,
-      "created_at": "2026-05-26T15:21:59.466Z"
     },
     {
       "customer_id": 13,
