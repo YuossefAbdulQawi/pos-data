@@ -76006,14 +76006,6 @@
       "created_at": "2026-05-11T10:04:13.168Z"
     },
     {
-      "name": "ابو عبد رجب عبد الجود",
-      "phone": "",
-      "address": "",
-      "notes": "",
-      "id": 182,
-      "created_at": "2026-05-11T10:18:59.497Z"
-    },
-    {
       "name": "جابر حجاج ",
       "phone": "",
       "address": "سعدابودياب",
@@ -77769,16 +77761,6 @@
       "remaining": 1530,
       "id": 221,
       "created_at": "2026-05-10T16:34:54.995Z"
-    },
-    {
-      "customer_id": 182,
-      "total_amount": 565,
-      "down_payment": 0,
-      "description": "طلبات بيت",
-      "date": "2026-05-11",
-      "remaining": 565,
-      "id": 225,
-      "created_at": "2026-05-11T10:19:26.161Z"
     },
     {
       "customer_id": 105,
@@ -79787,26 +79769,6 @@
       "created_at": "2026-06-18T17:42:28.477Z"
     },
     {
-      "customer_id": 182,
-      "total_amount": 220,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-06-18",
-      "remaining": 220,
-      "id": 558,
-      "created_at": "2026-06-18T17:45:25.713Z"
-    },
-    {
-      "customer_id": 182,
-      "total_amount": 590,
-      "down_payment": 0,
-      "description": "زره",
-      "date": "2026-06-18",
-      "remaining": 590,
-      "id": 559,
-      "created_at": "2026-06-18T17:48:04.624Z"
-    },
-    {
       "customer_id": 120,
       "total_amount": 380,
       "down_payment": 0,
@@ -80476,16 +80438,6 @@
       "created_at": "2026-07-04T14:43:07.909Z"
     },
     {
-      "customer_id": 182,
-      "total_amount": 1030,
-      "down_payment": 0,
-      "description": "نخاله",
-      "date": "2026-07-05",
-      "remaining": 1030,
-      "id": 661,
-      "created_at": "2026-07-05T16:38:48.448Z"
-    },
-    {
       "customer_id": 59,
       "total_amount": 11715,
       "down_payment": 0,
@@ -80616,16 +80568,6 @@
       "created_at": "2026-07-09T19:17:39.492Z"
     },
     {
-      "customer_id": 182,
-      "total_amount": 690,
-      "down_payment": 0,
-      "description": "ارز سكر",
-      "date": "2026-07-10",
-      "remaining": 690,
-      "id": 676,
-      "created_at": "2026-07-10T14:28:46.148Z"
-    },
-    {
       "customer_id": 108,
       "total_amount": 300,
       "down_payment": 0,
@@ -80644,16 +80586,6 @@
       "remaining": 1180,
       "id": 678,
       "created_at": "2026-07-10T16:52:33.799Z"
-    },
-    {
-      "customer_id": 182,
-      "total_amount": 25,
-      "down_payment": 0,
-      "description": "مكر",
-      "date": "2026-07-10",
-      "remaining": 25,
-      "id": 679,
-      "created_at": "2026-07-10T17:08:26.888Z"
     },
     {
       "customer_id": 91,
@@ -82354,16 +82286,6 @@
       "remaining": 250,
       "id": 861,
       "created_at": "2026-09-02T18:33:52.214Z"
-    },
-    {
-      "customer_id": 182,
-      "total_amount": 215,
-      "down_payment": 0,
-      "description": "باقي",
-      "date": "2026-09-03",
-      "remaining": 215,
-      "id": 862,
-      "created_at": "2026-09-03T08:25:05.409Z"
     },
     {
       "customer_id": 217,
