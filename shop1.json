@@ -75078,14 +75078,6 @@
       "created_at": "2026-05-05T07:29:41.793Z"
     },
     {
-      "name": "سيد عبدالله عبد الجواد كشري",
-      "phone": "",
-      "address": "دمو الخوري",
-      "notes": "",
-      "id": 14,
-      "created_at": "2026-05-05T07:30:58.281Z"
-    },
-    {
       "name": "محمد غزاوي ",
       "phone": "",
       "address": "عزبه سعد",
@@ -76432,16 +76424,6 @@
       "remaining": 4135,
       "id": 13,
       "created_at": "2026-05-05T07:29:57.407Z"
-    },
-    {
-      "customer_id": 14,
-      "total_amount": 1085,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 1085,
-      "id": 14,
-      "created_at": "2026-05-05T07:31:17.246Z"
     },
     {
       "customer_id": 15,
@@ -79605,16 +79587,6 @@
       "created_at": "2026-06-06T14:52:59.493Z"
     },
     {
-      "customer_id": 14,
-      "total_amount": 530,
-      "down_payment": 0,
-      "description": "1نخله",
-      "date": "2026-06-06",
-      "remaining": 530,
-      "id": 483,
-      "created_at": "2026-06-06T16:40:59.682Z"
-    },
-    {
       "customer_id": 102,
       "total_amount": 4625,
       "down_payment": 0,
@@ -79923,16 +79895,6 @@
       "remaining": 550,
       "id": 527,
       "created_at": "2026-06-13T09:07:26.035Z"
-    },
-    {
-      "customer_id": 14,
-      "total_amount": 630,
-      "down_payment": 0,
-      "description": "ع",
-      "date": "2026-06-13",
-      "remaining": 630,
-      "id": 529,
-      "created_at": "2026-06-13T14:23:25.764Z"
     },
     {
       "customer_id": 117,
@@ -80593,16 +80555,6 @@
       "remaining": 1315,
       "id": 624,
       "created_at": "2026-06-27T10:39:14.205Z"
-    },
-    {
-      "customer_id": 14,
-      "total_amount": 1150,
-      "down_payment": 1000,
-      "description": "1علف1نخاله",
-      "date": "2026-06-27",
-      "remaining": 150,
-      "id": 625,
-      "created_at": "2026-06-27T11:07:28.212Z"
     },
     {
       "customer_id": 63,
@@ -81682,16 +81634,6 @@
       "remaining": 1370,
       "id": 747,
       "created_at": "2026-08-04T07:12:41.581Z"
-    },
-    {
-      "customer_id": 14,
-      "total_amount": 550,
-      "down_payment": 0,
-      "description": "ارز",
-      "date": "2026-08-04",
-      "remaining": 550,
-      "id": 748,
-      "created_at": "2026-08-04T07:13:06.713Z"
     },
     {
       "customer_id": 69,
@@ -85702,13 +85644,6 @@
       "note": "",
       "id": 338,
       "date": "2026-06-27T10:54:35.193Z"
-    },
-    {
-      "installment_id": 625,
-      "amount": 1000,
-      "note": "دفعة مقدمة",
-      "id": 339,
-      "date": "2026-06-27T11:07:28.214Z"
     },
     {
       "customer_id": 13,
