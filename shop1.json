@@ -76142,14 +76142,6 @@
       "created_at": "2026-07-26T17:44:39.203Z"
     },
     {
-      "name": "مصطفي  ياسر",
-      "phone": "",
-      "address": "دموسوبر مركت",
-      "notes": "",
-      "id": 220,
-      "created_at": "2026-08-03T17:46:23.682Z"
-    },
-    {
       "name": "خالد جبر",
       "phone": "",
       "address": "دمو",
@@ -81074,16 +81066,6 @@
       "created_at": "2026-08-03T17:28:07.538Z"
     },
     {
-      "customer_id": 220,
-      "total_amount": 4600,
-      "down_payment": 1100,
-      "description": "ربع علف",
-      "date": "2026-08-03",
-      "remaining": 3500,
-      "id": 744,
-      "created_at": "2026-08-03T17:46:56.075Z"
-    },
-    {
       "customer_id": 221,
       "total_amount": 1800,
       "down_payment": 0,
@@ -85937,13 +85919,6 @@
       "note": "",
       "id": 469,
       "date": "2026-08-03T16:49:32.473Z"
-    },
-    {
-      "installment_id": 744,
-      "amount": 1100,
-      "note": "دفعة مقدمة",
-      "id": 470,
-      "date": "2026-08-03T17:46:56.079Z"
     },
     {
       "customer_id": 201,
