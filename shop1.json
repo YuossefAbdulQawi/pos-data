@@ -76118,14 +76118,6 @@
       "created_at": "2026-07-09T12:56:52.318Z"
     },
     {
-      "name": "ابو ياسر القشاش",
-      "phone": "",
-      "address": "دمو",
-      "notes": "",
-      "id": 215,
-      "created_at": "2026-07-19T14:08:41.911Z"
-    },
-    {
       "name": "محمود الدمرداش اح",
       "phone": "",
       "address": "احافه",
@@ -80708,16 +80700,6 @@
       "remaining": 115,
       "id": 701,
       "created_at": "2026-07-18T19:19:18.721Z"
-    },
-    {
-      "customer_id": 215,
-      "total_amount": 2130,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-07-19",
-      "remaining": 2130,
-      "id": 702,
-      "created_at": "2026-07-19T14:10:06.072Z"
     },
     {
       "customer_id": 216,
