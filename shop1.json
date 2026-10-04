@@ -75886,14 +75886,6 @@
       "created_at": "2026-05-05T10:54:40.809Z"
     },
     {
-      "name": "علاء سمير",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 149,
-      "created_at": "2026-05-05T10:55:26.726Z"
-    },
-    {
       "name": "صيام رمضان ام صيام",
       "phone": "",
       "address": "الخوري",
@@ -77400,16 +77392,6 @@
       "remaining": 445,
       "id": 150,
       "created_at": "2026-05-05T10:55:00.538Z"
-    },
-    {
-      "customer_id": 149,
-      "total_amount": 95,
-      "down_payment": 0,
-      "description": "علفه",
-      "date": "2026-05-05",
-      "remaining": 95,
-      "id": 151,
-      "created_at": "2026-05-05T10:55:41.801Z"
     },
     {
       "customer_id": 150,
