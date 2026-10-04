@@ -76174,14 +76174,6 @@
       "created_at": "2026-08-12T15:31:09.800Z"
     },
     {
-      "name": "كريم الديب",
-      "phone": "",
-      "address": "سعد ابو دياب",
-      "notes": "",
-      "id": 225,
-      "created_at": "2026-08-16T13:16:58.443Z"
-    },
-    {
       "name": "عيد ابو صيام",
       "phone": "",
       "address": "خوري",
@@ -81524,16 +81516,6 @@
       "remaining": -2400,
       "id": 792,
       "created_at": "2026-08-16T09:09:24.168Z"
-    },
-    {
-      "customer_id": 225,
-      "total_amount": 685,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-08-15",
-      "remaining": 685,
-      "id": 793,
-      "created_at": "2026-08-16T13:17:16.762Z"
     },
     {
       "customer_id": 73,
