@@ -75638,14 +75638,6 @@
       "created_at": "2026-05-05T09:35:02.368Z"
     },
     {
-      "name": "احمد شعبان ابو سمر ",
-      "phone": "",
-      "address": "",
-      "notes": "",
-      "id": 107,
-      "created_at": "2026-05-05T09:37:10.870Z"
-    },
-    {
       "name": "ابو عماد جمعه ابو غريب محل ",
       "phone": "",
       "address": "عزبه سعد",
@@ -77108,16 +77100,6 @@
       "remaining": 2790,
       "id": 106,
       "created_at": "2026-05-05T09:35:17.020Z"
-    },
-    {
-      "customer_id": 107,
-      "total_amount": 1575,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 1575,
-      "id": 108,
-      "created_at": "2026-05-05T09:37:25.691Z"
     },
     {
       "customer_id": 108,
