@@ -75654,14 +75654,6 @@
       "created_at": "2026-05-05T09:45:18.395Z"
     },
     {
-      "name": "ابو علاء ايهاب ",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 115,
-      "created_at": "2026-05-05T09:49:40.191Z"
-    },
-    {
       "name": "صابر سنوسي ",
       "phone": "",
       "address": "النشره ",
@@ -77895,35 +77887,6 @@
       "created_at": "2026-05-12T18:40:03.936Z"
     },
     {
-      "customer_id": 115,
-      "total_amount": 3800,
-      "down_payment": 0,
-      "description": "فاتوره 26/4",
-      "date": "2026-05-12",
-      "remaining": 3800,
-      "id": 238,
-      "created_at": "2026-05-12T19:40:20.045Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 1200,
-      "down_payment": 0,
-      "description": "فاتوره8/5",
-      "date": "2026-05-12",
-      "remaining": 1200,
-      "id": 239,
-      "created_at": "2026-05-12T19:40:59.663Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 1976,
-      "down_payment": 0,
-      "description": "مبيعات من نقطة البيع فاتورة #85",
-      "date": "2026-05-12",
-      "id": 240,
-      "created_at": "2026-05-12T19:43:24.686Z"
-    },
-    {
       "customer_id": 93,
       "total_amount": 210,
       "down_payment": 0,
@@ -78899,16 +78862,6 @@
       "created_at": "2026-05-28T10:21:39.851Z"
     },
     {
-      "customer_id": 115,
-      "total_amount": 2410,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-28",
-      "remaining": 2410,
-      "id": 402,
-      "created_at": "2026-05-28T10:44:47.834Z"
-    },
-    {
       "customer_id": 59,
       "total_amount": 18030,
       "down_payment": 0,
@@ -79302,16 +79255,6 @@
       "remaining": 270,
       "id": 466,
       "created_at": "2026-06-05T07:24:03.622Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 5390,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-06-05",
-      "remaining": 5390,
-      "id": 469,
-      "created_at": "2026-06-05T11:46:25.072Z"
     },
     {
       "customer_id": 93,
@@ -79734,16 +79677,6 @@
       "created_at": "2026-06-13T20:18:19.788Z"
     },
     {
-      "customer_id": 115,
-      "total_amount": 4465,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-06-14",
-      "remaining": 4465,
-      "id": 532,
-      "created_at": "2026-06-14T14:46:35.216Z"
-    },
-    {
       "customer_id": 55,
       "total_amount": 300,
       "down_payment": 0,
@@ -79862,16 +79795,6 @@
       "remaining": 1715,
       "id": 546,
       "created_at": "2026-06-16T18:55:27.614Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 270,
-      "down_payment": 0,
-      "description": "باقي فاتوره",
-      "date": "2026-06-17",
-      "remaining": 270,
-      "id": 547,
-      "created_at": "2026-06-17T11:55:39.361Z"
     },
     {
       "customer_id": 94,
@@ -80162,16 +80085,6 @@
       "remaining": 50,
       "id": 590,
       "created_at": "2026-06-22T15:34:35.815Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 255,
-      "down_payment": 0,
-      "description": "بيض",
-      "date": "2026-06-22",
-      "remaining": 255,
-      "id": 591,
-      "created_at": "2026-06-22T18:01:07.297Z"
     },
     {
       "customer_id": 55,
@@ -80651,16 +80564,6 @@
       "remaining": 1030,
       "id": 661,
       "created_at": "2026-07-05T16:38:48.448Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 4490,
-      "down_payment": 0,
-      "description": "علق",
-      "date": "2026-07-05",
-      "remaining": 4490,
-      "id": 662,
-      "created_at": "2026-07-05T18:45:39.808Z"
     },
     {
       "customer_id": 59,
@@ -81741,16 +81644,6 @@
       "remaining": 1000,
       "id": 779,
       "created_at": "2026-08-12T08:09:35.626Z"
-    },
-    {
-      "customer_id": 115,
-      "total_amount": 3225,
-      "down_payment": 0,
-      "description": "عتف",
-      "date": "2026-08-11",
-      "remaining": 3225,
-      "id": 780,
-      "created_at": "2026-08-12T15:21:37.644Z"
     },
     {
       "customer_id": 224,
