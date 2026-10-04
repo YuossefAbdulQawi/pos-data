@@ -75638,14 +75638,6 @@
       "created_at": "2026-05-05T09:42:08.260Z"
     },
     {
-      "name": "ام عمرو مرات محمود علي سعيد",
-      "phone": "",
-      "address": "عزبه سعد",
-      "notes": "",
-      "id": 112,
-      "created_at": "2026-05-05T09:43:21.542Z"
-    },
-    {
       "name": "ام يوسف كاميرات ",
       "phone": "",
       "address": "الخوري ",
@@ -76974,16 +76966,6 @@
       "remaining": 2855,
       "id": 112,
       "created_at": "2026-05-05T09:42:34.051Z"
-    },
-    {
-      "customer_id": 112,
-      "total_amount": 193,
-      "down_payment": 0,
-      "description": "محل",
-      "date": "2026-05-05",
-      "remaining": 193,
-      "id": 113,
-      "created_at": "2026-05-05T09:43:42.304Z"
     },
     {
       "customer_id": 114,
