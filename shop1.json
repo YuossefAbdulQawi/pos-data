@@ -76118,14 +76118,6 @@
       "created_at": "2026-07-09T12:56:52.318Z"
     },
     {
-      "name": "محمود الدمرداش اح",
-      "phone": "",
-      "address": "احافه",
-      "notes": "",
-      "id": 216,
-      "created_at": "2026-07-19T14:19:02.061Z"
-    },
-    {
       "name": "ايمن فرحات",
       "phone": "",
       "address": "سعد ابو دياب",
@@ -80700,16 +80692,6 @@
       "remaining": 115,
       "id": 701,
       "created_at": "2026-07-18T19:19:18.721Z"
-    },
-    {
-      "customer_id": 216,
-      "total_amount": 26100,
-      "down_payment": 0,
-      "description": "1.5علف",
-      "date": "2026-07-19",
-      "remaining": 26100,
-      "id": 703,
-      "created_at": "2026-07-19T14:19:23.028Z"
     },
     {
       "customer_id": 48,
