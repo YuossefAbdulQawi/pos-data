@@ -76030,14 +76030,6 @@
       "created_at": "2026-05-13T13:01:33.587Z"
     },
     {
-      "name": "ام حاتم",
-      "phone": "",
-      "address": "",
-      "notes": "",
-      "id": 187,
-      "created_at": "2026-05-13T20:38:44.347Z"
-    },
-    {
       "name": "الزاوي كبده",
       "phone": "",
       "address": "",
@@ -78015,16 +78007,6 @@
       "date": "2026-05-13",
       "id": 259,
       "created_at": "2026-05-13T20:32:22.995Z"
-    },
-    {
-      "customer_id": 187,
-      "total_amount": 1395,
-      "down_payment": 0,
-      "description": "فاتوره 116",
-      "date": "2026-05-13",
-      "remaining": 1395,
-      "id": 260,
-      "created_at": "2026-05-13T20:39:12.539Z"
     },
     {
       "customer_id": 91,
