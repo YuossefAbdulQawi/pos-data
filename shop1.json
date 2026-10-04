@@ -76030,14 +76030,6 @@
       "created_at": "2026-05-13T13:01:33.587Z"
     },
     {
-      "name": "ابو سيد حسين ",
-      "phone": "",
-      "address": "دمو ",
-      "notes": "",
-      "id": 186,
-      "created_at": "2026-05-13T18:15:01.861Z"
-    },
-    {
       "name": "ام حاتم",
       "phone": "",
       "address": "",
@@ -78614,16 +78606,6 @@
       "created_at": "2026-05-24T15:35:13.560Z"
     },
     {
-      "customer_id": 186,
-      "total_amount": 200,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-24",
-      "remaining": 200,
-      "id": 361,
-      "created_at": "2026-05-24T15:37:12.550Z"
-    },
-    {
       "customer_id": 50,
       "total_amount": 2892,
       "down_payment": 0,
@@ -79617,16 +79599,6 @@
       "remaining": 12020,
       "id": 522,
       "created_at": "2026-06-12T12:18:17.805Z"
-    },
-    {
-      "customer_id": 186,
-      "total_amount": 600,
-      "down_payment": 0,
-      "description": "1دشيش الجمعه بعد العصر",
-      "date": "2026-06-12",
-      "remaining": 600,
-      "id": 523,
-      "created_at": "2026-06-12T14:17:47.424Z"
     },
     {
       "customer_id": 204,
