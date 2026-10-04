@@ -83594,6 +83594,36 @@
       "remaining": 16065,
       "id": 933,
       "created_at": "2026-10-03T10:32:32.616Z"
+    },
+    {
+      "customer_id": 74,
+      "total_amount": 475,
+      "down_payment": 1300,
+      "description": "ق",
+      "date": "2026-10-04",
+      "remaining": -825,
+      "id": 934,
+      "created_at": "2026-10-04T10:07:12.065Z"
+    },
+    {
+      "customer_id": 91,
+      "total_amount": 2285,
+      "down_payment": 0,
+      "description": "زيت",
+      "date": "2026-10-04",
+      "remaining": 2285,
+      "id": 935,
+      "created_at": "2026-10-04T10:25:18.414Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 130,
+      "down_payment": 0,
+      "description": "علف",
+      "date": "2026-10-04",
+      "remaining": 130,
+      "id": 936,
+      "created_at": "2026-10-04T10:26:32.412Z"
     }
   ],
   "inst_payments": [
@@ -87963,6 +87993,41 @@
       "note": "",
       "id": 663,
       "date": "2026-10-03T19:04:38.897Z"
+    },
+    {
+      "customer_id": 91,
+      "amount": 1235,
+      "note": "",
+      "id": 664,
+      "date": "2026-10-04T09:55:51.109Z"
+    },
+    {
+      "customer_id": 62,
+      "amount": 500,
+      "note": "",
+      "id": 665,
+      "date": "2026-10-04T10:00:14.194Z"
+    },
+    {
+      "installment_id": 934,
+      "amount": 1300,
+      "note": "دفعة مقدمة",
+      "id": 666,
+      "date": "2026-10-04T10:07:12.069Z"
+    },
+    {
+      "customer_id": 68,
+      "amount": 1600,
+      "note": "",
+      "id": 667,
+      "date": "2026-10-04T10:26:45.668Z"
+    },
+    {
+      "customer_id": 59,
+      "amount": 10000,
+      "note": "",
+      "id": 668,
+      "date": "2026-10-04T10:43:14.971Z"
     }
   ],
   "creditors": [
@@ -88072,11 +88137,11 @@
     },
     {
       "name": "احمد ربيع",
-      "phone": "",
-      "address": "دمو",
+      "phone": "دمو",
+      "address": "",
       "notes": "",
       "id": 32,
-      "created_at": "2026-08-20T12:27:17.611Z"
+      "created_at": "2026-10-04T12:29:41.894Z"
     }
   ],
   "debts": [
@@ -88791,26 +88856,6 @@
       "created_at": "2026-08-20T10:42:01.027Z"
     },
     {
-      "creditor_id": 32,
-      "total_amount": 12915,
-      "down_payment": 6770,
-      "description": "فجر",
-      "date": "2026-08-19",
-      "remaining": 6145,
-      "id": 161,
-      "created_at": "2026-08-20T13:08:57.988Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 1360,
-      "down_payment": 0,
-      "description": "شعير صيقي",
-      "date": "2026-08-22",
-      "remaining": 1360,
-      "id": 162,
-      "created_at": "2026-08-22T18:12:36.357Z"
-    },
-    {
       "creditor_id": 14,
       "total_amount": 5000,
       "down_payment": 0,
@@ -88819,26 +88864,6 @@
       "remaining": 5000,
       "id": 163,
       "created_at": "2026-08-22T19:10:49.477Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 280,
-      "down_payment": 0,
-      "description": "ملح 10",
-      "date": "2026-08-25",
-      "remaining": 280,
-      "id": 164,
-      "created_at": "2026-08-25T10:21:02.983Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 6325,
-      "down_payment": 0,
-      "description": "25صويا 10فجر",
-      "date": "2026-08-26",
-      "remaining": 6325,
-      "id": 165,
-      "created_at": "2026-08-26T14:31:33.842Z"
     },
     {
       "creditor_id": 1,
@@ -88851,16 +88876,6 @@
       "created_at": "2026-08-27T11:36:30.401Z"
     },
     {
-      "creditor_id": 32,
-      "total_amount": 1460,
-      "down_payment": 0,
-      "description": "شعير",
-      "date": "2026-08-27",
-      "remaining": 1460,
-      "id": 167,
-      "created_at": "2026-08-27T12:02:17.894Z"
-    },
-    {
       "creditor_id": 31,
       "total_amount": 49065,
       "down_payment": 0,
@@ -88871,46 +88886,6 @@
       "created_at": "2026-08-29T13:18:25.599Z"
     },
     {
-      "creditor_id": 32,
-      "total_amount": 2300,
-      "down_payment": 0,
-      "description": "ريس ولوبيه",
-      "date": "2026-08-27",
-      "remaining": 2300,
-      "id": 171,
-      "created_at": "2026-08-30T12:13:30.911Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 4600,
-      "down_payment": 0,
-      "description": "ملح",
-      "date": "2026-08-27",
-      "remaining": 4600,
-      "id": 172,
-      "created_at": "2026-08-30T12:13:47.552Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 1310,
-      "down_payment": 0,
-      "description": "در",
-      "date": "2026-08-27",
-      "remaining": 1310,
-      "id": 173,
-      "created_at": "2026-08-30T12:24:39.703Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 14610,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-08-27",
-      "remaining": 14610,
-      "id": 174,
-      "created_at": "2026-08-30T12:26:13.282Z"
-    },
-    {
       "creditor_id": 19,
       "total_amount": 10310,
       "down_payment": 0,
@@ -88919,16 +88894,6 @@
       "remaining": 10310,
       "id": 175,
       "created_at": "2026-08-30T18:01:13.912Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 15000,
-      "down_payment": 0,
-      "description": "فلوس تحصيل",
-      "date": "2026-08-27",
-      "remaining": 15000,
-      "id": 176,
-      "created_at": "2026-08-31T08:27:58.712Z"
     },
     {
       "creditor_id": 6,
@@ -88971,26 +88936,6 @@
       "created_at": "2026-09-03T15:54:59.687Z"
     },
     {
-      "creditor_id": 32,
-      "total_amount": 17640,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-09-06",
-      "remaining": 17640,
-      "id": 181,
-      "created_at": "2026-09-07T19:30:42.730Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 10640,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-09-14",
-      "remaining": 10640,
-      "id": 182,
-      "created_at": "2026-09-14T17:04:18.985Z"
-    },
-    {
       "creditor_id": 27,
       "total_amount": 5000,
       "down_payment": 3000,
@@ -89002,53 +88947,23 @@
     },
     {
       "creditor_id": 32,
-      "total_amount": 2485,
+      "total_amount": 7280,
       "down_payment": 0,
-      "description": "نيو هب ناعم",
-      "date": "2026-09-16",
-      "remaining": 2485,
+      "description": "قيم",
+      "date": "2026-10-04",
+      "remaining": 7280,
       "id": 184,
-      "created_at": "2026-09-17T17:35:48.016Z"
+      "created_at": "2026-10-04T12:30:04.985Z"
     },
     {
       "creditor_id": 32,
-      "total_amount": 13965,
-      "down_payment": 0,
-      "description": "ن",
-      "date": "2026-09-24",
-      "remaining": 13965,
-      "id": 185,
-      "created_at": "2026-09-25T15:50:43.588Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 2490,
-      "down_payment": 0,
-      "description": "ع",
-      "date": "2026-09-24",
-      "remaining": 2490,
-      "id": 186,
-      "created_at": "2026-09-25T15:50:58.220Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 6000,
-      "down_payment": 10000,
-      "description": "300غول",
-      "date": "2026-09-24",
-      "remaining": -4000,
-      "id": 187,
-      "created_at": "2026-09-26T11:03:21.699Z"
-    },
-    {
-      "creditor_id": 32,
-      "total_amount": 13625,
+      "total_amount": 10075,
       "down_payment": 0,
       "description": "علف",
-      "date": "2026-09-24",
-      "remaining": 13625,
-      "id": 188,
-      "created_at": "2026-09-26T16:28:36.618Z"
+      "date": "2026-10-04",
+      "remaining": 10075,
+      "id": 185,
+      "created_at": "2026-10-04T12:30:27.454Z"
     }
   ],
   "debt_payments": [
@@ -90359,13 +90274,6 @@
       "date": "2026-08-20T13:01:55.483Z"
     },
     {
-      "debt_id": 161,
-      "amount": 6770,
-      "note": "دفعة مقدمة",
-      "id": 277,
-      "date": "2026-08-20T13:08:57.989Z"
-    },
-    {
       "creditor_id": 1,
       "amount": 9000,
       "note": "",
@@ -90387,13 +90295,6 @@
       "date": "2026-08-22T11:28:01.704Z"
     },
     {
-      "creditor_id": 32,
-      "amount": 14800,
-      "note": "زره",
-      "id": 281,
-      "date": "2026-08-22T18:12:50.417Z"
-    },
-    {
       "creditor_id": 27,
       "amount": 2000,
       "note": "",
@@ -90401,32 +90302,11 @@
       "date": "2026-08-22T19:10:09.125Z"
     },
     {
-      "creditor_id": 32,
-      "amount": 2984,
-      "note": "ارز مكرونه",
-      "id": 283,
-      "date": "2026-08-25T10:20:39.808Z"
-    },
-    {
       "creditor_id": 6,
       "amount": 50000,
       "note": "احمد المحاسب",
       "id": 284,
       "date": "2026-08-25T10:32:35.747Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 15000,
-      "note": "1طن زره",
-      "id": 285,
-      "date": "2026-08-26T14:29:56.988Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 15500,
-      "note": "1طن زره",
-      "id": 286,
-      "date": "2026-08-27T11:31:52.708Z"
     },
     {
       "debt_id": 166,
@@ -90499,13 +90379,6 @@
       "date": "2026-08-29T13:33:44.370Z"
     },
     {
-      "creditor_id": 32,
-      "amount": 15600,
-      "note": "1زره",
-      "id": 297,
-      "date": "2026-08-30T17:49:34.415Z"
-    },
-    {
       "creditor_id": 31,
       "amount": 3000,
       "note": "",
@@ -90539,13 +90412,6 @@
       "note": "",
       "id": 302,
       "date": "2026-09-04T18:16:08.509Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 3100,
-      "note": "200زره",
-      "id": 303,
-      "date": "2026-09-04T18:18:04.478Z"
     },
     {
       "creditor_id": 6,
@@ -90611,20 +90477,6 @@
       "date": "2026-09-17T17:33:24.978Z"
     },
     {
-      "creditor_id": 32,
-      "amount": 6000,
-      "note": "",
-      "id": 313,
-      "date": "2026-09-20T15:40:55.358Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 5000,
-      "note": "",
-      "id": 314,
-      "date": "2026-09-20T15:41:02.686Z"
-    },
-    {
       "creditor_id": 19,
       "amount": 8000,
       "note": "",
@@ -90639,20 +90491,6 @@
       "date": "2026-09-24T17:13:09.932Z"
     },
     {
-      "debt_id": 187,
-      "amount": 10000,
-      "note": "دفعة مقدمة",
-      "id": 317,
-      "date": "2026-09-26T11:03:21.700Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 7000,
-      "note": "",
-      "id": 318,
-      "date": "2026-09-27T08:33:50.934Z"
-    },
-    {
       "creditor_id": 18,
       "amount": 1165,
       "note": "",
@@ -90665,20 +90503,6 @@
       "note": "",
       "id": 320,
       "date": "2026-09-28T11:51:14.878Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 3780,
-      "note": "",
-      "id": 321,
-      "date": "2026-09-30T09:58:41.121Z"
-    },
-    {
-      "creditor_id": 32,
-      "amount": 7000,
-      "note": "",
-      "id": 322,
-      "date": "2026-10-01T08:42:18.203Z"
     },
     {
       "creditor_id": 31,
@@ -90702,11 +90526,11 @@
       "date": "2026-10-02T14:39:45.576Z"
     },
     {
-      "creditor_id": 32,
-      "amount": 6375,
-      "note": "فاتوره",
-      "id": 326,
-      "date": "2026-10-03T14:09:24.091Z"
+      "creditor_id": 31,
+      "amount": 10000,
+      "note": "",
+      "id": 327,
+      "date": "2026-10-04T10:43:33.118Z"
     }
   ],
   "treasury": [
@@ -105976,6 +105800,48 @@
       "note": "سداد دفعة - عبدالله فرحات محل",
       "id": 2181,
       "date": "2026-10-03T19:04:38.902Z"
+    },
+    {
+      "type": "in",
+      "amount": 1235,
+      "note": "سداد دفعة - ام محمد اسماعيل ",
+      "id": 2182,
+      "date": "2026-10-04T09:55:51.112Z"
+    },
+    {
+      "type": "in",
+      "amount": 500,
+      "note": "سداد دفعة - ابو جنا واليد فراخ",
+      "id": 2183,
+      "date": "2026-10-04T10:00:14.198Z"
+    },
+    {
+      "type": "in",
+      "amount": 1300,
+      "note": "مقدم قسط - رمضان عبدالله محل ",
+      "id": 2184,
+      "date": "2026-10-04T10:07:12.072Z"
+    },
+    {
+      "type": "in",
+      "amount": 1600,
+      "note": "سداد دفعة - ابو كرم فتحي",
+      "id": 2185,
+      "date": "2026-10-04T10:26:45.674Z"
+    },
+    {
+      "type": "in",
+      "amount": 10000,
+      "note": "سداد دفعة - شعبان مطعم ",
+      "id": 2186,
+      "date": "2026-10-04T10:43:14.974Z"
+    },
+    {
+      "type": "out",
+      "amount": 10000,
+      "note": "سداد دين - محمد ",
+      "id": 2187,
+      "date": "2026-10-04T10:43:33.120Z"
     }
   ],
   "expenses": [
@@ -107217,6 +107083,12 @@
       "username": "امير",
       "id": 181,
       "opened_at": "2026-10-03T10:31:37.301Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 182,
+      "opened_at": "2026-10-04T09:55:02.093Z",
       "closed_at": null
     }
   ],
