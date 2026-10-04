@@ -75238,14 +75238,6 @@
       "created_at": "2026-05-05T08:13:58.995Z"
     },
     {
-      "name": "مسعود كرنك ",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 45,
-      "created_at": "2026-05-05T08:15:05.671Z"
-    },
-    {
       "name": "محمد سيد جمعه",
       "phone": "",
       "address": "عزبه سعد",
@@ -75500,14 +75492,6 @@
       "notes": "",
       "id": 86,
       "created_at": "2026-05-05T09:13:12.395Z"
-    },
-    {
-      "name": "ام عبدالله رمضان اسماعيل ",
-      "phone": "",
-      "address": "الخوري",
-      "notes": "",
-      "id": 87,
-      "created_at": "2026-05-05T09:15:56.523Z"
     },
     {
       "name": "استاذ رجب",
@@ -76616,16 +76600,6 @@
       "created_at": "2026-05-05T08:14:15.592Z"
     },
     {
-      "customer_id": 45,
-      "total_amount": 1235,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 1235,
-      "id": 45,
-      "created_at": "2026-05-05T08:15:21.095Z"
-    },
-    {
       "customer_id": 46,
       "total_amount": 200,
       "down_payment": 0,
@@ -77516,16 +77490,6 @@
       "created_at": "2026-05-05T11:16:28.110Z"
     },
     {
-      "customer_id": 87,
-      "total_amount": 1280,
-      "down_payment": 0,
-      "description": "دقيق",
-      "date": "2026-05-05",
-      "remaining": 1280,
-      "id": 168,
-      "created_at": "2026-05-05T15:52:20.869Z"
-    },
-    {
       "customer_id": 36,
       "total_amount": 11150,
       "down_payment": 0,
@@ -77873,16 +77837,6 @@
       "created_at": "2026-05-10T16:34:54.995Z"
     },
     {
-      "customer_id": 87,
-      "total_amount": 430,
-      "down_payment": 0,
-      "description": "دقيق من امير",
-      "date": "2026-05-10",
-      "remaining": 430,
-      "id": 223,
-      "created_at": "2026-05-10T17:58:21.696Z"
-    },
-    {
       "customer_id": 182,
       "total_amount": 565,
       "down_payment": 0,
@@ -77996,25 +77950,6 @@
       "remaining": 210,
       "id": 241,
       "created_at": "2026-05-13T07:20:53.752Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 860,
-      "down_payment": 700,
-      "description": "مبيعات من نقطة البيع فاتورة #95",
-      "date": "2026-05-13",
-      "id": 242,
-      "created_at": "2026-05-13T09:08:36.974Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 60,
-      "down_payment": 0,
-      "description": "3ك دقيق",
-      "date": "2026-05-13",
-      "remaining": 60,
-      "id": 243,
-      "created_at": "2026-05-13T09:11:07.973Z"
     },
     {
       "customer_id": 73,
@@ -78242,16 +78177,6 @@
       "created_at": "2026-05-15T13:14:21.163Z"
     },
     {
-      "customer_id": 45,
-      "total_amount": 50,
-      "down_payment": 0,
-      "description": "نخاله",
-      "date": "2026-05-15",
-      "remaining": 50,
-      "id": 274,
-      "created_at": "2026-05-15T13:47:02.509Z"
-    },
-    {
       "customer_id": 53,
       "total_amount": 1230,
       "down_payment": 0,
@@ -78270,16 +78195,6 @@
       "remaining": 210,
       "id": 276,
       "created_at": "2026-05-15T14:19:22.174Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 40,
-      "down_payment": 0,
-      "description": "باقي 2 دقيق",
-      "date": "2026-05-15",
-      "remaining": 40,
-      "id": 278,
-      "created_at": "2026-05-15T18:35:12.213Z"
     },
     {
       "customer_id": 46,
@@ -78430,16 +78345,6 @@
       "remaining": 635,
       "id": 301,
       "created_at": "2026-05-18T11:26:56.656Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 350,
-      "down_payment": 0,
-      "description": "دقيق خميره",
-      "date": "2026-05-17",
-      "remaining": 350,
-      "id": 302,
-      "created_at": "2026-05-18T11:45:46.921Z"
     },
     {
       "customer_id": 7,
@@ -78652,16 +78557,6 @@
       "created_at": "2026-05-21T20:18:51.869Z"
     },
     {
-      "customer_id": 87,
-      "total_amount": 435,
-      "down_payment": 0,
-      "description": "شكاره دقيق",
-      "date": "2026-05-21",
-      "remaining": 435,
-      "id": 334,
-      "created_at": "2026-05-21T23:56:59.350Z"
-    },
-    {
       "customer_id": 8,
       "total_amount": 540,
       "down_payment": 0,
@@ -78670,36 +78565,6 @@
       "remaining": 540,
       "id": 339,
       "created_at": "2026-05-22T08:39:34.763Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 485,
-      "down_payment": 600,
-      "description": "دقيق زيت",
-      "date": "2026-05-21",
-      "remaining": -115,
-      "id": 340,
-      "created_at": "2026-05-22T08:42:43.569Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 30,
-      "down_payment": 0,
-      "description": "زيت",
-      "date": "2026-05-21",
-      "remaining": 30,
-      "id": 341,
-      "created_at": "2026-05-22T08:44:49.001Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 650,
-      "down_payment": 0,
-      "description": "نيو هب",
-      "date": "2026-05-21",
-      "remaining": 650,
-      "id": 342,
-      "created_at": "2026-05-22T08:47:01.151Z"
     },
     {
       "customer_id": 50,
@@ -78820,16 +78685,6 @@
       "remaining": 200,
       "id": 361,
       "created_at": "2026-05-24T15:37:12.550Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 55,
-      "down_payment": 0,
-      "description": "زيت",
-      "date": "2026-05-24",
-      "remaining": 55,
-      "id": 363,
-      "created_at": "2026-05-24T17:16:24.132Z"
     },
     {
       "customer_id": 50,
@@ -79427,16 +79282,6 @@
       "created_at": "2026-06-03T09:31:26.089Z"
     },
     {
-      "customer_id": 87,
-      "total_amount": 45,
-      "down_payment": 0,
-      "description": "باقي بيض",
-      "date": "2026-06-03",
-      "remaining": 45,
-      "id": 458,
-      "created_at": "2026-06-03T19:32:56.470Z"
-    },
-    {
       "customer_id": 13,
       "total_amount": 4700,
       "down_payment": 0,
@@ -79875,16 +79720,6 @@
       "remaining": 8720,
       "id": 525,
       "created_at": "2026-06-12T15:51:14.407Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 270,
-      "down_payment": 0,
-      "description": "زيت",
-      "date": "2026-06-12",
-      "remaining": 270,
-      "id": 526,
-      "created_at": "2026-06-12T19:06:46.035Z"
     },
     {
       "customer_id": 198,
@@ -80507,16 +80342,6 @@
       "created_at": "2026-06-26T14:05:13.366Z"
     },
     {
-      "customer_id": 45,
-      "total_amount": 50,
-      "down_payment": 0,
-      "description": "بااااااااااقي من الشيش",
-      "date": "2026-06-26",
-      "remaining": 50,
-      "id": 617,
-      "created_at": "2026-06-26T15:15:42.806Z"
-    },
-    {
       "customer_id": 111,
       "total_amount": 25,
       "down_payment": 0,
@@ -81034,16 +80859,6 @@
       "remaining": 500,
       "id": 680,
       "created_at": "2026-07-11T11:06:16.674Z"
-    },
-    {
-      "customer_id": 87,
-      "total_amount": 350,
-      "down_payment": 0,
-      "description": "زيت",
-      "date": "2026-07-11",
-      "remaining": 350,
-      "id": 681,
-      "created_at": "2026-07-11T19:37:14.134Z"
     },
     {
       "customer_id": 59,
@@ -82356,16 +82171,6 @@
       "created_at": "2026-08-26T15:34:03.855Z"
     },
     {
-      "customer_id": 87,
-      "total_amount": 380,
-      "down_payment": 0,
-      "description": "زيت",
-      "date": "2026-08-26",
-      "remaining": 380,
-      "id": 821,
-      "created_at": "2026-08-26T16:13:29.788Z"
-    },
-    {
       "customer_id": 210,
       "total_amount": 8760,
       "down_payment": 0,
@@ -83346,16 +83151,6 @@
       "created_at": "2026-09-28T15:17:58.478Z"
     },
     {
-      "customer_id": 87,
-      "total_amount": 360,
-      "down_payment": 0,
-      "description": "زيت",
-      "date": "2026-09-27",
-      "remaining": 360,
-      "id": 923,
-      "created_at": "2026-09-28T15:27:40.386Z"
-    },
-    {
       "customer_id": 62,
       "total_amount": 1650,
       "down_payment": 650,
@@ -83497,12 +83292,6 @@
     }
   ],
   "inst_payments": [
-    {
-      "installment_id": 168,
-      "amount": 630,
-      "id": 1,
-      "date": "2026-05-05T15:52:28.910Z"
-    },
     {
       "installment_id": 36,
       "amount": 30000,
@@ -83796,13 +83585,6 @@
       "note": "انستا لمحمود",
       "id": 53,
       "date": "2026-05-13T07:53:09.096Z"
-    },
-    {
-      "installment_id": 242,
-      "amount": 700,
-      "note": "دفعة مقدمة",
-      "id": 54,
-      "date": "2026-05-13T09:08:36.974Z"
     },
     {
       "customer_id": 88,
@@ -84202,13 +83984,6 @@
       "note": "لمحمود انستا",
       "id": 118,
       "date": "2026-05-22T05:24:16.707Z"
-    },
-    {
-      "installment_id": 340,
-      "amount": 600,
-      "note": "دفعة مقدمة",
-      "id": 119,
-      "date": "2026-05-22T08:42:43.570Z"
     },
     {
       "installment_id": 349,
