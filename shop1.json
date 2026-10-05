@@ -88210,6 +88210,16 @@
       "remaining": 32625,
       "id": 186,
       "created_at": "2026-10-04T14:55:31.087Z"
+    },
+    {
+      "creditor_id": 18,
+      "total_amount": 13230,
+      "down_payment": 0,
+      "description": "كرتيه",
+      "date": "2026-10-05",
+      "remaining": 13230,
+      "id": 187,
+      "created_at": "2026-10-05T14:13:47.909Z"
     }
   ],
   "debt_payments": [
