@@ -116,7 +116,7 @@
       "department_id": null,
       "buy_price": 175,
       "sell_price": 180,
-      "stock": 10,
+      "stock": 9,
       "min_stock": 10,
       "unit": "كرتونة",
       "icon": "📦",
@@ -75033,6 +75033,38 @@
       "is_madasha": false,
       "id": 1003,
       "date": "2026-10-07T07:37:00.090Z"
+    },
+    {
+      "items": [
+        {
+          "name": "مناديل فاين",
+          "barcode": "6294018813460",
+          "department_id": null,
+          "buy_price": 175,
+          "sell_price": 180,
+          "stock": 10,
+          "min_stock": 10,
+          "unit": "كرتونة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 10,
+          "created_at": "2026-05-05T12:28:33.432Z",
+          "pos_type": "main",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 180,
+      "discount": 0,
+      "total": 180,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 1004,
+      "date": "2026-10-07T07:39:17.623Z"
     }
   ],
   "customers": [
@@ -105286,6 +105318,13 @@
       "amount": 14,
       "note": "فاتورة بيع #1003",
       "date": "2026-10-07T07:37:00.123Z"
+    },
+    {
+      "id": 2200,
+      "type": "in",
+      "amount": 180,
+      "note": "فاتورة بيع #1004",
+      "date": "2026-10-07T07:39:17.654Z"
     }
   ],
   "expenses": [
