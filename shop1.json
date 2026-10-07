@@ -2241,7 +2241,7 @@
       "brand_id": null,
       "buy_price": 12,
       "sell_price": 14,
-      "stock": 949,
+      "stock": 948,
       "min_stock": 100,
       "expiry_date": "",
       "unit": "كيلو",
@@ -75002,6 +75002,37 @@
       "is_madasha": true,
       "id": 1002,
       "date": "2026-09-18T19:23:57.346Z"
+    },
+    {
+      "items": [
+        {
+          "name": "ارز بشعره",
+          "barcode": "",
+          "department_id": null,
+          "sub_department_id": null,
+          "brand_id": null,
+          "buy_price": 12,
+          "sell_price": 14,
+          "stock": 949,
+          "min_stock": 100,
+          "expiry_date": "",
+          "unit": "كيلو",
+          "weight": "",
+          "description": "",
+          "icon": "📦",
+          "id": 157,
+          "created_at": "2026-05-07T19:33:32.391Z",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 14,
+      "discount": 0,
+      "total": 14,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 1003,
+      "date": "2026-10-07T07:37:00.090Z"
     }
   ],
   "customers": [
@@ -105248,6 +105279,13 @@
       "note": "سداد دين - محمد ",
       "id": 2198,
       "date": "2026-10-06T14:58:27.539Z"
+    },
+    {
+      "id": 2199,
+      "type": "in",
+      "amount": 14,
+      "note": "فاتورة بيع #1003",
+      "date": "2026-10-07T07:37:00.123Z"
     }
   ],
   "expenses": [
