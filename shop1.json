@@ -82973,6 +82973,16 @@
       "remaining": 420,
       "id": 942,
       "created_at": "2026-10-08T11:56:54.684Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 15005,
+      "down_payment": 0,
+      "description": "علف",
+      "date": "2026-10-08",
+      "remaining": 15005,
+      "id": 943,
+      "created_at": "2026-10-08T13:50:58.207Z"
     }
   ],
   "inst_payments": [
