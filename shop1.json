@@ -82925,16 +82925,6 @@
       "created_at": "2026-10-04T14:48:31.693Z"
     },
     {
-      "customer_id": 19,
-      "total_amount": 1050,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-10-04",
-      "remaining": 1050,
-      "id": 938,
-      "created_at": "2026-10-04T18:06:59.682Z"
-    },
-    {
       "customer_id": 116,
       "total_amount": 18500,
       "down_payment": 0,
