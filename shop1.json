@@ -82953,6 +82953,26 @@
       "remaining": -10740,
       "id": 940,
       "created_at": "2026-10-06T13:58:11.275Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 51,
+      "down_payment": 0,
+      "description": "ىة",
+      "date": "2026-10-08",
+      "remaining": 51,
+      "id": 941,
+      "created_at": "2026-10-08T11:55:05.925Z"
+    },
+    {
+      "customer_id": 91,
+      "total_amount": 420,
+      "down_payment": 0,
+      "description": "حمادة",
+      "date": "2026-10-08",
+      "remaining": 420,
+      "id": 942,
+      "created_at": "2026-10-08T11:56:54.684Z"
     }
   ],
   "inst_payments": [
@@ -87365,6 +87385,13 @@
       "note": "دفعة مقدمة",
       "id": 674,
       "date": "2026-10-06T13:58:11.277Z"
+    },
+    {
+      "customer_id": 189,
+      "amount": 100,
+      "note": "",
+      "id": 675,
+      "date": "2026-10-08T13:41:39.647Z"
     }
   ],
   "creditors": [
@@ -105325,6 +105352,13 @@
       "amount": 180,
       "note": "فاتورة بيع #1004",
       "date": "2026-10-07T07:39:17.654Z"
+    },
+    {
+      "type": "in",
+      "amount": 100,
+      "note": "سداد دفعة - الزاوي كبده",
+      "id": 2201,
+      "date": "2026-10-08T13:41:39.650Z"
     }
   ],
   "expenses": [
@@ -106584,6 +106618,12 @@
       "username": "امير",
       "id": 184,
       "opened_at": "2026-10-05T16:43:02.528Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 185,
+      "opened_at": "2026-10-08T11:51:07.197Z",
       "closed_at": null
     }
   ],
