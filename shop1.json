@@ -82983,6 +82983,16 @@
       "remaining": 1130,
       "id": 944,
       "created_at": "2026-10-08T15:14:38.842Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 30,
+      "down_payment": 0,
+      "description": "دشيش",
+      "date": "2026-10-08",
+      "remaining": 30,
+      "id": 945,
+      "created_at": "2026-10-09T15:08:55.131Z"
     }
   ],
   "inst_payments": [
