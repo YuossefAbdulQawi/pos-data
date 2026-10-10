@@ -83033,6 +83033,16 @@
       "remaining": 260,
       "id": 949,
       "created_at": "2026-10-10T15:59:13.267Z"
+    },
+    {
+      "customer_id": 210,
+      "total_amount": 4650,
+      "down_payment": 0,
+      "description": "عتق",
+      "date": "2026-10-10",
+      "remaining": 4650,
+      "id": 950,
+      "created_at": "2026-10-10T17:05:16.342Z"
     }
   ],
   "inst_payments": [
