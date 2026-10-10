@@ -83023,16 +83023,6 @@
       "remaining": 4900,
       "id": 948,
       "created_at": "2026-10-10T14:08:48.206Z"
-    },
-    {
-      "customer_id": 189,
-      "total_amount": 360,
-      "down_payment": 360,
-      "description": "ز",
-      "date": "2026-10-10",
-      "remaining": 0,
-      "id": 949,
-      "created_at": "2026-10-10T15:56:17.010Z"
     }
   ],
   "inst_payments": [
