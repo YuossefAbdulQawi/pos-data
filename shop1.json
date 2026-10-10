@@ -83013,6 +83013,16 @@
       "remaining": 790,
       "id": 947,
       "created_at": "2026-10-09T18:39:42.236Z"
+    },
+    {
+      "customer_id": 65,
+      "total_amount": 4900,
+      "down_payment": 0,
+      "description": "علف",
+      "date": "2026-10-10",
+      "remaining": 4900,
+      "id": 948,
+      "created_at": "2026-10-10T14:08:48.206Z"
     }
   ],
   "inst_payments": [
@@ -106762,6 +106772,12 @@
       "username": "امير",
       "id": 185,
       "opened_at": "2026-10-08T11:51:07.197Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 186,
+      "opened_at": "2026-10-10T13:45:15.035Z",
       "closed_at": null
     }
   ],
