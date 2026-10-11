@@ -83071,6 +83071,16 @@
       "remaining": 230,
       "id": 952,
       "created_at": "2026-10-11T11:10:46.919Z"
+    },
+    {
+      "customer_id": 60,
+      "total_amount": 11200,
+      "down_payment": 0,
+      "description": "دريس",
+      "date": "2026-10-10",
+      "remaining": 11200,
+      "id": 953,
+      "created_at": "2026-10-11T13:04:43.278Z"
     }
   ],
   "inst_payments": [
