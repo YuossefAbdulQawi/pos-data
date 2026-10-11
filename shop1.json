@@ -83061,6 +83061,16 @@
       "remaining": 5255,
       "id": 951,
       "created_at": "2026-10-11T11:05:28.792Z"
+    },
+    {
+      "customer_id": 231,
+      "total_amount": 230,
+      "down_payment": 0,
+      "description": "عللللللللللللللللللللللل",
+      "date": "2026-10-10",
+      "remaining": 230,
+      "id": 952,
+      "created_at": "2026-10-11T11:10:46.919Z"
     }
   ],
   "inst_payments": [
