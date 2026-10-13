@@ -83157,6 +83157,16 @@
       "remaining": 490,
       "id": 959,
       "created_at": "2026-10-12T18:57:04.895Z"
+    },
+    {
+      "customer_id": 201,
+      "total_amount": 370,
+      "down_payment": 0,
+      "description": "كرتيه",
+      "date": "2026-10-12",
+      "remaining": 370,
+      "id": 960,
+      "created_at": "2026-10-12T19:31:03.372Z"
     }
   ],
   "inst_payments": [
