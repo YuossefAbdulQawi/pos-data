@@ -88750,6 +88750,16 @@
       "remaining": 5155,
       "id": 188,
       "created_at": "2026-10-15T10:25:23.353Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 800,
+      "down_payment": 0,
+      "description": "مسستخلص",
+      "date": "2026-10-14",
+      "remaining": 800,
+      "id": 189,
+      "created_at": "2026-10-15T10:25:49.535Z"
     }
   ],
   "debt_payments": [
