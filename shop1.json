@@ -88841,6 +88841,16 @@
       "remaining": 800,
       "id": 189,
       "created_at": "2026-10-15T10:25:49.535Z"
+    },
+    {
+      "creditor_id": 6,
+      "total_amount": 4400,
+      "down_payment": 0,
+      "description": "ن",
+      "date": "2026-10-14",
+      "remaining": 4400,
+      "id": 190,
+      "created_at": "2026-10-16T18:14:00.075Z"
     }
   ],
   "debt_payments": [
