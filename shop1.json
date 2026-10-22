@@ -75717,14 +75717,6 @@
       "created_at": "2026-05-05T10:03:45.551Z"
     },
     {
-      "name": "عمار سيد عبدالنبي ",
-      "phone": "",
-      "address": "الترب",
-      "notes": "",
-      "id": 118,
-      "created_at": "2026-05-05T10:05:09.046Z"
-    },
-    {
       "name": "ابو يحيي",
       "phone": "",
       "address": "عزبه سعد",
@@ -77075,16 +77067,6 @@
       "created_at": "2026-05-05T10:04:15.253Z"
     },
     {
-      "customer_id": 118,
-      "total_amount": 890,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-05",
-      "remaining": 890,
-      "id": 119,
-      "created_at": "2026-05-05T10:05:37.013Z"
-    },
-    {
       "customer_id": 119,
       "total_amount": 4000,
       "down_payment": 0,
@@ -78193,26 +78175,6 @@
       "created_at": "2026-05-17T13:28:21.496Z"
     },
     {
-      "customer_id": 118,
-      "total_amount": 2345,
-      "down_payment": 0,
-      "description": "علف",
-      "date": "2026-05-17",
-      "remaining": 2345,
-      "id": 294,
-      "created_at": "2026-05-17T13:48:30.571Z"
-    },
-    {
-      "customer_id": 118,
-      "total_amount": 770,
-      "down_payment": 0,
-      "description": "زره",
-      "date": "2026-05-17",
-      "remaining": 770,
-      "id": 295,
-      "created_at": "2026-05-17T13:55:31.423Z"
-    },
-    {
       "customer_id": 60,
       "total_amount": 19310,
       "down_payment": 0,
@@ -78221,16 +78183,6 @@
       "remaining": 19310,
       "id": 297,
       "created_at": "2026-05-17T20:34:42.399Z"
-    },
-    {
-      "customer_id": 118,
-      "total_amount": 324,
-      "down_payment": 0,
-      "description": "27دريس",
-      "date": "2026-05-17",
-      "remaining": 324,
-      "id": 298,
-      "created_at": "2026-05-17T21:01:20.958Z"
     },
     {
       "customer_id": 74,
@@ -78281,16 +78233,6 @@
       "remaining": 20555,
       "id": 308,
       "created_at": "2026-05-18T17:23:27.367Z"
-    },
-    {
-      "customer_id": 118,
-      "total_amount": 570,
-      "down_payment": 1000,
-      "description": "علف",
-      "date": "2026-05-17",
-      "remaining": -430,
-      "id": 309,
-      "created_at": "2026-05-18T17:59:35.300Z"
     },
     {
       "customer_id": 36,
@@ -78561,16 +78503,6 @@
       "remaining": 1403,
       "id": 358,
       "created_at": "2026-05-24T13:02:09.490Z"
-    },
-    {
-      "customer_id": 118,
-      "total_amount": 287,
-      "down_payment": 0,
-      "description": "دريس",
-      "date": "2026-05-24",
-      "remaining": 287,
-      "id": 360,
-      "created_at": "2026-05-24T15:35:13.560Z"
     },
     {
       "customer_id": 50,
@@ -79368,16 +79300,6 @@
       "created_at": "2026-06-09T11:41:54.644Z"
     },
     {
-      "customer_id": 118,
-      "total_amount": 1100,
-      "down_payment": 600,
-      "description": "دريس زره",
-      "date": "2026-06-09",
-      "remaining": 500,
-      "id": 503,
-      "created_at": "2026-06-09T19:16:45.247Z"
-    },
-    {
       "customer_id": 83,
       "total_amount": 560,
       "down_payment": 0,
@@ -79596,16 +79518,6 @@
       "remaining": 745,
       "id": 535,
       "created_at": "2026-06-15T08:39:09.474Z"
-    },
-    {
-      "customer_id": 118,
-      "total_amount": 365,
-      "down_payment": 0,
-      "description": "دريس",
-      "date": "2026-06-15",
-      "remaining": 365,
-      "id": 536,
-      "created_at": "2026-06-15T09:58:40.681Z"
     },
     {
       "customer_id": 59,
@@ -84001,13 +83913,6 @@
       "date": "2026-05-18T17:23:05.286Z"
     },
     {
-      "installment_id": 309,
-      "amount": 1000,
-      "note": "دفعة مقدمة",
-      "id": 103,
-      "date": "2026-05-18T17:59:35.302Z"
-    },
-    {
       "customer_id": 109,
       "amount": 1635,
       "note": "",
@@ -84874,13 +84779,6 @@
       "note": "",
       "id": 240,
       "date": "2026-06-09T15:18:01.460Z"
-    },
-    {
-      "installment_id": 503,
-      "amount": 600,
-      "note": "دفعة مقدمة",
-      "id": 242,
-      "date": "2026-06-09T19:16:45.250Z"
     },
     {
       "customer_id": 162,
