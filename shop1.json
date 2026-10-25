@@ -83417,6 +83417,16 @@
       "remaining": 530,
       "id": 993,
       "created_at": "2026-10-25T15:03:50.716Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 2890,
+      "down_payment": 0,
+      "description": "ن",
+      "date": "2026-10-24",
+      "remaining": 2890,
+      "id": 994,
+      "created_at": "2026-10-25T15:35:23.006Z"
     }
   ],
   "inst_payments": [
