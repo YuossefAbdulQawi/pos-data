@@ -89176,6 +89176,16 @@
       "remaining": 16460,
       "id": 191,
       "created_at": "2026-10-20T15:00:01.296Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 13930,
+      "down_payment": 0,
+      "description": "علف",
+      "date": "2026-10-26",
+      "remaining": 13930,
+      "id": 192,
+      "created_at": "2026-10-27T12:59:00.811Z"
     }
   ],
   "debt_payments": [
