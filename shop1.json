@@ -83363,16 +83363,6 @@
       "created_at": "2026-10-25T15:01:55.095Z"
     },
     {
-      "customer_id": 66,
-      "total_amount": 2475,
-      "down_payment": 900,
-      "description": "ن",
-      "date": "2026-10-24",
-      "remaining": 1575,
-      "id": 992,
-      "created_at": "2026-10-25T15:03:20.221Z"
-    },
-    {
       "customer_id": 10,
       "total_amount": 530,
       "down_payment": 0,
@@ -88156,13 +88146,6 @@
       "note": "",
       "id": 715,
       "date": "2026-10-24T10:46:45.700Z"
-    },
-    {
-      "installment_id": 992,
-      "amount": 900,
-      "note": "دفعة مقدمة",
-      "id": 716,
-      "date": "2026-10-25T15:03:20.226Z"
     },
     {
       "customer_id": 59,
