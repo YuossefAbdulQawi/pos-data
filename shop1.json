@@ -83477,6 +83477,16 @@
       "remaining": -29600,
       "id": 999,
       "created_at": "2026-10-28T13:54:11.031Z"
+    },
+    {
+      "customer_id": 116,
+      "total_amount": 3125,
+      "down_payment": 0,
+      "description": "درريس",
+      "date": "2026-10-28",
+      "remaining": 3125,
+      "id": 1000,
+      "created_at": "2026-10-28T13:55:00.244Z"
     }
   ],
   "inst_payments": [
