@@ -83461,6 +83461,16 @@
       "remaining": 120,
       "id": 1001,
       "created_at": "2026-10-28T15:48:34.702Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 520,
+      "down_payment": 0,
+      "description": "نح",
+      "date": "2026-10-28",
+      "remaining": 520,
+      "id": 1002,
+      "created_at": "2026-10-28T17:23:10.838Z"
     }
   ],
   "inst_payments": [
