@@ -153,7 +153,7 @@
       "department_id": null,
       "buy_price": 15,
       "sell_price": 17,
-      "stock": 44,
+      "stock": 0,
       "min_stock": 2,
       "unit": "علبة",
       "icon": "📦",
@@ -164,7 +164,8 @@
       "brand_id": null,
       "id": 13,
       "created_at": "2026-05-05T12:38:40.518Z",
-      "pos_type": "main"
+      "pos_type": "main",
+      "image": ""
     },
     {
       "name": "خلطة الكفتة",
@@ -874,7 +875,7 @@
       "department_id": null,
       "buy_price": 20,
       "sell_price": 25,
-      "stock": 2,
+      "stock": 1,
       "min_stock": 10,
       "unit": "قطعة",
       "icon": "📦",
@@ -75065,6 +75066,37 @@
       "is_madasha": false,
       "id": 1004,
       "date": "2026-10-07T07:39:17.623Z"
+    },
+    {
+      "items": [
+        {
+          "name": "عسل اسود ربع كيلو",
+          "barcode": "6225000193017",
+          "department_id": null,
+          "buy_price": 20,
+          "sell_price": 25,
+          "stock": 2,
+          "min_stock": 10,
+          "unit": "قطعة",
+          "icon": "📦",
+          "weight": "",
+          "description": "",
+          "expiry_date": "",
+          "sub_department_id": null,
+          "brand_id": null,
+          "id": 64,
+          "created_at": "2026-05-05T16:31:36.705Z",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 25,
+      "discount": 0,
+      "total": 25,
+      "cashier": "امير",
+      "pos_type": "main",
+      "is_madasha": false,
+      "id": 1005,
+      "date": "2026-11-15T07:54:55.212Z"
     }
   ],
   "customers": [
@@ -83699,6 +83731,146 @@
       "remaining": 120,
       "id": 1027,
       "created_at": "2026-11-07T15:38:52.884Z"
+    },
+    {
+      "customer_id": 59,
+      "total_amount": 6370,
+      "down_payment": 5000,
+      "description": "من شروق",
+      "date": "2026-11-09",
+      "remaining": 1370,
+      "id": 1028,
+      "created_at": "2026-11-09T17:24:00.108Z"
+    },
+    {
+      "customer_id": 116,
+      "total_amount": 350,
+      "down_payment": 0,
+      "description": "ببس",
+      "date": "2026-11-09",
+      "remaining": 350,
+      "id": 1029,
+      "created_at": "2026-11-10T12:38:51.450Z"
+    },
+    {
+      "customer_id": 198,
+      "total_amount": 9450,
+      "down_payment": 0,
+      "description": "ت",
+      "date": "2026-11-11",
+      "remaining": 9450,
+      "id": 1030,
+      "created_at": "2026-11-11T10:27:25.955Z"
+    },
+    {
+      "customer_id": 68,
+      "total_amount": 190,
+      "down_payment": 0,
+      "description": "ك",
+      "date": "2026-11-11",
+      "remaining": 190,
+      "id": 1031,
+      "created_at": "2026-11-11T13:17:28.238Z"
+    },
+    {
+      "customer_id": 121,
+      "total_amount": 30,
+      "down_payment": 0,
+      "description": "م",
+      "date": "2026-11-11",
+      "remaining": 30,
+      "id": 1032,
+      "created_at": "2026-11-11T19:23:51.085Z"
+    },
+    {
+      "customer_id": 12,
+      "total_amount": 170,
+      "down_payment": 0,
+      "description": "خ",
+      "date": "2026-11-11",
+      "remaining": 170,
+      "id": 1033,
+      "created_at": "2026-11-12T09:12:27.394Z"
+    },
+    {
+      "customer_id": 99,
+      "total_amount": 195,
+      "down_payment": 0,
+      "description": "قر",
+      "date": "2026-11-11",
+      "remaining": 195,
+      "id": 1034,
+      "created_at": "2026-11-12T14:00:48.284Z"
+    },
+    {
+      "customer_id": 230,
+      "total_amount": 19050,
+      "down_payment": 0,
+      "description": "ن",
+      "date": "2026-11-14",
+      "remaining": 19050,
+      "id": 1035,
+      "created_at": "2026-11-14T12:02:27.156Z"
+    },
+    {
+      "customer_id": 56,
+      "total_amount": 8535,
+      "down_payment": 0,
+      "description": "نص",
+      "date": "2026-11-14",
+      "remaining": 8535,
+      "id": 1036,
+      "created_at": "2026-11-14T12:06:09.516Z"
+    },
+    {
+      "customer_id": 227,
+      "total_amount": 1300,
+      "down_payment": 0,
+      "description": "ع",
+      "date": "2026-11-14",
+      "remaining": 1300,
+      "id": 1037,
+      "created_at": "2026-11-14T13:25:46.290Z"
+    },
+    {
+      "customer_id": 228,
+      "total_amount": 7000,
+      "down_payment": 0,
+      "description": "ة",
+      "date": "2026-11-14",
+      "remaining": 7000,
+      "id": 1038,
+      "created_at": "2026-11-14T13:34:08.780Z"
+    },
+    {
+      "customer_id": 91,
+      "total_amount": 1510,
+      "down_payment": 0,
+      "description": "ت",
+      "date": "2026-11-14",
+      "remaining": 1510,
+      "id": 1039,
+      "created_at": "2026-11-15T09:11:02.175Z"
+    },
+    {
+      "customer_id": 116,
+      "total_amount": 175,
+      "down_payment": 0,
+      "description": "ت",
+      "date": "2026-11-14",
+      "remaining": 175,
+      "id": 1040,
+      "created_at": "2026-11-15T11:49:00.254Z"
+    },
+    {
+      "customer_id": 19,
+      "total_amount": 1460,
+      "down_payment": 0,
+      "description": "ا",
+      "date": "2026-11-14",
+      "remaining": 1460,
+      "id": 1041,
+      "created_at": "2026-11-15T17:30:43.261Z"
     }
   ],
   "inst_payments": [
@@ -88615,6 +88787,153 @@
       "note": "",
       "id": 751,
       "date": "2026-11-07T15:38:34.510Z"
+    },
+    {
+      "installment_id": 1028,
+      "amount": 5000,
+      "note": "دفعة مقدمة",
+      "id": 752,
+      "date": "2026-11-09T17:24:00.111Z"
+    },
+    {
+      "customer_id": 64,
+      "amount": 1000,
+      "note": "",
+      "id": 753,
+      "date": "2026-11-09T17:37:13.175Z"
+    },
+    {
+      "customer_id": 8,
+      "amount": 1000,
+      "note": "",
+      "id": 754,
+      "date": "2026-11-09T17:37:37.728Z"
+    },
+    {
+      "customer_id": 105,
+      "amount": 500,
+      "note": "",
+      "id": 755,
+      "date": "2026-11-09T18:39:25.351Z"
+    },
+    {
+      "customer_id": 102,
+      "amount": 6000,
+      "note": "",
+      "id": 756,
+      "date": "2026-11-11T14:59:22.487Z"
+    },
+    {
+      "customer_id": 55,
+      "amount": 1500,
+      "note": "",
+      "id": 757,
+      "date": "2026-11-11T15:20:26.309Z"
+    },
+    {
+      "customer_id": 121,
+      "amount": 480,
+      "note": "",
+      "id": 758,
+      "date": "2026-11-11T19:23:31.125Z"
+    },
+    {
+      "customer_id": 13,
+      "amount": 480,
+      "note": "",
+      "id": 759,
+      "date": "2026-11-12T09:10:46.899Z"
+    },
+    {
+      "customer_id": 233,
+      "amount": 1960,
+      "note": "",
+      "id": 760,
+      "date": "2026-11-12T11:56:03.443Z"
+    },
+    {
+      "customer_id": 99,
+      "amount": 300,
+      "note": "",
+      "id": 761,
+      "date": "2026-11-12T14:02:25.024Z"
+    },
+    {
+      "customer_id": 13,
+      "amount": 1000,
+      "note": "",
+      "id": 762,
+      "date": "2026-11-12T14:08:10.911Z"
+    },
+    {
+      "customer_id": 44,
+      "amount": 4910,
+      "note": "",
+      "id": 763,
+      "date": "2026-11-12T18:47:59.650Z"
+    },
+    {
+      "customer_id": 15,
+      "amount": 400,
+      "note": "",
+      "id": 764,
+      "date": "2026-11-13T15:26:02.165Z"
+    },
+    {
+      "customer_id": 162,
+      "amount": 200,
+      "note": "",
+      "id": 765,
+      "date": "2026-11-14T12:32:48.615Z"
+    },
+    {
+      "customer_id": 228,
+      "amount": 5255,
+      "note": "",
+      "id": 766,
+      "date": "2026-11-14T13:19:36.291Z"
+    },
+    {
+      "customer_id": 131,
+      "amount": 2000,
+      "note": "",
+      "id": 767,
+      "date": "2026-11-14T13:24:36.775Z"
+    },
+    {
+      "customer_id": 8,
+      "amount": 350,
+      "note": "",
+      "id": 768,
+      "date": "2026-11-14T13:34:41.077Z"
+    },
+    {
+      "customer_id": 67,
+      "amount": 2000,
+      "note": "",
+      "id": 769,
+      "date": "2026-11-14T17:10:54.611Z"
+    },
+    {
+      "customer_id": 229,
+      "amount": 820,
+      "note": "",
+      "id": 770,
+      "date": "2026-11-14T17:16:17.159Z"
+    },
+    {
+      "customer_id": 91,
+      "amount": 3000,
+      "note": "",
+      "id": 771,
+      "date": "2026-11-15T09:07:41.019Z"
+    },
+    {
+      "customer_id": 58,
+      "amount": 1000,
+      "note": "",
+      "id": 772,
+      "date": "2026-11-15T15:14:09.972Z"
     }
   ],
   "creditors": [
@@ -89641,6 +89960,56 @@
       "remaining": 1290,
       "id": 194,
       "created_at": "2026-11-05T16:51:57.384Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 16525,
+      "down_payment": 10000,
+      "description": "ا",
+      "date": "2026-11-09",
+      "remaining": 6525,
+      "id": 195,
+      "created_at": "2026-11-09T17:18:37.465Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 635,
+      "down_payment": 0,
+      "description": "ة",
+      "date": "2026-11-09",
+      "remaining": 635,
+      "id": 196,
+      "created_at": "2026-11-09T17:18:50.944Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 240,
+      "down_payment": 0,
+      "description": "ن",
+      "date": "2026-11-09",
+      "remaining": 240,
+      "id": 197,
+      "created_at": "2026-11-09T17:20:07.315Z"
+    },
+    {
+      "creditor_id": 32,
+      "total_amount": 605,
+      "down_payment": 0,
+      "description": "ا",
+      "date": "2026-11-09",
+      "remaining": 605,
+      "id": 198,
+      "created_at": "2026-11-09T17:20:58.505Z"
+    },
+    {
+      "creditor_id": 31,
+      "total_amount": 20000,
+      "down_payment": 0,
+      "description": "بسكوت",
+      "date": "2026-11-14",
+      "remaining": 20000,
+      "id": 199,
+      "created_at": "2026-11-15T15:00:04.946Z"
     }
   ],
   "debt_payments": [
@@ -91341,6 +91710,41 @@
       "note": "مكر",
       "id": 346,
       "date": "2026-11-04T17:14:20.807Z"
+    },
+    {
+      "debt_id": 195,
+      "amount": 10000,
+      "note": "دفعة مقدمة",
+      "id": 347,
+      "date": "2026-11-09T17:18:37.466Z"
+    },
+    {
+      "creditor_id": 32,
+      "amount": 5600,
+      "note": "10حماده",
+      "id": 348,
+      "date": "2026-11-10T16:33:28.534Z"
+    },
+    {
+      "creditor_id": 32,
+      "amount": 1275,
+      "note": "5سكر",
+      "id": 349,
+      "date": "2026-11-10T16:44:08.562Z"
+    },
+    {
+      "creditor_id": 32,
+      "amount": 5000,
+      "note": "",
+      "id": 350,
+      "date": "2026-11-11T17:47:20.381Z"
+    },
+    {
+      "creditor_id": 32,
+      "amount": 1825,
+      "note": "صويا",
+      "id": 351,
+      "date": "2026-11-12T15:37:04.396Z"
     }
   ],
   "treasury": [
@@ -107422,6 +107826,195 @@
       "note": "سداد دفعة - ام محمد سعيد سعد ",
       "id": 2297,
       "date": "2026-11-07T15:38:34.513Z"
+    },
+    {
+      "type": "out",
+      "amount": 10000,
+      "note": "مقدم دين - احمد ربيع",
+      "id": 2298,
+      "date": "2026-11-09T17:18:37.471Z"
+    },
+    {
+      "type": "in",
+      "amount": 5000,
+      "note": "مقدم قسط - شعبان مطعم ",
+      "id": 2299,
+      "date": "2026-11-09T17:24:00.115Z"
+    },
+    {
+      "type": "in",
+      "amount": 1000,
+      "note": "سداد دفعة - سعيد ابوغريب",
+      "id": 2300,
+      "date": "2026-11-09T17:37:13.179Z"
+    },
+    {
+      "type": "in",
+      "amount": 1000,
+      "note": "سداد دفعة - ابو عمرو مجدي",
+      "id": 2301,
+      "date": "2026-11-09T17:37:37.731Z"
+    },
+    {
+      "type": "in",
+      "amount": 500,
+      "note": "سداد دفعة - علي حسن مسعود",
+      "id": 2302,
+      "date": "2026-11-09T18:39:25.357Z"
+    },
+    {
+      "type": "out",
+      "amount": 5600,
+      "note": "سداد دين - احمد ربيع (10حماده)",
+      "id": 2303,
+      "date": "2026-11-10T16:33:28.537Z"
+    },
+    {
+      "type": "out",
+      "amount": 1275,
+      "note": "سداد دين - احمد ربيع (5سكر)",
+      "id": 2304,
+      "date": "2026-11-10T16:44:08.565Z"
+    },
+    {
+      "type": "in",
+      "amount": 6000,
+      "note": "سداد دفعة - رمضان القشاش",
+      "id": 2305,
+      "date": "2026-11-11T14:59:22.491Z"
+    },
+    {
+      "type": "in",
+      "amount": 1500,
+      "note": "سداد دفعة - ام احمد رحيم ",
+      "id": 2306,
+      "date": "2026-11-11T15:20:26.314Z"
+    },
+    {
+      "type": "out",
+      "amount": 5000,
+      "note": "سداد دين - احمد ربيع ",
+      "id": 2307,
+      "date": "2026-11-11T17:47:20.385Z"
+    },
+    {
+      "type": "in",
+      "amount": 480,
+      "note": "سداد دفعة - احمد عبدالله عبد الجواد",
+      "id": 2308,
+      "date": "2026-11-11T19:23:31.129Z"
+    },
+    {
+      "type": "in",
+      "amount": 480,
+      "note": "سداد دفعة - نسيب دسوقي غزاوي ",
+      "id": 2309,
+      "date": "2026-11-12T09:10:46.903Z"
+    },
+    {
+      "type": "in",
+      "amount": 1960,
+      "note": "سداد دفعة - ابر هيم شعبان ",
+      "id": 2310,
+      "date": "2026-11-12T11:56:03.447Z"
+    },
+    {
+      "type": "in",
+      "amount": 300,
+      "note": "سداد دفعة - ام احمد نادي ",
+      "id": 2311,
+      "date": "2026-11-12T14:02:25.031Z"
+    },
+    {
+      "type": "in",
+      "amount": 1000,
+      "note": "سداد دفعة - نسيب دسوقي غزاوي ",
+      "id": 2312,
+      "date": "2026-11-12T14:08:10.917Z"
+    },
+    {
+      "type": "out",
+      "amount": 1825,
+      "note": "سداد دين - احمد ربيع (صويا)",
+      "id": 2313,
+      "date": "2026-11-12T15:37:04.399Z"
+    },
+    {
+      "type": "in",
+      "amount": 4910,
+      "note": "سداد دفعة - رمضان ابو سندي ",
+      "id": 2314,
+      "date": "2026-11-12T18:47:59.658Z"
+    },
+    {
+      "type": "in",
+      "amount": 400,
+      "note": "سداد دفعة - محمد غزاوي ",
+      "id": 2315,
+      "date": "2026-11-13T15:26:02.170Z"
+    },
+    {
+      "type": "in",
+      "amount": 200,
+      "note": "سداد دفعة - ام سليم اختى زكي ",
+      "id": 2316,
+      "date": "2026-11-14T12:32:48.620Z"
+    },
+    {
+      "type": "in",
+      "amount": 5255,
+      "note": "سداد دفعة - ام عمر حصبله",
+      "id": 2317,
+      "date": "2026-11-14T13:19:36.296Z"
+    },
+    {
+      "type": "in",
+      "amount": 2000,
+      "note": "سداد دفعة - جمعه احمد علي شعبان",
+      "id": 2318,
+      "date": "2026-11-14T13:24:36.778Z"
+    },
+    {
+      "type": "in",
+      "amount": 350,
+      "note": "سداد دفعة - ابو عمرو مجدي",
+      "id": 2319,
+      "date": "2026-11-14T13:34:41.081Z"
+    },
+    {
+      "type": "in",
+      "amount": 2000,
+      "note": "سداد دفعة - عبدالله فرحات محل",
+      "id": 2320,
+      "date": "2026-11-14T17:10:54.615Z"
+    },
+    {
+      "type": "in",
+      "amount": 820,
+      "note": "سداد دفعة - محمد علي فرحات برج",
+      "id": 2321,
+      "date": "2026-11-14T17:16:17.166Z"
+    },
+    {
+      "id": 2322,
+      "type": "in",
+      "amount": 25,
+      "note": "فاتورة بيع #1005",
+      "date": "2026-11-15T07:54:55.241Z"
+    },
+    {
+      "type": "in",
+      "amount": 3000,
+      "note": "سداد دفعة - ام محمد اسماعيل ",
+      "id": 2323,
+      "date": "2026-11-15T09:07:41.024Z"
+    },
+    {
+      "type": "in",
+      "amount": 1000,
+      "note": "سداد دفعة - محمود فتحي عبد التواب ",
+      "id": 2324,
+      "date": "2026-11-15T15:14:09.976Z"
     }
   ],
   "expenses": [
@@ -108794,7 +109387,37 @@
     {
       "username": "امير",
       "id": 203,
-      "opened_at": "2026-11-08T18:42:11.552Z",
+      "opened_at": "2026-11-09T17:08:13.763Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 204,
+      "opened_at": "2026-11-10T16:33:02.150Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 205,
+      "opened_at": "2026-11-11T10:26:35.798Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 206,
+      "opened_at": "2026-11-11T14:35:09.008Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 207,
+      "opened_at": "2026-11-14T09:05:14.982Z",
+      "closed_at": null
+    },
+    {
+      "username": "امير",
+      "id": 208,
+      "opened_at": "2026-11-15T18:08:07.552Z",
       "closed_at": null
     }
   ],
