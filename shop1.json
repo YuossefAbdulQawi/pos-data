@@ -83911,6 +83911,16 @@
       "remaining": 6350,
       "id": 1045,
       "created_at": "2026-11-18T14:29:44.781Z"
+    },
+    {
+      "customer_id": 67,
+      "total_amount": 5700,
+      "down_payment": 0,
+      "description": "نحاله",
+      "date": "2026-11-15",
+      "remaining": 5700,
+      "id": 1046,
+      "created_at": "2026-11-18T14:58:19.216Z"
     }
   ],
   "inst_payments": [
